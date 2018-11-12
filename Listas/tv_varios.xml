@@ -1,1 +1,4 @@
-dfgehg
+#EXTM3U
+#EXTINF:0,beIN SPORTS HD1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/hhh/hhh/12075.m3u8
+#EXTINF:0,BeIN SPORTS SD1
