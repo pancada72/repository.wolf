@@ -1,0 +1,62 @@
+#EXTM3U
+
+
+
+#EXTINF:0, [COLOR  red][B] LINHA 1[/B][/COLOR]
+#EXTINF:0,Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12545
+#EXTINF:0,Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12545
+#EXTINF:0,Eleven Sport 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12546
+#EXTINF:0,Eleven Sport 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12547
+#EXTINF:0,Eleven Sport 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12548
+#EXTINF:0,Eleven Sport 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12549
+#EXTINF:0,Eleven Sport 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12550
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+#EXTINF:0, [COLOR  red][B] LINHA 2[/B][/COLOR]
+#EXTINF:0,Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12545
+#EXTINF:0,Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12545
+#EXTINF:0,Eleven Sport 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12546
+#EXTINF:0,Eleven Sport 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12547
+#EXTINF:0,Eleven Sport 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12548
+#EXTINF:0,Eleven Sport 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12549
+#EXTINF:0,Eleven Sport 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12550
+
+
+#EXTINF:0, [COLOR  red][B] LINHA 3[/B][/COLOR]
+#EXTINF:0,PT: Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127738
+#EXTINF:0,PT: Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127738
+#EXTINF:0,PT: ELEVEN SPORTS 1 HD NET FRACA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133685
+#EXTINF:0,PT: Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127739
+#EXTINF:0,PT: ELEVEN SPORTS 2 HD NET FRACA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133687
+#EXTINF:0,PT: Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127740
+#EXTINF:0,PT: Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127741
+#EXTINF:0,PT: Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127742
+#EXTINF:0,PT: Eleven Sports 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127743

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Sport TV 1HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/hhh/hhh/5035.m3u8
+#EXTINF:-1,Sport TV 2HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/hhh/hhh/5034.m3u8
+#EXTINF:-1,Sport TV 3HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/hhh/hhh/5033.m3u8
+#EXTINF:-1,Sport TV 4HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/hhh/hhh/5032.m3u8
+#EXTINF:-1,Sport TV 5HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/hhh/hhh/5031.m3u8
