@@ -17,8 +17,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLORorange][B]Flecha Negra Ã© um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR][/B]</summary>
-    <description lang="en">[COLORorange][B]Flecha Negra Ã© um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR][/B]</description>
+    <summary lang="en">[COLORorange][B]Flecha Negra é um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR][/B]</summary>
+    <description lang="en">[COLORorange][B]Flecha Negra é um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR][/B]</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -46,11 +46,11 @@
   </extension>
 </addon>
 
-<addon id="repository.wolf" name="[COLOR green][B].Repository[/B][/COLOR][COLOR white][B]do[/B][/COLOR][COLOR red][B]Worf[/B][/COLOR]" version="0.0.1" provider-name="Wolf">
+<addon id="repository.wolf" name="[COLOR green][B].Repository[/B][/COLOR][COLOR white][B].[/B][/COLOR][COLOR red][B]Wolf[/B][/COLOR]" version="0.0.1" provider-name="Wolf">
 	<extension point="xbmc.addon.repository" name="Wolf">
         <info compressed="false">https://raw.githubusercontent.com/pancada72/repository.wolf/master/addons.xml</info>
         <checksum>http://raw.githubusercontent.com/pancada72/repository.wolf/master/addons.xml.md5</checksum>
-        <datadir zip="true">http://raw.githubusercontent.com/pancada72/repository.wolf/master/repo/</datadir>
+        <datadir zip="true">http://raw.githubusercontent.com/pancada72/repository.wolf/master/addons/</datadir>
 	</extension>
 		<extension point="xbmc.addon.metadata">
 		<summary>O Wolf</summary>
