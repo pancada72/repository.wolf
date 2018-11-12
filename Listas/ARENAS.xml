@@ -1,0 +1,1882 @@
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»» [/COLOR] AGENDA ARENAVISION (ALL)[/I][/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.avezy/?action=mostrar_agenda</jsonrpc>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»» [/COLOR] AGENDA P2P SPORT ADDON[/I][/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=livefootballvideo.com</jsonrpc>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV1[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 01 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/01</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV2[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 02 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/02</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV3[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 03 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/03</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV4[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 04 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/04</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV5[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 05 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/05</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV6[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 06 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/06</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV7[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 07 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/07</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV8[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 08 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/08</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV9[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 09 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/09</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV10[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 10 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/10</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV11[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 11 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/11</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV12[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 12 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/12</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV13[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 13 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/13</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV 14[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 14 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/14</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV 15[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 15 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/15</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV16[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 16 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/16</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV17[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 17 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/17</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV18[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 18 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/18</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV19[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 19 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/19</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV20[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 20 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/20</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV21[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 21 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/21</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV22[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 22 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/22</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV23[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 23 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/23</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV24[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 24 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/24</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV25[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 25 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/25</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV 26[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 26 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/26</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV27[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 27 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/27</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV28[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 28 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/28</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV29[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 29 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/29</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV30[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 30 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/30</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV 31[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 31 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/31</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV32[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 32 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/32</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV33[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 33 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/33</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV34[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 34 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/34</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV35[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 35 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/35</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV36[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 36 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/36</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV37[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 37 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/37</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV38[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 38 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/38</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV39[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 39 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/39</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV40[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 40 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/40</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV41[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 41 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/41</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV42[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 42 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/42</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]wolf AV43[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 43 (PLEXUS)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn5.arenavision.link/43</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green] wolf AV44[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 44 (PLEXUS)</link>
+<regex>
+
+
+
+
+#######################################################################################################################################
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 1[/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 1</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/01</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 1 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 1</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/01</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 2[/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 2</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/02</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 2 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 2</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/02</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 3 [/B][/COLOR][COLOR=red](Plexus) [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 3</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/03</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 3 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 3</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/03</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 4[/B][/COLOR][COLOR=red]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 4</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/04</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 4 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 4</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/04</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 5[/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 5</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/05</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 5 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 5</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/05</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 6[/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 6</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/06</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 6 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 6</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/06</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 7[/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 7</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/07</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 7 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 7</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/07</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 8[/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 8</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/08</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 8 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 8</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/08</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 9[/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 9</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/09</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>  
+ 
+ 
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 9 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 9</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/09</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>          
+ 
+                       
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 10 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 10</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/10</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 10 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 10</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/10</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 11 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 11</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/11</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 11 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 11</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/11</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 12 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 12</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/12</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 12 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 12</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/12</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 13 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 13</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/13</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 13 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 13</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/13</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 14 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 14</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/14</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 14 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 14</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/14</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 15 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 15</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/15</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 15 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 15</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/15</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 16 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 16</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/16</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 16 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 16</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/16</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 17 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 17</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/17</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 17 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 17</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/17</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 18 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 18</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/18</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 18 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 18</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/18</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+                                                                                                                                           
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 19 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 19</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/10</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 19 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 19</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/19</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 20 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 20</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/20</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 20 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 20</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/20</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 21 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 21</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/21</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 21 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 21</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/21</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 22 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 22</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/22</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 22 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 22</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/22</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 23 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 23</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/23</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 23 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 23</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/23</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 24  [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 24</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/24</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 24 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 24</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/24</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 25 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 25</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/25</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 25 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 25</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/25</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 26  [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 26</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/26</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 26 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 26</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/26</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 27 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 27</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/27</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 27 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 27</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/27</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 28 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 28</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/28</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 28 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 28</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/28</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 29 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 29</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/29</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 29 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 29</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/29</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 30 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 30</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/30</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 30 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 30</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/30</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 31 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 31</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/31</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 31 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 31</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/31</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 32 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 32</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/32</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 32 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 32</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/32</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 33 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 33</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/33</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 33 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 33</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/33</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 34 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 34</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/34</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 34 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 34</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/34</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 35 [/B][/COLOR][COLOR=red] PLEXUS [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 35</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/35</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR green][B] wolf[/COLOR][COLOR red]AV•[/B][/COLOR][COLOR green][B] 35 [/B][/COLOR][COLOR=orange] (P2P) [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=wolfAV 35</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://cdn.arenavision.biz/35</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+
+thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/myLPBu5.jpg</fanart>
+</regex>
+</item>
+
+
+
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: EUROSPORT 1 DE[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://d6a3bba6ef84b32460c99b94beb8b429edc0f5d0&amp;mode=1&amp;name=EUROSPORT 1 DE</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]ES: REAL MADRID TV HD[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://c5e4a5e918f0d228d3fa22706579ebe10350894c&amp;mode=1&amp;name=REAL MADRID TV HD</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI SPORT 1[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://c3f4c54d1133be672416ecba1f983247fa1e05f4&amp;mode=1&amp;name=RAI SPORT 1</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]US: FOX SPORTS 1 USA[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://77761cd24977c487f8cd864832dfc4696e57eb6c&amp;mode=1&amp;name=FOX SPORTS 1 USA</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]US: NFL NOW[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://5dfe41fcaf59af1bb9e3376f8ef304f5213d97ea&amp;mode=1&amp;name=NFL NOW</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: SIC[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://e1ebd22fa0f2d2565668f5305e8ec5f2fdf953f3&amp;mode=1&amp;name=SIC</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: SIC[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://a74186166d8e49cd0ca9f8935193ab2e074699a9&amp;mode=1&amp;name=SIC</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: SIC NOTICIAS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://59220530b75c8a29db8d2831659b05990bc8f43b&amp;mode=1&amp;name=SIC NOTICIAS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: SIC NOTICIAS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://274a7d5f7b03ed889a355562e67c937e09b2ad9e&amp;mode=1&amp;name=SIC NOTICIAS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: SIC RADICAL[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://3906c4a9ce25ec10fc7780f1980fdb6c497d77d5&amp;mode=1&amp;name=SIC RADICAL</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: SIC RADICAL[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://6bae80c24f7b7f68cf33fd2a1b3411b951ccc41e&amp;mode=1&amp;name=SIC RADICAL</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: MTV HITS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://b6e4624357589f6d84a22948304f8803336dc3d7&amp;mode=1&amp;name=MTV HITS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: MTV ROCKS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://9afbff6d3ff305606efc8d2ff18dfdf5c206eb59&amp;mode=1&amp;name=MTV ROCKS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: VH1 CLASSIC[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://db0b1b76f4392502261fda55ec5f0aee653d1230&amp;mode=1&amp;name=VH1 CLASSIC</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: VH1 EUROPE[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://1136679c38692a57e278191719809344b4cc892a&amp;mode=1&amp;name=VH1 EUROPE</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]PT: BBC WORLD NEWS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://603464cf7bbacead3f4cbda6ac501bb2a3d12267&amp;mode=1&amp;name=BBC WORLD NEWS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: 3SAT[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://c4ecfcfea76db92d8d4fb26dbe54d04965cdec44&amp;mode=1&amp;name=3SAT</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: DELUXE MUSIC[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://23ccc5d5b25482c58d87ae16f04e9cfd9d60a866&amp;mode=1&amp;name=DELUXE MUSIC</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: DEUTSCHES MUSIK FERNSEHEN[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://80fa40d849c85150df1bc11f1d03274dcbe616f6&amp;mode=1&amp;name=DEUTSCHES MUSIK FERNSEHEN</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: EUROSPORT 1 DE[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://d6a3bba6ef84b32460c99b94beb8b429edc0f5d0&amp;mode=1&amp;name=EUROSPORT 1 DE</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: NITRO[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://e42597551b0ea449608fefbb2ec317282b778553&amp;mode=1&amp;name=NITRO</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: RTL II[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://934a7fa853f432ee269e7759be284ab6ac08426b&amp;mode=1&amp;name=RTL II</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: RTLPLUS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://87fc33abfc2712ba99bc0fa9976f9cfd40b63934&amp;mode=1&amp;name=RTLPLUS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: SONNENKLAR TV[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://bfc3a049bc05f24d8deafea6e9f3005d0fbe77ec&amp;mode=1&amp;name=SONNENKLAR TV</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: SUPER RTL[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://64c7a3f874555ad3d4d381d183f58b9da4023f55&amp;mode=1&amp;name=SUPER RTL</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: TAGESSCHAU24[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://f4ac3a2b7fa5c513497456437d6cc5d4ff7157b5&amp;mode=1&amp;name=TAGESSCHAU24</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: TOGGO PLUS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://d735d189711f87a499b9b92fb1c3a06e316d4a1c&amp;mode=1&amp;name=TOGGO PLUS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: VOX[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://1379f02ffb5429e10aa8ca24c59a4159087122de&amp;mode=1&amp;name=VOX</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: ZDF[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://564983984020f440146d1aad5965580c108f91a9&amp;mode=1&amp;name=ZDF</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]DE: ZDFINFO[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://d68d0c130ab92d81a45992bbfeb7fac3cf4b1afa&amp;mode=1&amp;name=ZDFINFO</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<title>[B][COLOR orange]• [COLOR green][COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://ZDF neo&amp;mode=1&amp;name=</link>
+<title>[B][COLOR orange]• [COLOR green][COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<item>
+<title>[B][COLOR orange]• [COLOR green]ES: TV GALICIA[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://cfb54f699664cd66a0db9c9268c3295ccc9677f9&amp;mode=1&amp;name=TV GALICIA</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: BFM BUSINESS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://eda06e860eb3cfa44075e6afa7e4e7a209af1d4e&amp;mode=1&amp;name=BFM BUSINESS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: BFM BUSINESS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://eda06e860eb3cfa44075e6afa7e4e7a209af1d4e&amp;mode=1&amp;name=BFM BUSINESS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: BFM TV[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://2d5c99fd53e2d592a5efbefe44c90e8cad292f1a&amp;mode=1&amp;name=BFM TV</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: EURONEWS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://3f99c1131e72f6912621ceed34814d9ad8da2f67&amp;mode=1&amp;name=EURONEWS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: FRANCE 24 FR[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://04c367f3523ced32a8651b8895e0413f3ebe6e2d&amp;mode=1&amp;name=FRANCE 24 FR</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: MEZZO[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://7e9a662ff63256e7cadc7f0cb406a6f8b2321f7b&amp;mode=1&amp;name=MEZZO</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: MEZZO LIVE HD[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://59d3e0f5e1b5034986f94fbf11a57d0355906444&amp;mode=1&amp;name=MEZZO LIVE HD</link>
+<thumbnail>vhttps://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]FR: TV5 MONDE[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://ede3f7abf19cb44e232136b419583c48523cfeaf&amp;mode=1&amp;name=TV5 MONDE</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: EURONEWS[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=EURONEWS</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI 1[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://35dd0c9aac23af8a5b317c55ac2a2cdb76511947&amp;mode=1&amp;name=RAI 1</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI 2[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://6b8bf1b6f93d6a38cca3daefcc5f99820f3d24ab&amp;mode=1&amp;name=RAI 2</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI 3[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://78d057aa8bf1a5092f47569133886fb1b21a0cee&amp;mode=1&amp;name=RAI 3</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI 4 HD[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://d9b1ce66912c0a2e135f6229f82dee8dd4325e68&amp;mode=1&amp;name=RAI 4 HD</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI MOVIE HD[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://de7a9fb6370ad885900ea320a0e7ec7d4fe2c819&amp;mode=1&amp;name=RAI MOVIE HD</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI NEWS 24[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://3e4bd98dfa34373ceed392e88ef3bfce07fad334&amp;mode=1&amp;name=RAI NEWS 24</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR orange]• [COLOR green]IT: RAI PREMIUM HD[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://3e6c0960fa5f0062b81db29e49aa594b496dd34e&amp;mode=1&amp;name=RAI PREMIUM HD</link>
+<thumbnail>https://i.imgur.com/e9oeAfQ.jpg</thumbnail>
