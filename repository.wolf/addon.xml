@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Worf" name="[COLOR green][B].Repository[/B][/COLOR][COLOR white][B]do[/B][/COLOR][COLOR red][B]Worf[/B][/COLOR]" version="0.0.1" provider-name="Worf">
+<addon id="repository.worf" name="[COLOR green][B].Repository[/B][/COLOR][COLOR white][B]do[/B][/COLOR][COLOR red][B]Worf[/B][/COLOR]" version="0.0.1" provider-name="Worf">
 	<extension point="xbmc.addon.repository" name="Worf">
         <info compressed="false">https://raw.githubusercontent.com/pancada72/repository.worf/master/addons.xml</info>
         <checksum>http://raw.githubusercontent.com/pancada72/repository.worf/master/addons.xml.md5</checksum>
