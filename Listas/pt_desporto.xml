@@ -10,6 +10,8 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 #EXTINF:0,[COLOR  red][B] LINHA 1[/B][/COLOR]
 #EXTINF:0,PT: Sport TV
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16303.m3u8
+#EXTINF:0,PT: Sport TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16303.m3u8
 #EXTINF:0,PT: Sport TV 1HD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16308.m3u8
 #EXTINF:0,PT: Sport TV 2HD
