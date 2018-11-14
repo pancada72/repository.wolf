@@ -61,19 +61,20 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 3[/B][/COLOR]
-#EXTINF:0,PT: Sport TV1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8179.m3u8
-#EXTINF:0,PT: Sport TV2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8178.m3u8
-#EXTINF:0,PT: Sport TV3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8177.m3u8
-#EXTINF:0,PT: Sport TV 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8181.m3u8
-#EXTINF:0,PT: Sport TV 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8180.m3u8
-#EXTINF:0,PT:BENFICA TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8165.m3u8
-#EXTINF:0,PT:BENFICA TV 2
+#EXTINF:0,PT: Benfica TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16301.m3u8
+#EXTINF:0,PT: Sport TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16303.m3u8
+#EXTINF:0,PT: Sport TV 1HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16308.m3u8
+#EXTINF:0,PT: Sport TV 2HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16307.m3u8
+#EXTINF:0,PT: Sport TV 3HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16306.m3u8
+#EXTINF:0,PT: Sport TV 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16305.m3u8
+#EXTINF:0,PT: Sport TV 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16304.m3u8
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 4[/B][/COLOR]

@@ -27,21 +27,18 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 
 
 #EXTINF:0, [COLOR  red][B] LINHA 2[/B][/COLOR]
-#EXTINF:0,Eleven Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12545
-#EXTINF:0,Eleven Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12545
-#EXTINF:0,Eleven Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12546
-#EXTINF:0,Eleven Sport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12547
-#EXTINF:0,Eleven Sport 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12548
-#EXTINF:0,Eleven Sport 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12549
-#EXTINF:0,Eleven Sport 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/12550
-
+#EXTINF:0,PT: Eleven Sporm3u8 1HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16314.m3u8
+#EXTINF:0,PT: Eleven Sporm3u8 2HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16313.m3u8
+#EXTINF:0,PT: Eleven Sporm3u8 3HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16312.m3u8
+#EXTINF:0,PT: Eleven Sporm3u8 4HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16311.m3u8
+#EXTINF:0,PT: Eleven Sporm3u8 5HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16310.m3u8
+#EXTINF:0,PT: Eleven Sporm3u8 6HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16309.m3u8
 
 #EXTINF:0, [COLOR  red][B] LINHA 3[/B][/COLOR]
 #EXTINF:0,PT: Eleven Sports 1 HD
