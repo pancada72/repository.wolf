@@ -8,42 +8,20 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 1[/B][/COLOR]
-#EXTINF:0,PT: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65574
-#EXTINF:0,PT: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65574
-#EXTINF:0,PT: SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65573
-#EXTINF:0,PT: SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65571
-#EXTINF:0,PT: SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65570
+#EXTINF:0,PT: Sport TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16303.m3u8
+#EXTINF:0,PT: Sport TV 1HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16308.m3u8
+#EXTINF:0,PT: Sport TV 2HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16307.m3u8
+#EXTINF:0,PT: Sport TV 3HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16306.m3u8
+#EXTINF:0,PT: Sport TV 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16305.m3u8
 #EXTINF:0,PT: Sport TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65569
-#EXTINF:0,PT: SPORT TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/99265
-#EXTINF:0,PT: Sport TV Mais
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/114314
-#EXTINF:0,PT: Sport TV+ HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/84174
-#EXTINF:0,PT: SPORTING TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65568
-#EXTINF:0,PT: SportTV 1 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/107820
-#EXTINF:0,PT: SportTV 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/107821
-#EXTINF:0,PT: SportTV 3 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/107822
-#EXTINF:0,PT: SportTV 4 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/107823
-#EXTINF:0,PT: SportTV 5 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/107824
-#EXTINF:0,PT: SPORTV 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/108823
-#EXTINF:0,PT: SPORTV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133716
-#EXTINF:0,PT: SPORTV1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133717
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16304.m3u8
+#EXTINF:0,PT: Benfica TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16301.m3u8
 
 
 
