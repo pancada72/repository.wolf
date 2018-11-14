@@ -16,3 +16,13 @@
 <fanart>https://www.myactivesg.com/~/media/Consumer/Images/Sports/Thumbnails%20for%20Sports%20Landing%20Page/Football%20Sport%20Thumbnail%20600x400.jpg</fanart>
 <info>wolf</info>
 </channel>
+
+
+<channels>
+<channel>
+<name>[COLOR  yellow][B] TV BRASIL[/B][/COLOR]</name>
+<thumbnail>https://vignette.wikia.nocookie.net/transformersprime/images/4/46/Foto-da-Bandeira-do-Brasil.jpg/revision/latest?cb=20150602193225</thumbnail>
+<externallink>https://raw.githubusercontent.com/pancada72/repository.wolf/master/Listas/TV%20BRASIL.xml</externallink>
+<fanart>http://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/imagem_destaque_padrao.png</fanart>
+<info>wolf</info>
+</channel>
