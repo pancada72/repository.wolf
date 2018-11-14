@@ -29,7 +29,7 @@
 <item>
 <title>[COLOR red][B] heckletstech  [/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/channel/UCxZb4yFciSbTCQp2ZKWSutg/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCxZb4yFciSbTCQp2ZKWSutg/</jsonrpc>
 <thumbnail>http://www.wpcollege.com.br/wp-content/uploads/2014/04/botao_dicas-tutoriaisNews2.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -37,7 +37,7 @@
 <item>
 <title>[COLOR red][B] Carlos Correia  [/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/channel/UCnxZhlqjYfEA-pT51lDC-xA/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCnxZhlqjYfEA-pT51lDC-xA/featured/</jsonrpc>
 <thumbnail>http://www.wpcollege.com.br/wp-content/uploads/2014/04/botao_dicas-tutoriaisNews2.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -45,7 +45,7 @@
 <item>
 <title>[COLOR red][B] newtechevolution  [/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/channel/UCOQVoYzsSlRnDNIBWe2dY4g/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCOQVoYzsSlRnDNIBWe2dY4g/</jsonrpc>
 <thumbnail>http://www.wpcollege.com.br/wp-content/uploads/2014/04/botao_dicas-tutoriaisNews2.jpg</thumbnail>
 <fanart></fanart>
 </item>
