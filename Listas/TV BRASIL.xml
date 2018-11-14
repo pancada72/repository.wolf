@@ -1,1447 +1,364 @@
 #EXTM3U
-#EXTINF:0,A&E
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2346.ts
-#EXTINF:0,A&E [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13681.ts
-#EXTINF:0,A&E [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7495.ts
-#EXTINF:0,A&E HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7088.ts
-#EXTINF:0,A&E HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13682.ts
-#EXTINF:0,A&E HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7494.ts
-#EXTINF:0,Agro Canal
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11206.ts
-#EXTINF:0,AMC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2345.ts
-#EXTINF:0,AMC [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13683.ts
-#EXTINF:0,AMC [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7493.ts
-#EXTINF:0,AMC HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2344.ts
-#EXTINF:0,AMC HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13686.ts
-#EXTINF:0,AMC HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7492.ts
-#EXTINF:0,Animal  Planet FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7151.ts
-#EXTINF:0,Animal Planet
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2343.ts
-#EXTINF:0,Animal Planet [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13695.ts
-#EXTINF:0,Animal Planet [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7491.ts
-#EXTINF:0,Animal Planet HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2342.ts
-#EXTINF:0,Animal Planet HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13696.ts
-#EXTINF:0,Animal Planet HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7490.ts
-#EXTINF:0,Aparecida
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2341.ts
-#EXTINF:0,Arte 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2339.ts
-#EXTINF:0,Arte 1 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7489.ts
-#EXTINF:0,Arte 1 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7488.ts
-#EXTINF:0,AXN
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2338.ts
-#EXTINF:0,AXN [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13697.ts
-#EXTINF:0,AXN [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7487.ts
-#EXTINF:0,AXN HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2337.ts
-#EXTINF:0,AXN HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13698.ts
-#EXTINF:0,AXN HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7486.ts
-#EXTINF:0,Baby TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2336.ts
-#EXTINF:0,Baby TV [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7485.ts
-#EXTINF:0,Band
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2335.ts
-#EXTINF:0,Band [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13699.ts
-#EXTINF:0,Band [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7484.ts
-#EXTINF:0,Band FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7188.ts
-#EXTINF:0,Band HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2334.ts
-#EXTINF:0,Band HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13700.ts
-#EXTINF:0,Band HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7483.ts
-#EXTINF:0,Band News
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2333.ts
-#EXTINF:0,Band News [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13771.ts
-#EXTINF:0,Band News [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7482.ts
-#EXTINF:0,Band News FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7150.ts
-#EXTINF:0,Band News HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13772.ts
-#EXTINF:0,Band News HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7481.ts
-#EXTINF:0,Band Sports
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2332.ts
-#EXTINF:0,Band Sports [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13773.ts
-#EXTINF:0,Band Sports [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7480.ts
-#EXTINF:0,Band Sports HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2331.ts
-#EXTINF:0,Band Sports HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13774.ts
-#EXTINF:0,Band Sports HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7479.ts
-#EXTINF:0,BIS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2330.ts
-#EXTINF:0,BIS [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7478.ts
-#EXTINF:0,BIS FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7162.ts
-#EXTINF:0,BIS HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2329.ts
-#EXTINF:0,BIS HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7477.ts
-#EXTINF:0,Boa Vontade
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7476.ts
-#EXTINF:0,Boomerang
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2328.ts
-#EXTINF:0,Boomerang  FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7149.ts
-#EXTINF:0,Boomerang [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7475.ts
-#EXTINF:0,Boomerang HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7474.ts
-#EXTINF:0,Canal Brasil [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7473.ts
-#EXTINF:0,Canal Brasil HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7472.ts
-#EXTINF:0,Canal do Boi
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11574.ts
-#EXTINF:0,Canal Sony
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2325.ts
-#EXTINF:0,Canal Sony [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7471.ts
-#EXTINF:0,Canal Sony HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2324.ts
-#EXTINF:0,Canal Sony HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7470.ts
-#EXTINF:0,Cancao Nova
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2323.ts
-#EXTINF:0,Cancao Nova [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7469.ts
-#EXTINF:0,Cartoon Network
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2322.ts
-#EXTINF:0,Cartoon Network [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13701.ts
-#EXTINF:0,Cartoon Network [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7468.ts
-#EXTINF:0,Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2321.ts
-#EXTINF:0,Cartoon Network HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13702.ts
-#EXTINF:0,Cartoon Network HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7467.ts
-#EXTINF:0,Cine Sky
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/9092.ts
-#EXTINF:0,CineMais
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/9093.ts
-#EXTINF:0,Cinemax
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2320.ts
-#EXTINF:0,Cinemax [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7466.ts
-#EXTINF:0,Cinemax HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7089.ts
-#EXTINF:0,Cinemax HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7465.ts
-#EXTINF:0,Combate
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2319.ts
-#EXTINF:0,Combate [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13630.ts
-#EXTINF:0,Combate [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7464.ts
-#EXTINF:0,Combate FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7187.ts
-#EXTINF:0,Combate HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2318.ts
-#EXTINF:0,Combate HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13631.ts
-#EXTINF:0,Combate HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7463.ts
-#EXTINF:0,Comedy Central
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2317.ts
-#EXTINF:0,Comedy Central [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7462.ts
-#EXTINF:0,Comedy Central HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7098.ts
-#EXTINF:0,Comedy Central HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7461.ts
-#EXTINF:0,Curta
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7110.ts
-#EXTINF:0,Curta [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7460.ts
-#EXTINF:0,Curta HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7459.ts
-#EXTINF:0,Discovery Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2316.ts
-#EXTINF:0,Discovery Channel [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13703.ts
-#EXTINF:0,Discovery Channel [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7458.ts
-#EXTINF:0,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7163.ts
-#EXTINF:0,Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2315.ts
-#EXTINF:0,Discovery Channel HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13704.ts
-#EXTINF:0,Discovery Channel HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7457.ts
-#EXTINF:0,Discovery Civilization [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13705.ts
-#EXTINF:0,Discovery Civilization [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7456.ts
-#EXTINF:0,Discovery Civilization HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2130.ts
-#EXTINF:0,Discovery Civilization HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13706.ts
-#EXTINF:0,Discovery Civilization HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7455.ts
-#EXTINF:0,Discovery Home Health
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2314.ts
-#EXTINF:0,Discovery Home Health [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13707.ts
-#EXTINF:0,Discovery Home Health [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7454.ts
-#EXTINF:0,Discovery Home Health FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7148.ts
-#EXTINF:0,Discovery Home Health HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2313.ts
-#EXTINF:0,Discovery Home Health HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13708.ts
-#EXTINF:0,Discovery Home Health HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7453.ts
-#EXTINF:0,Discovery Kids
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2312.ts
-#EXTINF:0,Discovery Kids [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13709.ts
-#EXTINF:0,Discovery Kids [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7452.ts
-#EXTINF:0,Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7147.ts
-#EXTINF:0,Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2146.ts
-#EXTINF:0,Discovery Kids HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13710.ts
-#EXTINF:0,Discovery Kids HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7451.ts
-#EXTINF:0,Discovery Science [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13711.ts
-#EXTINF:0,Discovery Science [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7450.ts
-#EXTINF:0,Discovery Science HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2129.ts
-#EXTINF:0,Discovery Science HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13712.ts
-#EXTINF:0,Discovery Science HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7449.ts
-#EXTINF:0,Discovery Theater [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13713.ts
-#EXTINF:0,Discovery Theater [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7448.ts
-#EXTINF:0,Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2311.ts
-#EXTINF:0,Discovery Theater HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13714.ts
-#EXTINF:0,Discovery Theater HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7447.ts
-#EXTINF:0,Discovery Turbo
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2310.ts
-#EXTINF:0,Discovery Turbo [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13715.ts
-#EXTINF:0,Discovery Turbo [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7446.ts
-#EXTINF:0,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7146.ts
-#EXTINF:0,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2309.ts
-#EXTINF:0,Discovery Turbo HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13716.ts
-#EXTINF:0,Discovery Turbo HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7445.ts
-#EXTINF:0,Discovery World  HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7443.ts
-#EXTINF:0,Discovery World [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7444.ts
-#EXTINF:0,Discovery World FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7145.ts
-#EXTINF:0,Discovery World HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2308.ts
-#EXTINF:0,Disney Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2307.ts
-#EXTINF:0,Disney Channel [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7442.ts
-#EXTINF:0,Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7161.ts
-#EXTINF:0,Disney Channel HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2128.ts
-#EXTINF:0,Disney Channel HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7441.ts
-#EXTINF:0,Disney Junior
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2306.ts
-#EXTINF:0,Disney Junior [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7440.ts
-#EXTINF:0,Disney Junior HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13795.ts
-#EXTINF:0,Disney XD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2305.ts
-#EXTINF:0,Disney XD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7439.ts
-#EXTINF:0,Dogtv
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7438.ts
-#EXTINF:0,Dogtv HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7437.ts
-#EXTINF:0,E! Entertainment Television
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2304.ts
-#EXTINF:0,E! Entertainment Television [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7436.ts
-#EXTINF:0,E! Entertainment Television HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7090.ts
-#EXTINF:0,E! Entertainment Television HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7435.ts
-#EXTINF:0,ESPN
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2303.ts
-#EXTINF:0,ESPN [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7434.ts
-#EXTINF:0,ESPN [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13956.ts
-#EXTINF:0,ESPN HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2302.ts
-#EXTINF:0,ESPN HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7427.ts
-#EXTINF:0,ESPN HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13957.ts
-#EXTINF:0,ESPN +
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7111.ts
-#EXTINF:0,ESPN + HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7099.ts
-#EXTINF:0,ESPN+  [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7433.ts
-#EXTINF:0,ESPN + [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13960.ts
-#EXTINF:0,ESPN + HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7432.ts
-#EXTINF:0,ESPN + HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13961.ts
-#EXTINF:0,ESPN Brasil
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2301.ts
-#EXTINF:0,ESPN Brasil [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7431.ts
-#EXTINF:0,ESPN Brasil [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13959.ts
-#EXTINF:0,ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2300.ts
-#EXTINF:0,ESPN Brasil HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7430.ts
-#EXTINF:0,ESPN Brasil HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13958.ts
-#EXTINF:0,ESPN Brasil FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7172.ts
-#EXTINF:0,ESPN Extra
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7429.ts
-#EXTINF:0,ESPN Extra FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7136.ts
-#EXTINF:0,ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7428.ts
-#EXTINF:0,ESPN FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7160.ts
-#EXTINF:0,Esporte Interativo 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2297.ts
-#EXTINF:0,Esporte Interativo HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2295.ts
-#EXTINF:0,Fish TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2294.ts
-#EXTINF:0,Fish TV [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7420.ts
-#EXTINF:0,Fish TV HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7419.ts
-#EXTINF:0,Food Network
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2293.ts
-#EXTINF:0,Food Network [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13723.ts
-#EXTINF:0,Food Network [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7418.ts
-#EXTINF:0,Food Network HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2144.ts
-#EXTINF:0,Food Network HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13724.ts
-#EXTINF:0,Food Network HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7417.ts
-#EXTINF:0,FOX
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2292.ts
-#EXTINF:0,FOX [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7416.ts
-#EXTINF:0,FOX FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7186.ts
-#EXTINF:0,FOX HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2291.ts
-#EXTINF:0,FOX HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7415.ts
-#EXTINF:0,Fox Life
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2290.ts
-#EXTINF:0,Fox Life [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7414.ts
-#EXTINF:0,Fox Life HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2289.ts
-#EXTINF:0,Fox Life HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7413.ts
-#EXTINF:0,Fox Premium 1 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7412.ts
-#EXTINF:0,Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2288.ts
-#EXTINF:0,Fox Premium 1 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7411.ts
-#EXTINF:0,Fox Premium 2 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7410.ts
-#EXTINF:0,Fox Premium 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7144.ts
-#EXTINF:0,Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2287.ts
-#EXTINF:0,Fox Premium 2 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7409.ts
-#EXTINF:0,Fox Sport HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2286.ts
-#EXTINF:0,Fox Sports
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2285.ts
-#EXTINF:0,Fox Sports [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13757.ts
-#EXTINF:0,Fox Sports [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7408.ts
-#EXTINF:0,Fox Sports 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2284.ts
-#EXTINF:0,Fox Sports 2 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13759.ts
-#EXTINF:0,Fox Sports 2 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7406.ts
-#EXTINF:0,FOX Sports 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2283.ts
-#EXTINF:0,Fox Sports 2 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13760.ts
-#EXTINF:0,Fox Sports 2 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7405.ts
-#EXTINF:0,Fox Sports FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7171.ts
-#EXTINF:0,Fox Sports HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13758.ts
-#EXTINF:0,Fox Sports HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7407.ts
-#EXTINF:0,FOX Sportv 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7157.ts
-#EXTINF:0,Futura
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2282.ts
-#EXTINF:0,Futura [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7404.ts
-#EXTINF:0,Futura HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7403.ts
-#EXTINF:0,FX
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2281.ts
-#EXTINF:0,FX [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7402.ts
-#EXTINF:0,FX HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2280.ts
-#EXTINF:0,FX HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7401.ts
-#EXTINF:0,Globo News
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2274.ts
-#EXTINF:0,Globo News [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13739.ts
-#EXTINF:0,Globo News [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7392.ts
-#EXTINF:0,Globo News FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7156.ts
-#EXTINF:0,Globo News HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2273.ts
-#EXTINF:0,Globo News HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13740.ts
-#EXTINF:0,Globo News HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7391.ts
-#EXTINF:0,Globo Bahia
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7105.ts
-#EXTINF:0,Globo Bahia [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13751.ts
-#EXTINF:0,Globo Bahia [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7376.ts
-#EXTINF:0,Globo Bahia HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13752.ts
-#EXTINF:0,Globo Bahia HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7375.ts
-#EXTINF:0,Globo Bauru
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2139.ts
-#EXTINF:0,Globo Bauru [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13753.ts
-#EXTINF:0,Globo Bauru [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7374.ts
-#EXTINF:0,Globo Brasilia
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2143.ts
-#EXTINF:0,Globo Brasilia [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13731.ts
-#EXTINF:0,Globo Brasilia [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7400.ts
-#EXTINF:0,Globo Brasilia HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13732.ts
-#EXTINF:0,Globo Brasilia HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7399.ts
-#EXTINF:0,Globo Centro America Cuiaba
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11667.ts
-#EXTINF:0,Globo Eptv Campinas
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11663.ts
-#EXTINF:0,Globo Eptv Campinas [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13733.ts
-#EXTINF:0,Globo Eptv Campinas [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7398.ts
-#EXTINF:0,Globo Eptv Campinas HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7397.ts
-#EXTINF:0,Globo Eptv Campinas HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13734.ts
-#EXTINF:0,Globo Eptv Ribeirao Preto
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11664.ts
-#EXTINF:0,Globo Eptv Ribeirao Preto [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13735.ts
-#EXTINF:0,Globo Eptv Ribeirao Preto [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7395.ts
-#EXTINF:0,Globo Eptv Ribeirão Preto HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7396.ts
-#EXTINF:0,Globo Eptv Ribeirão Preto HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13736.ts
-#EXTINF:0,Globo EPTV São Carlos
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11665.ts
-#EXTINF:0,Globo EPTV São Carlos [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/8674.ts
-#EXTINF:0,Globo Inter TV Natal
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/8675.ts
-#EXTINF:0,Globo Inter TV RJ Serra+Mar
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/8676.ts
-#EXTINF:0,Globo Minas
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7112.ts
-#EXTINF:0,Globo Minas [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13737.ts
-#EXTINF:0,Globo Minas [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7394.ts
-#EXTINF:0,Globo Minas FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7185.ts
-#EXTINF:0,Globo Minas HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13738.ts
-#EXTINF:0,Globo Minas HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7393.ts
-#EXTINF:0,Globo Nordeste
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7104.ts
-#EXTINF:0,Globo Nordeste [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13741.ts
-#EXTINF:0,Globo Nordeste [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7390.ts
-#EXTINF:0,Globo Nordeste HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13742.ts
-#EXTINF:0,Globo Nordeste HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7389.ts
-#EXTINF:0,Globo NSC TV Chapeco FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13794.ts
-#EXTINF:0,Globo NSC TV Chapeco HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13793.ts
-#EXTINF:0,Globo NSC TV Chapeco
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13792.ts
-#EXTINF:0,Globo Nsc Tv Florianopolis
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7388.ts
-#EXTINF:0,Globo Nsc Tv Florianopolis [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13743.ts
-#EXTINF:0,Globo Nsc Tv Florianopolis HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7387.ts
-#EXTINF:0,Globo Nsc Tv Florianopolis HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13744.ts
-#EXTINF:0,Globo Rbs Tv Porto Alegre
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7386.ts
-#EXTINF:0,Globo Rbs Tv Porto Alegre [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13745.ts
-#EXTINF:0,Globo Rbs Tv Porto Alegre HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7385.ts
-#EXTINF:0,Globo Rbs Tv Porto Alegre HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13746.ts
-#EXTINF:0,Globo RJ
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2278.ts
-#EXTINF:0,Globo RJ [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13427.ts
-#EXTINF:0,Globo RJ [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7384.ts
-#EXTINF:0,Globo RJ FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7184.ts
-#EXTINF:0,Globo RJ HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2277.ts
-#EXTINF:0,Globo RJ HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13428.ts
-#EXTINF:0,Globo RJ HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7383.ts
-#EXTINF:0,Globo Rpc Curitiba
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11666.ts
-#EXTINF:0,Globo Rpc Curitiba [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13747.ts
-#EXTINF:0,Globo Rpc Curitiba [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7382.ts
-#EXTINF:0,Globo RPC Curitiba FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7137.ts
-#EXTINF:0,Globo Rpc Curitiba HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7381.ts
-#EXTINF:0,Globo Rpc Curitiba HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13748.ts
-#EXTINF:0,Globo RPC Foz do Iguacu
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13791.ts
-#EXTINF:0,Globo RPC Foz do Iguacu FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13790.ts
-#EXTINF:0,Globo RPC Foz do Iguacu HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13789.ts
-#EXTINF:0,Globo Sorocaba
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2138.ts
-#EXTINF:0,Globo Sorocaba [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13756.ts
-#EXTINF:0,Globo Sorocaba [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7371.ts
-#EXTINF:0,Globo SP
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2276.ts
-#EXTINF:0,Globo SP [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13426.ts
-#EXTINF:0,Globo SP [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7380.ts
-#EXTINF:0,Globo SP FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7183.ts
-#EXTINF:0,Globo SP HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13632.ts
-#EXTINF:0,Globo SP HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7379.ts
-#EXTINF:0,Globo TV Anhanguera [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13749.ts
-#EXTINF:0,Globo TV Anhanguera [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7378.ts
-#EXTINF:0,Globo TV Anhanguera HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13750.ts
-#EXTINF:0,Globo TV Anhanguera HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7377.ts
-#EXTINF:0,Globo TV Clube Teresina
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13788.ts
-#EXTINF:0,Globo TV Clube Teresina FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13787.ts
-#EXTINF:0,Globo TV Clube Teresina HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13786.ts
-#EXTINF:0,Globo TV Gazeta Alagoas
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/15139.ts
-#EXTINF:0,Globo TV Gazeta Alagoas FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/15141.ts
-#EXTINF:0,Globo TV Gazeta Alagoas HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/15140.ts
-#EXTINF:0,Globo TV Gazeta Sul FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16205.ts
-#EXTINF:0,Globo TV Gazeta Sul HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16204.ts
-#EXTINF:0,Globo TV Gazeta Vitoria
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13785.ts
-#EXTINF:0,Globo TV Gazeta Vitoria FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13784.ts
-#EXTINF:0,Globo TV Gazeta Vitoria HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13783.ts
-#EXTINF:0,Globo TV Sergipe
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13782.ts
-#EXTINF:0,Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13781.ts
-#EXTINF:0,Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13780.ts
-#EXTINF:0,Globo TV Tem S.J. do Rio Preto
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7372.ts
-#EXTINF:0,Globo TV Tem S.J. do Rio Preto [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13755.ts
-#EXTINF:0,Globo TV Tem S.J. do Rio Preto HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7373.ts
-#EXTINF:0,Globo TV Tem S.J. do Rio Preto HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13754.ts
-#EXTINF:0,Globo TV Tribuna Santos
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16533.ts
-#EXTINF:0,Globo TV Vanguarda
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11668.ts
-#EXTINF:0,Globo TV Vanguarda [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/10455.ts
-#EXTINF:0,Globo TV Verdes mares [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/8673.ts
-#EXTINF:0,Gloob
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2272.ts
-#EXTINF:0,Gloob [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7370.ts
-#EXTINF:0,Gloob FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7155.ts
-#EXTINF:0,Gloob HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2142.ts
-#EXTINF:0,Gloob HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7369.ts
-#EXTINF:0,GNT
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2271.ts
-#EXTINF:0,GNT [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13769.ts
-#EXTINF:0,GNT [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7366.ts
-#EXTINF:0,GNT HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2270.ts
-#EXTINF:0,GNT HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13770.ts
-#EXTINF:0,GNT HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7365.ts
-#EXTINF:0,Gospel Cartoon
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11095.ts
-#EXTINF:0,H2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2269.ts
-#EXTINF:0,H2 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13767.ts
-#EXTINF:0,H2 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7364.ts
-#EXTINF:0,H2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2268.ts
-#EXTINF:0,H2 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13768.ts
-#EXTINF:0,H2 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7363.ts
-#EXTINF:0,HBO
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2267.ts
-#EXTINF:0,HBO [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13670.ts
-#EXTINF:0,HBO [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7362.ts
-#EXTINF:0,HBO 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2266.ts
-#EXTINF:0,HBO 2 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13672.ts
-#EXTINF:0,HBO 2 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7361.ts
-#EXTINF:0,HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7182.ts
-#EXTINF:0,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2265.ts
-#EXTINF:0,HBO 2 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13673.ts
-#EXTINF:0,HBO 2 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7360.ts
-#EXTINF:0,HBO Family
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2264.ts
-#EXTINF:0,HBO Family [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13674.ts
-#EXTINF:0,HBO Family [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7359.ts
-#EXTINF:0,HBO Family HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2263.ts
-#EXTINF:0,HBO Family HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13675.ts
-#EXTINF:0,HBO Family HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7358.ts
-#EXTINF:0,HBO FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7181.ts
-#EXTINF:0,HBO HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2262.ts
-#EXTINF:0,HBO HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13671.ts
-#EXTINF:0,HBO HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7357.ts
-#EXTINF:0,HBO Plus
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2261.ts
-#EXTINF:0,HBO Plus [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13676.ts
-#EXTINF:0,HBO Plus [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7356.ts
-#EXTINF:0,HBO Plus e
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2260.ts
-#EXTINF:0,HBO Plus e [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13678.ts
-#EXTINF:0,HBO Plus e [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7355.ts
-#EXTINF:0,HBO Plus HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2259.ts
-#EXTINF:0,HBO Plus HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13677.ts
-#EXTINF:0,HBO Plus HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7354.ts
-#EXTINF:0,HBO Signature
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2258.ts
-#EXTINF:0,HBO Signature [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13679.ts
-#EXTINF:0,HBO Signature [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7353.ts
-#EXTINF:0,HBO Signature HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2257.ts
-#EXTINF:0,HBO Signature HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13680.ts
-#EXTINF:0,HBO Signature HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7352.ts
-#EXTINF:0,I-SAT
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2255.ts
-#EXTINF:0,ID - Investigacao Discovery
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2254.ts
-#EXTINF:0,ID - Investigação Discovery HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2253.ts
-#EXTINF:0,Ideal TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7108.ts
-#EXTINF:0,Inter TV Cabugi
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7106.ts
-#EXTINF:0,Investigacao Discovery [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7349.ts
-#EXTINF:0,Investigacao Discovery HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7348.ts
-#EXTINF:0,Lifetime
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2252.ts
-#EXTINF:0,Lifetime [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7347.ts
-#EXTINF:0,Lifetime HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2141.ts
-#EXTINF:0,Lifetime HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7346.ts
-#EXTINF:0,Mais Globosat
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2251.ts
-#EXTINF:0,Mais Globosat [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7345.ts
-#EXTINF:0,Mais Globosat HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2127.ts
-#EXTINF:0,Mais Globosat HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7344.ts
-#EXTINF:0,MAX
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2250.ts
-#EXTINF:0,MAX [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7343.ts
-#EXTINF:0,Max HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7091.ts
-#EXTINF:0,MAX HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7342.ts
-#EXTINF:0,MAX Prime
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2249.ts
-#EXTINF:0,MAX Prime [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7341.ts
-#EXTINF:0,MAX Prime e
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2248.ts
-#EXTINF:0,Max Prime e [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7340.ts
-#EXTINF:0,Max Prime HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7092.ts
-#EXTINF:0,Max Prime HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7339.ts
-#EXTINF:0,MAX UP
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2247.ts
-#EXTINF:0,MAX UP [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7338.ts
-#EXTINF:0,Max UP HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7093.ts
-#EXTINF:0,MAX UP HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7337.ts
-#EXTINF:0,Megapix
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2246.ts
-#EXTINF:0,Megapix [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13719.ts
-#EXTINF:0,Megapix [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7336.ts
-#EXTINF:0,Megapix HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2245.ts
-#EXTINF:0,Megapix HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13720.ts
-#EXTINF:0,Megapix HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7335.ts
-#EXTINF:0,MTV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2244.ts
-#EXTINF:0,MTV [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7334.ts
-#EXTINF:0,MTV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2140.ts
-#EXTINF:0,MTV HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7333.ts
-#EXTINF:0,Multishow
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2243.ts
-#EXTINF:0,Multishow [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7332.ts
-#EXTINF:0,Multishow [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/14020.ts
-#EXTINF:0,Multishow HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2242.ts
-#EXTINF:0,Multishow HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7331.ts
-#EXTINF:0,Music Box Brasil [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7330.ts
-#EXTINF:0,Music Box Brasil HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7329.ts
-#EXTINF:0,Music Box Brazil
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2241.ts
-#EXTINF:0,Nat Geo Wild FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7143.ts
-#EXTINF:0,NatGeo Kids
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2240.ts
-#EXTINF:0,NatGeo Kids [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7326.ts
-#EXTINF:0,NatGeo Kids HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2126.ts
-#EXTINF:0,NatGeo Kids HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7325.ts
-#EXTINF:0,NatGeo Wild
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2239.ts
-#EXTINF:0,NatGeo Wild [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7323.ts
-#EXTINF:0,NatGeoWild HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2238.ts
-#EXTINF:0,NatGeoWild HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7324.ts
-#EXTINF:0,National Geographic
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2237.ts
-#EXTINF:0,National Geographic [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7328.ts
-#EXTINF:0,National Geographic HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7327.ts
-#EXTINF:0,NBR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2235.ts
-#EXTINF:0,NBR [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7322.ts
-#EXTINF:0,NHK
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2234.ts
-#EXTINF:0,Nick Jr
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2233.ts
-#EXTINF:0,Nick Jr [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7321.ts
-#EXTINF:0,NICK JR FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7142.ts
-#EXTINF:0,Nick Jr HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2145.ts
-#EXTINF:0,Nick Jr HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7320.ts
-#EXTINF:0,Nickelodeon
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2232.ts
-#EXTINF:0,Nickelodeon [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7319.ts
-#EXTINF:0,NICKELODEON FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7141.ts
-#EXTINF:0,Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2125.ts
-#EXTINF:0,Nickelodeon HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7318.ts
-#EXTINF:0,NovoTempo
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2231.ts
-#EXTINF:0,OFF
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2230.ts
-#EXTINF:0,OFF [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7317.ts
-#EXTINF:0,OFF HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2229.ts
-#EXTINF:0,OFF HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7316.ts
-#EXTINF:0,Premiere 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2222.ts
-#EXTINF:0,Premiere 2 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7313.ts
-#EXTINF:0,Premiere 2 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13633.ts
-#EXTINF:0,Premiere 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7169.ts
-#EXTINF:0,Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2221.ts
-#EXTINF:0,Premiere 2 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7312.ts
-#EXTINF:0,Premiere 2 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13725.ts
-#EXTINF:0,Premiere 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2220.ts
-#EXTINF:0,Premiere 3 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7311.ts
-#EXTINF:0,Premiere 3 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13634.ts
-#EXTINF:0,Premiere 3 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7168.ts
-#EXTINF:0,Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2219.ts
-#EXTINF:0,Premiere 3 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7310.ts
-#EXTINF:0,Premiere 3 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13726.ts
-#EXTINF:0,Premiere 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2218.ts
-#EXTINF:0,Premiere 4 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7309.ts
-#EXTINF:0,Premiere 4 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13635.ts
-#EXTINF:0,Premiere 4 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7167.ts
-#EXTINF:0,Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2217.ts
-#EXTINF:0,Premiere 4 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7308.ts
-#EXTINF:0,Premiere 4 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13727.ts
-#EXTINF:0,Premiere 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2216.ts
-#EXTINF:0,Premiere 5 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7307.ts
-#EXTINF:0,Premiere 5 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13636.ts
-#EXTINF:0,Premiere 5 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13728.ts
-#EXTINF:0,Premiere 5 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7166.ts
-#EXTINF:0,Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2215.ts
-#EXTINF:0,Premiere 5 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7306.ts
-#EXTINF:0,Premiere 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2214.ts
-#EXTINF:0,Premiere 6 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7305.ts
-#EXTINF:0,Premiere 6 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13637.ts
-#EXTINF:0,Premiere 6 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13729.ts
-#EXTINF:0,Premiere 6 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7165.ts
-#EXTINF:0,Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7094.ts
-#EXTINF:0,Premiere 6 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7304.ts
-#EXTINF:0,Premiere 7
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2213.ts
-#EXTINF:0,Premiere 7 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7303.ts
-#EXTINF:0,Premiere 7 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13638.ts
-#EXTINF:0,Premiere 7 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7164.ts
-#EXTINF:0,Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7095.ts
-#EXTINF:0,Premiere 7 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7302.ts
-#EXTINF:0,Premiere 7 HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13730.ts
-#EXTINF:0,Premiere 8
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2212.ts
-#EXTINF:0,Premiere 8 [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13639.ts
-#EXTINF:0,Premiere 9
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2211.ts
-#EXTINF:0,Premiere Clubes
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2224.ts
-#EXTINF:0,Premiere Clubes [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7301.ts
-#EXTINF:0,Premiere Clubes [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13425.ts
-#EXTINF:0,Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7170.ts
-#EXTINF:0,Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2223.ts
-#EXTINF:0,Premiere Clubes HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7300.ts
-#EXTINF:0,Premiere Clubes HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13424.ts
-#EXTINF:0,Tabela Jogos Premiere [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7225.ts
-#EXTINF:0,Paramount
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2228.ts
-#EXTINF:0,Paramount  HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7314.ts
-#EXTINF:0,Paramount [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7315.ts
-#EXTINF:0,Paramount HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2227.ts
-#EXTINF:0,PlayKids HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16209.ts
-#EXTINF:0,PlayKids SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16208.ts
-#EXTINF:0,Prime Box Brazil
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2210.ts
-#EXTINF:0,Prime Box Brazil [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7299.ts
-#EXTINF:0,Prime Box Brazil HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7298.ts
+
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/1/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/2/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/3/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/5/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/6/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/7/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/8/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/9/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/10/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/11/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/12/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/13/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/14/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/15/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/16/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/17/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/18/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/19/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Jogos Ao Vivo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/20/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Animais África do Sul 
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Rio de Janeiro - Copacabana
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Aeroporto de Congonhas de São Paulo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Ubatuba - Praia Enseaba 
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Arena Allianz Parque - Palestra Itália
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Av. Interlagos - Shopping Interlagos
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Marginal Pinheiros Trânsito
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Pico do gavião - Andradas MG
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Estúdio 102 FM Itajaí - SC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Estúdio 90.5 FM São Paulo - SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Estúdio 91.7 FM Cascavel - PR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Estúdio 96.5 FM Rio de Janeiro - RJ
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Estúdio 100.5 FM Rio de Janeiro - RJ
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Estúdio 90.3 FM Recife - PE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/ne10/ne10-radiojornal-recife-video-web.sdp/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Novo Templo da Igreja da Graça - SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,Santuário de Aparecida - Altar Central
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Evangelizar
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Aparecida
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Novo Tempo SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Novo Tempo RS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0,RBI
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2209.ts
-#EXTINF:0,RBS TV Porto Alegre
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2208.ts
-#EXTINF:0,Record
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2207.ts
-#EXTINF:0,Record [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13657.ts
-#EXTINF:0,Record [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7297.ts
-#EXTINF:0,Record FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7180.ts
-#EXTINF:0,Record HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2206.ts
-#EXTINF:0,Record HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7296.ts
-#EXTINF:0,Record HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7292.ts
-#EXTINF:0,Record RJ HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16350.ts
-#EXTINF:0,Record RJ
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16351.ts
-#EXTINF:0,Record MG HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16207.ts
-#EXTINF:0,Record MG SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16206.ts
-#EXTINF:0,Record News
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2205.ts
-#EXTINF:0,Record News [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7295.ts
-#EXTINF:0,Record News HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7294.ts
-#EXTINF:0,Record SP [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7293.ts
-#EXTINF:0,Rede Amazonica
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7101.ts
-#EXTINF:0,Rede Brasil
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2204.ts
-#EXTINF:0,Rede Brasil [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7291.ts
-#EXTINF:0,Rede Super
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/8677.ts
-#EXTINF:0,Rede TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2203.ts
-#EXTINF:0,Rede TV [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7290.ts
-#EXTINF:0,Rede TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2202.ts
-#EXTINF:0,Rede TV HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7289.ts
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://iaptd3.paineldecontrole.info:1935/live/smil:plenitude.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0,Rede Vida
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2201.ts
-#EXTINF:0,Rede Vida [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7288.ts
-#EXTINF:0,Rede Vida HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/15138.ts
-#EXTINF:0,RIT
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2199.ts
-#EXTINF:0,SBT
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2198.ts
-#EXTINF:0,SBT [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7287.ts
-#EXTINF:0,SBT [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13796.ts
-#EXTINF:0,SBT FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7179.ts
-#EXTINF:0,SBT HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2197.ts
-#EXTINF:0,SBT HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7286.ts
-#EXTINF:0,SBT HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13797.ts
-#EXTINF:0,SBT SP Interior [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7285.ts
-#EXTINF:0,SIC Internacional
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2194.ts
-#EXTINF:0,Space
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2193.ts
-#EXTINF:0,Space [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13717.ts
-#EXTINF:0,Space [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7282.ts
-#EXTINF:0,Space HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2192.ts
-#EXTINF:0,Space HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13718.ts
-#EXTINF:0,Space HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7281.ts
-#EXTINF:0,Sport TV 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2191.ts
-#EXTINF:0,Sport TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2190.ts
-#EXTINF:0,Sport TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2189.ts
-#EXTINF:0,SporTV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2188.ts
-#EXTINF:0,SporTV [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13423.ts
-#EXTINF:0,SporTV [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7280.ts
-#EXTINF:0,SporTV 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2187.ts
-#EXTINF:0,SporTV 2 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7279.ts
-#EXTINF:0,Sportv 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7154.ts
-#EXTINF:0,SporTV 2 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7278.ts
-#EXTINF:0,SporTV 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2186.ts
-#EXTINF:0,SporTV 3 [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7277.ts
-#EXTINF:0,Sportv 3 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7153.ts
-#EXTINF:0,SporTV 3 HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7276.ts
-#EXTINF:0,Sportv FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7178.ts
-#EXTINF:0,SporTV HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13422.ts
-#EXTINF:0,SporTV HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7275.ts
-#EXTINF:0,Studio Universal
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2185.ts
-#EXTINF:0,Studio Universal [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7274.ts
-#EXTINF:0,Studio Universal HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7096.ts
-#EXTINF:0,Studio Universal HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7273.ts
-#EXTINF:0,SundanceTV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7272.ts
-#EXTINF:0,SundanceTV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7271.ts
-#EXTINF:0,Syfy
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2184.ts
-#EXTINF:0,Syfy [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7284.ts
-#EXTINF:0,Syfy HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2124.ts
-#EXTINF:0,Syfy HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7283.ts
-#EXTINF:0,TBS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2183.ts
-#EXTINF:0,TBS [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7270.ts
-#EXTINF:0,TBS HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2182.ts
-#EXTINF:0,TBS HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7269.ts
-#EXTINF:0,TCM
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2181.ts
-#EXTINF:0,TCM [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7268.ts
-#EXTINF:0,Telecine Action
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2180.ts
-#EXTINF:0,Telecine Action [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13658.ts
-#EXTINF:0,Telecine Action [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7267.ts
-#EXTINF:0,Telecine Action FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7177.ts
-#EXTINF:0,Telecine Action HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2179.ts
-#EXTINF:0,Telecine Action HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13659.ts
-#EXTINF:0,Telecine Action HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7266.ts
-#EXTINF:0,Telecine Cult
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2178.ts
-#EXTINF:0,Telecine Cult [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13660.ts
-#EXTINF:0,Telecine Cult [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7265.ts
-#EXTINF:0,Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2122.ts
-#EXTINF:0,Telecine Cult HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13661.ts
-#EXTINF:0,Telecine Cult HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7264.ts
-#EXTINF:0,Telecine Fun
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2177.ts
-#EXTINF:0,Telecine Fun [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13662.ts
-#EXTINF:0,Telecine Fun [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7263.ts
-#EXTINF:0,Telecine Fun FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7176.ts
-#EXTINF:0,Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2176.ts
-#EXTINF:0,Telecine Fun HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13663.ts
-#EXTINF:0,Telecine Fun HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7262.ts
-#EXTINF:0,Telecine Pipoca
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2175.ts
-#EXTINF:0,Telecine Pipoca [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13664.ts
-#EXTINF:0,Telecine Pipoca [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7261.ts
-#EXTINF:0,Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7175.ts
-#EXTINF:0,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2174.ts
-#EXTINF:0,Telecine Pipoca HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13665.ts
-#EXTINF:0,Telecine Pipoca HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7260.ts
-#EXTINF:0,Telecine Premium
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2173.ts
-#EXTINF:0,Telecine Premium [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13666.ts
-#EXTINF:0,Telecine Premium [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7259.ts
-#EXTINF:0,Telecine Premium FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7174.ts
-#EXTINF:0,Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2172.ts
-#EXTINF:0,Telecine Premium HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13667.ts
-#EXTINF:0,Telecine Premium HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7258.ts
-#EXTINF:0,Telecine Touch
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2171.ts
-#EXTINF:0,Telecine Touch [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13668.ts
-#EXTINF:0,Telecine Touch [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7257.ts
-#EXTINF:0,Telecine Touch FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7173.ts
-#EXTINF:0,Telecine Touch HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2170.ts
-#EXTINF:0,Telecine Touch HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13669.ts
-#EXTINF:0,Telecine Touch HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7256.ts
-#EXTINF:0,Terra Viva
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2169.ts
-#EXTINF:0,Terra Viva [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7255.ts
-#EXTINF:0,The History Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2168.ts
-#EXTINF:0,The History Channel [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13721.ts
-#EXTINF:0,The History Channel [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7351.ts
-#EXTINF:0,The History Channel FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7139.ts
-#EXTINF:0,The History Channel HD [Alter 2]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/13722.ts
-#EXTINF:0,The History Channel HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7350.ts
-#EXTINF:0,TLC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2167.ts
-#EXTINF:0,TLC [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7254.ts
-#EXTINF:0,TLC HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2123.ts
-#EXTINF:0,TLC HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7253.ts
-#EXTINF:0,TNT
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2166.ts
-#EXTINF:0,TNT [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7252.ts
-#EXTINF:0,TNT HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2165.ts
-#EXTINF:0,TNT HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7251.ts
-#EXTINF:0,TNT 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16346.ts
-#EXTINF:0,TNT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16347.ts
-#EXTINF:0,TNT 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16348.ts
-#EXTINF:0,TNT 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16349.ts
-#EXTINF:0,TNT Series
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2164.ts
-#EXTINF:0,TNT Series [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7250.ts
-#EXTINF:0,TNT Series HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2163.ts
-#EXTINF:0,TNT Series HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7249.ts
-#EXTINF:0,Tooncast
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2162.ts
-#EXTINF:0,Tooncast [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7248.ts
-#EXTINF:0,TruTV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2161.ts
-#EXTINF:0,TruTV [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7238.ts
-#EXTINF:0,TruTV HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7237.ts
-#EXTINF:0,Tv Anhanguera
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7109.ts
-#EXTINF:0,TV Aparecida [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7245.ts
-#EXTINF:0,TV Brasil
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2160.ts
-#EXTINF:0,TV Brasil [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7244.ts
-#EXTINF:0,TV Câmara
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7243.ts
-#EXTINF:0,TV Cultura
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2159.ts
-#EXTINF:0,TV Cultura [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/15136.ts
-#EXTINF:0,TV Cultura HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/15137.ts
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://wpc.9280F.sigmacdn.net/249280F/default/default.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Canção Nova
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Super
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Boa Vontade TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,IMPD TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Gospel
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Feliz
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Século 21
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,CJC TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Gospel Movies Television
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Gospel Music Television
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,IURD TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,IURD TV Internacional
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Verdade
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Vem & Vê TV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Vem & Vê TV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Vem & Vê TV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Terceiro Anjo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Portal Gospel
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Gênesis
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TVU Recife
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://edge2.freelivestream.cf/live/45597272649511963922/index.m3u8
+#EXTINF:0,TVU Recife
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://150.161.93.173/hls/720/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Maceió
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Aberta SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://live.tvaberta.tv.br:1935/tvabertalive/tvabertalive/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Meio Norte
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Sesc TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SEC TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,UFG TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://wowza.sofwhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV FAAP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV INES
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV INES HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Família
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Agro Brasil
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Agro Canal
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Canal do Boi
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Canal Rural
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Amazon Sat
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Gazeta SP HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Gazeta RN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Gazeta MA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0,TV Diário
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2158.ts
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Globo SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/17/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Globo PB HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a00b?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT SP Interior
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT MT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT PI
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT GO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT MA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT PB HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a00q?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT PE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:0,SBT PE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:0,SBT PE Interior
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Band SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Band SP HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a004?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Band PA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://5937c27322550.streamlock.net/rbatv12/rbatv12/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Band PB HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a00p?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Brasil SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Brasil DE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede Brasil PA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://video01.tvdigitalhd.org:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Brasil HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a00c?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura SP HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a008?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura SE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura PE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura SC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura MG
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura GO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura ES 
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv4.srvstm.com:1935/tvsimcolatina/tvsimcolatina/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura PA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura BA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cdn.comets.com.br/tvbaianahd/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura PR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura PR HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Cultura PB HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.73.84.49/hls/live/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record SP HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a00o?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record AM
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record RN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record GO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record ES
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record MT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record Moçambique
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede TV SP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede TV SP HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a009?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede TV RS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede TV PB
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://59f2354c05961.streamlock.net:1443/tvarapuan/_definst_/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede TV PB HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a00r?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede TV RO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TVE RS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TVE BA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0,TV Escola
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7242.ts
-#EXTINF:0,Tv Evangelizar
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11611.ts
-#EXTINF:0,Tv Gazeta SP HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7241.ts
-#EXTINF:0,TV Gloobinho [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7367.ts
-#EXTINF:0,TV Gloobinho HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7368.ts
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Escola HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Terra Viva
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,NBR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0,TV Justiça
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7246.ts
-#EXTINF:0,TV Liberal Belem
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7102.ts
-#EXTINF:0,TV Ra tim bum
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2157.ts
-#EXTINF:0,TV Ra tim bum [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7240.ts
-#EXTINF:0,TV Ra tim bum HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7239.ts
-#EXTINF:0,Tv Seculo 21
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/11610.ts
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a013?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Câmara
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
 #EXTINF:0,TV Senado
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7247.ts
-#EXTINF:0,TV Verdes Mares
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7103.ts
-#EXTINF:0,TVE
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2156.ts
-#EXTINF:0,Universal Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2155.ts
-#EXTINF:0,Universal Channel [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7236.ts
-#EXTINF:0,Universal Channel HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7235.ts
-#EXTINF:0,Universal Channels HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2154.ts
-#EXTINF:0,Venus
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2147.ts
-#EXTINF:0,Venus [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7221.ts
-#EXTINF:0,Viva
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2152.ts
-#EXTINF:0,Viva [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7231.ts
-#EXTINF:0,Viva FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7152.ts
-#EXTINF:0,Viva HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2151.ts
-#EXTINF:0,Viva HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7230.ts
-#EXTINF:0,Warner Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2150.ts
-#EXTINF:0,Warner Channel [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7229.ts
-#EXTINF:0,Warner Channel HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2149.ts
-#EXTINF:0,Warner Channel HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7228.ts
-#EXTINF:0,Warner FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7140.ts
-#EXTINF:0,Woohoo
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/2148.ts
-#EXTINF:0,Woohoo [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7227.ts
-#EXTINF:0,Woohoo HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7097.ts
-#EXTINF:0,Woohoo HD [Alter]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/7226.ts
-#EXTINF:0,A Fazenda 10
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16239.ts
-#EXTINF:0,A Fazenda 10 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16248.ts
-#EXTINF:0,A Fazenda 10 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://listaccess.me:8880/live/Caroline01/Caroline01/16247.ts
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://177.12.99.108:8000/play/a012?PEDROJUNIORTUTORIAIS
+#EXTINF:0,ESPN Brasil
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,ESPN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SporTV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SporTV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/15/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SporTV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/7/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Fox Sports
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Fox Sports 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/5/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,All Sports BR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Real Madrid TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Gospel Cartoon
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Cine Sky
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Cine Gospel
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://edge2.freelivestream.cf/live/45597272649511963922/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Cine+
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Classique TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TNT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://apk2.futeboltv.com:8081/live/8/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Record News HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,GV News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=https://59f1cbe63db89.streamlock.net:1443/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Porto Canal
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://213.13.26.11:1935/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Bloomberg
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,RTP1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,RTP2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TVI
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TVI+
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TVI24
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,CBS News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Fox 23 News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Sky life TG24
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Life News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.life.ru/lifetv/720p/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Fox News 30
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,KIRO 7 News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,WPXI News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,WSOC 9 News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,WFTV 9 News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Yeeah!
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Rede New
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV União
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv1.srvstm.com:1935/tvuniao/tvuniao/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Top TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Top TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Heart TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Music Box Gold
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://musicbox.cdnvideo.ru:1935/musicbox/musicboxtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Gospel Music TV 
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Hit TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,H!T Music Channel
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Mega TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
