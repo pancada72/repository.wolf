@@ -51,39 +51,30 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 2[/B][/COLOR]
-#EXTINF:0,Benfica TV1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/12341234/12341234/5069
-#EXTINF:0,Benfica TV 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/12341234/12341234/5068
-#EXTINF:0,Sport TV 1HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/12341234/12341234/5035
-#EXTINF:0,Sport TV 2HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/12341234/12341234/5034
-#EXTINF:0,Sport TV 3HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/12341234/12341234/5033
-#EXTINF:0,Sport TV 4HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/12341234/12341234/5032
-#EXTINF:0,Sport TV 5HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/12341234/12341234/5031
-
+#EXTINF:0,PT: Benfica TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65586
+#EXTINF:0,PT: SPORTV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133716
+#EXTINF:0,PT: SPORTV1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133717
 
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 3[/B][/COLOR]
-#EXTINF:0,Benfica TV1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/5069
-#EXTINF:0,Benfica TV 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/5068
-#EXTINF:0,Sport TV 1HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/5035
-#EXTINF:0,Sport TV 2HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/5034
-#EXTINF:0,Sport TV 3HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/5033
-#EXTINF:0,Sport TV 4HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/5032
-#EXTINF:0,Sport TV 5HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/hhh/hhh/5031
+#EXTINF:0,PT: Sport TV1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8179.m3u8
+#EXTINF:0,PT: Sport TV2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8178.m3u8
+#EXTINF:0,PT: Sport TV3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8177.m3u8
+#EXTINF:0,PT: Sport TV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8181.m3u8
+#EXTINF:0,PT: Sport TV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8180.m3u8
+#EXTINF:0,PT:BENFICA TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://toncononline.ddns.net:80/live/gigaquadplus/r77HWfKWgA/8165.m3u8
+#EXTINF:0,PT:BENFICA TV 2
+
 
 #EXTINF:0,[COLOR  red][B] LINHA 4[/B][/COLOR]
 #EXTINF:0,PT: SPORT TV 1 FHD
