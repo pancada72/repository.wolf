@@ -29,6 +29,8 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 #EXTINF:0, [COLOR  red][B] LINHA 2[/B][/COLOR]
 #EXTINF:0,PT: Eleven Sporm3u8 1HD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16314.m3u8
+#EXTINF:0,PT: Eleven Sporm3u8 1HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16314.m3u8
 #EXTINF:0,PT: Eleven Sporm3u8 2HD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16313.m3u8
 #EXTINF:0,PT: Eleven Sporm3u8 3HD
