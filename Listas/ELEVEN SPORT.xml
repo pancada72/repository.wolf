@@ -3,24 +3,16 @@
 
 
 #EXTINF:0, [COLOR  red][B] LINHA 1[/B][/COLOR]
-#EXTINF:0,PT: Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127738
-#EXTINF:0,PT: Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127738
-#EXTINF:0,PT: ELEVEN SPORTS 1 HD NET FRACA
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133685
-#EXTINF:0,PT: Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127739
-#EXTINF:0,PT: ELEVEN SPORTS 2 HD NET FRACA
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133687
-#EXTINF:0,PT: Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127740
-#EXTINF:0,PT: Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127741
-#EXTINF:0,PT: Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127742
-#EXTINF:0,PT: Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127743
+#EXTINF:-1, ELEVEN SPORTS 2 FHD  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21291.ts
+#EXTINF:-1, ELEVEN SPORTS 2 FHD  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21291.ts
+#EXTINF:-1,ELEVEN SPORTS 4 FHD  IPTVultra.com [960x544]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21289.ts
+#EXTINF:-1,ELEVEN SPORTS 3 FHD  IPTVultra.com [1440x1088]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21290.ts
+#EXTINF:-1,ELEVEN SPORTS 1 FHD  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21292.ts
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 

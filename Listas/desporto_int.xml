@@ -1,4 +1,84 @@
 ﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1,Band Sports SD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/37125.ts
+#EXTINF:-1,Band Sports HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/36989.ts
+#EXTINF:-1,Fox Sports HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/36970.ts
+#EXTINF:-1,Fox Sports SD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/37099.ts
+#EXTINF:-1,Fox Sports 2 HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/36971.ts
+#EXTINF:-1,Fox Sports 2 SD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/37098.ts
+#EXTINF:-1,ITA Mediaset Extra  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.130.232:25461/live/Passion-IPTV/f8AXvCAo14/247.ts
+#EXTINF:-1,Eleven Sports 2 HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/40605.ts
+#EXTINF:-1,Eleven Sports 1 HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/Lucas02/Lucas02/40604.ts
+#EXTINF:-1,Movistar eSports HD  IPTVultra.com [720x576]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/95.ts
+#EXTINF:-1,ALL Sports HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/1215.ts
+#EXTINF:-1,BAND SPORTS [Alter]  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/9412.ts
+#EXTINF:-1,Band Sports HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/1416.ts
+#EXTINF:-1,BAND SPORTS HD [Alter]  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/9411.ts
+#EXTINF:-1,Band Sports SD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/1348.ts
+#EXTINF:-1,Fox Sports 2 HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/1315.ts
+#EXTINF:-1,Fox Sports HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/1397.ts
+#EXTINF:-1,Fox Sports HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/1316.ts
+#EXTINF:-1,FOX SPORTS HD [Alter]  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/9339.ts
+#EXTINF:-1,Fox Sports Full HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/7992.ts
+#EXTINF:-1,FOX SPORTS [Alter]  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/9340.ts
+#EXTINF:-1,FOX SPORTS 2 [Alter]  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/9338.ts
+#EXTINF:-1,FOX SPORTS 2 HD [Alter]  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/9337.ts
+#EXTINF:-1,FOX Sports 2 HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/1396.ts
+#EXTINF:-1,Fox Sports 2 Full HD  IPTVultra.com [1920x1080]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/bek/bek/7978.ts
+#EXTINF:-1, ELEVEN SPORTS 2 FHD  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21291.ts
+#EXTINF:-1,ELEVEN SPORTS 4 FHD  IPTVultra.com [960x544]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21289.ts
+#EXTINF:-1,ELEVEN SPORTS 3 FHD  IPTVultra.com [1440x1088]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21290.ts
+#EXTINF:-1,ELEVEN SPORTS 1 FHD  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21292.ts
+#EXTINF:-1,USA I FOX SPORTS 2 HD  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23529.ts
+#EXTINF:-1,USA I FOX SPORTS 1 (HD)  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23533.ts
+#EXTINF:-1,USA I FOX SPORTS 1 HD  IPTVultra.com [1920x1088]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23532.ts
+#EXTINF:-1,USA I FOX SPORTS 2 (HD)  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23530.ts
+#EXTINF:-1,USA I FOX SPORTS 2 HD  IPTVultra.com [1280x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23531.ts
+#EXTINF:-1,USA I NBC SPORTS BAY AREA HD  IPTVultra.com [1920x1088]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23477.ts
+#EXTINF:-1,USA I NBC SPORTS PHILLY HD  IPTVultra.com [1920x1088]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23473.ts
+#EXTINF:-1,USA I NBC SPORTS BOSTON HD  IPTVultra.com [896x512]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23476.ts
+#EXTINF:-1,USA I NBC SPORTS NORTHWEST HD  IPTVultra.com [960x544]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23474.ts
+#EXTINF:-1,USA I NBC SPORTS CHICAGO HD  IPTVultra.com [960x720]
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/23475.ts
+
 #EXTINF:0,beIN SPORTS HD1
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/hhh/hhh/12075.m3u8
 #EXTINF:0,BeIN SPORTS SD1
