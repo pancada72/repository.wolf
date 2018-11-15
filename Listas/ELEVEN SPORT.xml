@@ -5,6 +5,8 @@
 #EXTINF:0, [COLOR  red][B] LINHA 1[/B][/COLOR]
 #EXTINF:0,PT: Eleven Sports 1 HD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127738
+#EXTINF:0,PT: Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/127738
 #EXTINF:0,PT: ELEVEN SPORTS 1 HD NET FRACA
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133685
 #EXTINF:0,PT: Eleven Sports 2 HD
