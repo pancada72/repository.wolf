@@ -2,17 +2,16 @@
 
 
 
-#EXTINF:0, [COLOR  red][B] LINHA 1[/B][/COLOR]
-#EXTINF:-1, ELEVEN SPORTS 2 FHD  IPTVultra.com [1280x720]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21291.ts
-#EXTINF:-1, ELEVEN SPORTS 2 FHD  IPTVultra.com [1280x720]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21291.ts
-#EXTINF:-1,ELEVEN SPORTS 4 FHD  IPTVultra.com [960x544]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21289.ts
-#EXTINF:-1,ELEVEN SPORTS 3 FHD  IPTVultra.com [1440x1088]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21290.ts
-#EXTINF:-1,ELEVEN SPORTS 1 FHD  IPTVultra.com [1280x720]
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://srv.mtvs.me:8880/live/RpsBqwN0Tb/0QesAU72MS/21292.ts
+#EXTINF:0,POR: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23276.ts
+#EXTINF:0,POR: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23277.ts
+#EXTINF:0,POR: ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23278.ts
+#EXTINF:0,POR: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23279.ts
+#EXTINF:0,POR: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23280.ts
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
