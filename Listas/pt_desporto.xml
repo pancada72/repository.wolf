@@ -23,6 +23,39 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vm
 #EXTINF:0,PT: BENFICA TV1
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3767.m3u8
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+#EXTINF:0,(PT) Sport TV UHD 4K
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/165457.ts
+#EXTINF:0,(PT) SPORT TV +
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/161969.ts
+#EXTINF:0,(PT) SPORT TV + HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/136265.ts
+#EXTINF:0,(PT) SPORT TV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/161955.ts
+#EXTINF:0,(PT) SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/1455.ts
+#EXTINF:0,(PT) SPORT TV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/161957.ts
+#EXTINF:0,(PT) SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/1456.ts
+#EXTINF:0,(PT) SPORT TV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/161966.ts
+#EXTINF:0,(PT) SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/1457.ts
+#EXTINF:0,(PT) SPORT TV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/161967.ts
+#EXTINF:0,(PT) SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/1458.ts
+#EXTINF:0,(PT) SPORT TV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/161968.ts
+#EXTINF:0,(PT) SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/1459.ts
+#EXTINF:0,(PT) SPORT TV 1 HD 1080P
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/162643.ts
+#EXTINF:0,(PT) SPORT TV 2 HD 1080P
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/162644.ts
+
 
 
 

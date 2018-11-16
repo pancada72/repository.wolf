@@ -1,5 +1,66 @@
 #EXTM3U
 
+#EXTINF:0,(PT) ELEVEN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164977.ts
+#EXTINF:0,(PT) ELEVEN SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/158069.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164978.ts
+#EXTINF:0,(PT) ELEVEN SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/158902.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164979.ts
+#EXTINF:0,(PT) ELEVENSPORT 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159765.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164980.ts
+#EXTINF:0,(PT) ELEVENSPORT 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159766.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 5 SD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164981.ts
+#EXTINF:0,(PT) ELEVENSPORT 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159767.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164982.ts
+#EXTINF:0,(PT) ELEVENSPORT 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159768.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/165455.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/165456.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167456.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167457.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167458.ts
+#EXTINF:0,(PT) ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167459.ts
+#EXTINF:0,(PT) ELEVEN SPORT 1 LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167478.ts
+#EXTINF:0,(PT) ELEVEN SPORT 2 LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167479.ts
+#EXTINF:0,(PT) ELEVEN SPORT 3 LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167480.ts
+#EXTINF:0,(PT) ELEVEN SPORT 4 LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167481.ts
+#EXTINF:0,(PT) ELEVEN SPORT 5 LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167482.ts
+#EXTINF:0,(PT) ELEVEN SPORT 6 LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167483.ts
+
+
+
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
 
 
 #EXTINF:0,POR: ELEVEN SPORTS 1 FHD
@@ -13,7 +74,7 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 #EXTINF:0,POR: ELEVEN SPORTS 5 FHD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23280.ts
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 
 
