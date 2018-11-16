@@ -83,3 +83,11 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vm
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3770.m3u8
 #EXTINF:-1,PT: BENFICA TV1
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3767.m3u8
+#EXTINF:-1 tvg-name="PT:Sport TV4" tvg-logo="plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://logo.ndasat.com/iptv/images/76080_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://212.8.253.47:88/329056230761828/329056230761828/67
+#EXTINF:-1 tvg-name="PT:Sport TV3" tvg-logo="plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://logo.ndasat.com/iptv/images/40778_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://212.8.253.47:88/329056230761828/329056230761828/66
+#EXTINF:-1 tvg-name="PT:Sport TV2" tvg-logo="plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://logo.ndasat.com/iptv/images/49026_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://212.8.253.47:88/329056230761828/329056230761828/65
+#EXTINF:-1 tvg-name="PT:Sport TV1" tvg-logo="plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://logo.ndasat.com/iptv/images/58004_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://212.8.253.47:88/329056230761828/329056230761828/64
