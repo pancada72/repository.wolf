@@ -75,6 +75,8 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://fo
 #EXTINF:0,[COLOR  red][B] LINHA 4[/B][/COLOR]
 #EXTINF:-1,PT: SPORT TV 1 HD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
+#EXTINF:-1,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
 
 #EXTINF:-1,PT: SPORT TV 2
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3771.m3u8
