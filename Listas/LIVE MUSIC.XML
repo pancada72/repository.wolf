@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Kelly_Family-An_Angel.jpg/220px-Kelly_Family-An_Angel.jpg",[COLOR blue]Family - Live At Loreley[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=SwimR5pv6SI
+#EXTINF:0 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/bob-marley-colors_a-G-9085648-0.jpg?w=632&h=949",[COLOR blue]Bob Marley - The Legend Live @ Santa Barbara County Bowl 1979 full[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=imfiY8ZVZ0g
+
+#EXTINF:0 tvg-logo="",[COLOR blue][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=
