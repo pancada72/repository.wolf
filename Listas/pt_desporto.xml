@@ -8,22 +8,20 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 1[/B][/COLOR]
-#EXTINF:0,PT: Sport TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16303.m3u8
-#EXTINF:0,PT: Sport TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16303.m3u8
-#EXTINF:0,PT: Sport TV 1HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16308.m3u8
-#EXTINF:0,PT: Sport TV 2HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16307.m3u8
-#EXTINF:0,PT: Sport TV 3HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16306.m3u8
-#EXTINF:0,PT: Sport TV 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16305.m3u8
-#EXTINF:0,PT: Sport TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16304.m3u8
-#EXTINF:0,PT: Benfica TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/ada104/1414ss/16301.m3u8
+#EXTINF:0,PT: SPORT TV+
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3783.m3u8
+#EXTINF:0,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
+#EXTINF:0,PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3771.m3u8
+#EXTINF:0,PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3770.m3u8
+#EXTINF:0,PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3769.m3u8
+#EXTINF:0,PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3768.m3u8
+#EXTINF:0,PT: BENFICA TV1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3767.m3u8
 
 
 
@@ -31,13 +29,30 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://fo
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 2[/B][/COLOR]
-#EXTINF:0,PT: Benfica TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/65586
-#EXTINF:0,PT: SPORTV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133716
-#EXTINF:0,PT: SPORTV1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/EDGARDO/203040/133717
-
+#EXTINF:0,POR:  SPORT TV +
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20037.ts
+#EXTINF:0,POR: Sport TV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13731.ts
+#EXTINF:0,POR: Sport TV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13737.ts
+#EXTINF:0,POR: Sport TV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13739.ts
+#EXTINF:0,POR: Sport TV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13732.ts
+#EXTINF:0,POR: Sport TV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/16707.ts
+#EXTINF:0,POR: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10260.ts
+#EXTINF:0,POR: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10261.ts
+#EXTINF:0,POR: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10262.ts
+#EXTINF:0,POR: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10263.ts
+#EXTINF:0,POR: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10264.ts
+#EXTINF:0,POR: Benfica TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15504.ts
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 3[/B][/COLOR]

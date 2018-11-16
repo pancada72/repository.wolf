@@ -871,801 +871,368 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://21
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://2111.space:25461/live/admin_182223/wGBfWji1/1268.m3u8
 #EXTINF:0,Bein Sports10 EX
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://2111.space:25461/live/admin_182223/wGBfWji1/1267.m3u8
-#EXTINF:0,Sport TV +
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/668
-#EXTINF:0,Sport TV 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/12074
-#EXTINF:0,Sport TV 1 LB
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/3434
-#EXTINF:0,Sport TV 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/667
-#EXTINF:0,Sport TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/666
-#EXTINF:0,Sport TV 1 Full HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/15243
-#EXTINF:0,Sport TV 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/665
-#EXTINF:0,Sport TV 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/664
-#EXTINF:0,Sport TV 2 Full HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/280
-#EXTINF:0,Sport TV 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/663
-#EXTINF:0,Sport TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/662
-#EXTINF:0,Sport TV 3 Full HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/281
-#EXTINF:0,Sport TV 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/661
-#EXTINF:0,Sport TV 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/660
-#EXTINF:0,Sport TV 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/659
-#EXTINF:0,Sport TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/658
-#EXTINF:0,BTV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/202
-#EXTINF:0,BTV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/716
-#EXTINF:0,BTV Full HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/436
-#EXTINF:0,ElevenSports 1 LB
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16659
-#EXTINF:0,ElevenSports 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/15244
-#EXTINF:0,ElevenSports 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16422
-#EXTINF:0,ElevenSports 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/15245
-#EXTINF:0,ElevenSports 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/15246
-#EXTINF:0,ElevenSports 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/15247
-#EXTINF:0,ElevenSports 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/15248
-#EXTINF:0,ElevenSports 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/15249
-#EXTINF:0,Barca TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/889
-#EXTINF:0,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/404
-#EXTINF:0,Eurosport 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/651
-#EXTINF:0,Fuel TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/649
-#EXTINF:0,Kombat SportS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/648
-#EXTINF:0,Fight Network HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/800
-#EXTINF:0,A Bola TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/645
-#EXTINF:0,Motorvision HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/644
-#EXTINF:0,Caça e Pesca
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/643
-#EXTINF:0,Sporting TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/642
-#EXTINF:0,Real Madrid TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/309
-#EXTINF:0,UK: BT SPORT 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16408
-#EXTINF:0,UK: BT SPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16407
-#EXTINF:0,UK: BT SPORT 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16406
-#EXTINF:0,UK: BT SPORT EUROPE
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16405
-#EXTINF:0,UK: BT SPORT EXTRA 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16404
-#EXTINF:0,UK: BT SPORT EXTRA 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16403
-#EXTINF:0,UK: BT SPORT EXTRA 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16402
-#EXTINF:0,UK: BT SPORT EXTRA 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16401
-#EXTINF:0,UK: BT SPORT EXTRA 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16400
-#EXTINF:0,UK: BT SPORT EXTRA 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16399
-#EXTINF:0,UK: BT SPORTS ESPN
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16398
-#EXTINF:0,UK: CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16397
-#EXTINF:0,UK: SKY SPORT F1 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16297
-#EXTINF:0,UK: SKY SPORT MAIN EVENT HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16300
-#EXTINF:0,UK: SKY SPORT NEWS HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16296
-#EXTINF:0,UK: SKY SPORT PREMIER LEAGUE FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16298
-#EXTINF:0,UK: SKY SPORTS GOLF FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16302
-#EXTINF:0,UK: SKY SPORTS MIX HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16295
-#EXTINF:0,IT: PREMIUM EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16593
-#EXTINF:0,IT: PREMIUM EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16592
-#EXTINF:0,IT: PREMIUM JOI HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16591
-#EXTINF:0,IT: PREMIUM SPORT 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16590
-#EXTINF:0,IT: PREMIUM SPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16589
-#EXTINF:0,IT: PREMIUM SPORT HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16588
-#EXTINF:0,IT: RAI SPORT 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16578
-#EXTINF:0,IT: RAI SPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16577
-#EXTINF:0,IT: SKY SPORT 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16544
-#EXTINF:0,IT: SKY SPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16543
-#EXTINF:0,IT: SKY SPORT 24 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16541
-#EXTINF:0,IT: SKY SPORT 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16542
-#EXTINF:0,IT: SKY SPORT F1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/16540
-#EXTINF:0,FR: BeIN Sports 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17522
-#EXTINF:0,FR: BeIN Sports 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17521
-#EXTINF:0,FR: BeIN Sports 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17520
-#EXTINF:0,FR: BeIN Sports 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17519
-#EXTINF:0,FR: BeIN Sports 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17518
-#EXTINF:0,FR: BeIN Sports 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17517
-#EXTINF:0,FR: BeIN Sports Max 10
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17510
-#EXTINF:0,FR: BeIN Sports Max 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17516
-#EXTINF:0,FR: BeIN Sports Max 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17515
-#EXTINF:0,FR: BeIN Sports Max 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17514
-#EXTINF:0,FR: BeIN Sports Max 7
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17513
-#EXTINF:0,FR: BeIN Sports Max 8
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17512
-#EXTINF:0,FR: BeIN Sports Max 9
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17511
-#EXTINF:0,FR: Canal  Sport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17536
-#EXTINF:0,FR: Canal  Sport HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17535
-#EXTINF:0,FR: Equidia HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17534
-#EXTINF:0,FR: Euronews HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17588
-#EXTINF:0,FR: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17533
-#EXTINF:0,FR: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17532
-#EXTINF:0,FR: Foot  24/24 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17531
-#EXTINF:0,FR: Infosport  HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17528
-#EXTINF:0,FR: J-One HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17548
-#EXTINF:0,FR: L' Equipe 21 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17527
-#EXTINF:0,FR: RMC Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17509
-#EXTINF:0,FR: RMC Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17508
-#EXTINF:0,FR: RMC Sport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17507
-#EXTINF:0,FR: RMC Sport 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17506
-#EXTINF:0,FR: RMC Sport Access 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17505
-#EXTINF:0,FR: RMC Sport Access 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17504
-#EXTINF:0,FR: RMC Sport Access 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17503
-#EXTINF:0,FR: RMC Sport Live 11 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17496
-#EXTINF:0,FR: RMC Sport Live 12 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17495
-#EXTINF:0,FR: RMC Sport Live 13 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17494
-#EXTINF:0,FR: RMC Sport Live 14 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17493
-#EXTINF:0,FR: RMC Sport Live 15 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17492
-#EXTINF:0,FR: RMC Sport Live 16 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17491
-#EXTINF:0,FR: RMC Sport Live 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17502
-#EXTINF:0,FR: RMC Sport Live 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17501
-#EXTINF:0,FR: RMC Sport Live 7 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17500
-#EXTINF:0,FR: RMC Sport Live 8 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17499
-#EXTINF:0,FR: RMC Sport Live 9 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17498
-#EXTINF:0,FR: RMC Sport News HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptvtugapt.site:8080/ric1280/1904slb/17523
-#EXTINF:0,IT: Sky Sport Serie A HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/643.ts
-#EXTINF:0,IT: Sky Sport Football HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/642.ts
-#EXTINF:0,IT: Sky Sport Arena HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/641.ts
-#EXTINF:0,IT: Sky Sport Golf HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/640.ts
-#EXTINF:0,IT: Sky Sport NBA HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/650.ts
-#EXTINF:0,IT: Sky Sport Uno HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/655.ts
-#EXTINF:0,IT: Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/652.ts
-#EXTINF:0,IT: Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/651.ts
-#EXTINF:0,IT: Sky Moto GP HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/646.ts
-#EXTINF:0,IT: Super Tennis HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/645.ts
-#EXTINF:0,IT: Rai Sport 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/639.ts
-#EXTINF:0,IT: Rai Sport 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/560.ts
-#EXTINF:0,IT: SportTitalia
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/638.ts
-#EXTINF:0,IT: Tele Venezia
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1866.ts
-#EXTINF:0,IT: TSN Sport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1840.ts
-#EXTINF:0,IT: Automoto Tv
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/615.ts
-#EXTINF:0,IT: Milan Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1860.ts
-#EXTINF:0,IT: Sky Roma Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/636.ts
-#EXTINF:0,IT: Sky Juventus Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/637.ts
-#EXTINF:0,UK: Sky Sports News
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/549.ts
-#EXTINF:0,UK: Sky BT Sport 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/543.ts
-#EXTINF:0,UK: Sky BT Sport 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/542.ts
-#EXTINF:0,UK: Sky BT Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/528.ts
-#EXTINF:0,UK: Sky BT Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/527.ts
-#EXTINF:0,UK: Sky BT Sport ESPN
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/479.ts
-#EXTINF:0,UK: Sky BT Sport 3 (Ex Europe)
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/453.ts
-#EXTINF:0,UK: Sky BT Sports Extra 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/533.ts
-#EXTINF:0,UK: Sky BT Sports Extra 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/532.ts
-#EXTINF:0,UK: Sky ROK
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/531.ts
-#EXTINF:0,UK: Sky Real Lives
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/530.ts
-#EXTINF:0,UK: Sky Sports Box Office HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/529.ts
-#EXTINF:0,UK: Sky Eurosport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/541.ts
-#EXTINF:0,UK: Sky Eurosport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/540.ts
-#EXTINF:0,UK: Sky Eir Sport 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1566.ts
-#EXTINF:0,UK: Sky Eir Sport 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1567.ts
-#EXTINF:0,UK: Sky motorsport.tv
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1555.ts
-#EXTINF:0,UK: Sky Sports F1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/539.ts
-#EXTINF:0,UK: Sky Sport AU 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/438.ts
-#EXTINF:0,UK: Sky Sports Action
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1560.ts
+#EXTM3U
+#EXTINF:0,TR. BEIN SPORTS 1 sd
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/16611.ts
+#EXTINF:0,TR. BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12792.ts
+#EXTINF:0,TR. BEIN SPORTS 1 HD Y
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13019.ts
+#EXTINF:0,TR. BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/1358.ts
+#EXTINF:0,TR. BEIN SPORTS 2 HD Y
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17390.ts
+#EXTINF:0,TR. BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/7852.ts
+#EXTINF:0,TR. BEIN SPORTS 3 HD  Y
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17389.ts
+#EXTINF:0,TR. BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17104.ts
+#EXTINF:0,TR. BEIN SPORTS 4 HD  Y
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/19772.ts
+#EXTINF:0,TR. BEIN SPORTS  1 MAX
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17102.ts
+#EXTINF:0,TR. BEIN SPORTS  2 MAX
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17103.ts
+#EXTINF:0,TR: BEIN SPORTS HABER
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17404.ts
+#EXTINF:0,TR: SMART SPORT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22989.ts
+#EXTINF:0,TR. TIVIBU SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18084.ts
+#EXTINF:0,TR: TIVIBU SPORT 1 HD  org
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/3975.ts
+#EXTINF:0,TR. TIVIBU SPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18057.ts
+#EXTINF:0,TR. TIVIBU SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17433.ts
+#EXTINF:0,TR. TIVIBU SPORT 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18086.ts
+#EXTINF:0,TR. TIVIBU SPORT 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17434.ts
+#EXTINF:0,TR. TIVIBU SPORT 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18085.ts
+#EXTINF:0,TR: TIVIBU SPORT 4 HD  org
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/2738.ts
+#EXTINF:0,TR: A SPOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12234.ts
+#EXTINF:0,TR: TRT SPORT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/7928.ts
+#EXTINF:0,TR: TRT SPORT HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/2007.ts
+#EXTINF:0,TR: GS   TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/2479.ts
+#EXTINF:0,TR: FB TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/2476.ts
+#EXTINF:0,TR: BURSA SPOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/2481.ts
+#EXTINF:0,TR: FANATIK
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/11718.ts
+#EXTINF:0,TR: BJK TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/2478.ts
+#EXTINF:0,DE: SKY SPORT AUSTRIA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17144.ts
+#EXTINF:0,DE: SKY SPORT  1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17142.ts
+#EXTINF:0,DE: SKY SPORT 1+ HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18280.ts
+#EXTINF:0,DE: SKY SPORT  2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/17143.ts
+#EXTINF:0,DE: SKY SPORT  3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18272.ts
+#EXTINF:0,DE: SKY SPORT  4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18273.ts
+#EXTINF:0,DE: SKY SPORT  5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18274.ts
+#EXTINF:0,DE: SKY SPORT  6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18275.ts
+#EXTINF:0,DE: SKY SPORT  7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18276.ts
+#EXTINF:0,DE: SKY SPORT  8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18277.ts
+#EXTINF:0,DE: SKY SPORT  9 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18278.ts
+#EXTINF:0,DE: SKY SPORT  10 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18279.ts
+#EXTINF:0,DE: Sky Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18281.ts
+#EXTINF:0,DE: Sky Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18282.ts
+#EXTINF:0,DE: Sky Bundesliga 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18283.ts
+#EXTINF:0,DE: Sky Bundesliga 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18284.ts
+#EXTINF:0,DE: Sky Bundesliga 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18285.ts
+#EXTINF:0,DE: Sky Bundesliga 7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18287.ts
+#EXTINF:0,DE: Sky Bundesliga 8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18286.ts
+#EXTINF:0,DE: Sky Bundesliga 9 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18288.ts
+#EXTINF:0,DE: Sky Bundesliga 10 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18289.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24262.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24261.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24260.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24259.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24258.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24257.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24256.ts
+#EXTINF:0,DE: TELEKOM FUSSBALL 8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24255.ts
+#EXTINF:0,UK: BT Sports 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23670.ts
+#EXTINF:0,UK: BT Sports 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23669.ts
+#EXTINF:0,UK: BT Sports 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23668.ts
 #EXTINF:0,UK: Sky Sports Action HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/545.ts
-#EXTINF:0,UK: Sky Sports Premier
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1565.ts
-#EXTINF:0,UK: Sky Sports Premier League
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1562.ts
-#EXTINF:0,UK: Sky Sports Premier League HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/544.ts
-#EXTINF:0,UK: Sky Sports Main Event
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1561.ts
-#EXTINF:0,UK: Sky Sports Main Event HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/546.ts
-#EXTINF:0,UK: Sky Sports Golf
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/548.ts
-#EXTINF:0,UK: Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1563.ts
-#EXTINF:0,UK: Sky Sports Cricket
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1564.ts
-#EXTINF:0,UK: Sky Sports Cricket HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/547.ts
-#EXTINF:0,UK: Sky Sport Arena
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1558.ts
-#EXTINF:0,UK: Sky Sport Football
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1559.ts
-#EXTINF:0,UK: Sky Sports Mix HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/513.ts
-#EXTINF:0,UK: Sky Setanta Sports
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/484.ts
-#EXTINF:0,UK: Sky Liverpool FC TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/536.ts
-#EXTINF:0,UK: Sky Chelsea TV HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/537.ts
-#EXTINF:0,US: Sport TSN 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1451.ts
-#EXTINF:0,US: Sport TSN 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1452.ts
-#EXTINF:0,US: Sport TSN 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1453.ts
-#EXTINF:0,US: Sport TSN 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1454.ts
-#EXTINF:0,US: Sport TSN 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1455.ts
-#EXTINF:0,US: Skynet Sports HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1476.ts
-#EXTINF:0,US: Skynet Sports 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1431.ts
-#EXTINF:0,US: Skynet Sports 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1436.ts
-#EXTINF:0,US: Skynet Sports 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1472.ts
-#EXTINF:0,US: Skynet Sports 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1473.ts
-#EXTINF:0,US: Skynet Sports 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1474.ts
-#EXTINF:0,US: Skynet Sports 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1475.ts
-#EXTINF:0,TR: Bein Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2002.ts
-#EXTINF:0,TR: Bein Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2001.ts
-#EXTINF:0,TR: Bein Sport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2000.ts
-#EXTINF:0,TR: Tivibu Spor 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1997.ts
-#EXTINF:0,TR: Tivibu Spor 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1965.ts
-#EXTINF:0,TR: Tivibu Spor 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2170.ts
-#EXTINF:0,TR: Tivibu Spor 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2171.ts
-#EXTINF:0,TR: Smart Sport HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1998.ts
-#EXTINF:0,TR: S Sport HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1969.ts
-#EXTINF:0,TR: NTV Spor
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1996.ts
-#EXTINF:0,TR: BJK Sport HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2181.ts
-#EXTINF:0,FR: Beinsport 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/366.ts
-#EXTINF:0,FR: Beinsport 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/365.ts
-#EXTINF:0,FR: Beinsport 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/364.ts
-#EXTINF:0,FR: Bein Sport Max 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/397.ts
-#EXTINF:0,FR: Bein Sport Max 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/398.ts
-#EXTINF:0,FR: Bein Sport Max 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/399.ts
-#EXTINF:0,FR: Bein Sport Max 7
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/400.ts
-#EXTINF:0,FR: Bein Sport Max 8
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/401.ts
-#EXTINF:0,FR: Bein Sport Max 9
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/402.ts
-#EXTINF:0,FR: Bein Sport Max 10
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/403.ts
-#EXTINF:0,FR: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/356.ts
-#EXTINF:0,FR: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/355.ts
-#EXTINF:0,FR: RMC Sport 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/381.ts
-#EXTINF:0,FR: RMC Sport 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/382.ts
-#EXTINF:0,FR: RMC Sport 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/383.ts
-#EXTINF:0,FR: SFR Sport 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/408.ts
-#EXTINF:0,FR: SFR Sport 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1570.ts
-#EXTINF:0,FR: ZEE Magic HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/373.ts
-#EXTINF:0,FR: Foot+ 24
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/351.ts
-#EXTINF:0,FR: InfoSport+
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/353.ts
-#EXTINF:0,FR: Canal+ Sport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/350.ts
-#EXTINF:0,FR: Ma Chaine Sport (MCS) HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/352.ts
-#EXTINF:0,AL: Sport Klub 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/268.ts
-#EXTINF:0,AL: Sport Klub 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/267.ts
-#EXTINF:0,AL: Sport Klub 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/266.ts
-#EXTINF:0,AL: SuperSport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/264.ts
-#EXTINF:0,AL: SuperSport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/263.ts
-#EXTINF:0,AL: SuperSport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/262.ts
-#EXTINF:0,AL: SuperSport 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/261.ts
-#EXTINF:0,AL: ArenaSport 1 HD Srb
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/271.ts
-#EXTINF:0,AL: ArenaSport 2 HD Srb
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/270.ts
-#EXTINF:0,AL: ArenaSport 3 HD Srb
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/269.ts
-#EXTINF:0,AL: ArenaSport 4 HD Srb
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/242.ts
-#EXTINF:0,AL: ArenaSport 5 HD Srb
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/265.ts
-#EXTINF:0,AL: ArenaSport 4 HD HR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/280.ts
-#EXTINF:0,AL: ArenaSport 3 HD HR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/281.ts
-#EXTINF:0,AL: ArenaSport 2 HD HR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/282.ts
-#EXTINF:0,AL: ArenaSport 1 HD HR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/283.ts
-#EXTINF:0,AL: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/219.ts
-#EXTINF:0,AL: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/218.ts
-#EXTINF:0,AL: K Sport 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1383.ts
-#EXTINF:0,AL: K Sport 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/1384.ts
-#EXTINF:0,GR: OTE Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2806.ts
-#EXTINF:0,GR: OTE Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2807.ts
-#EXTINF:0,GR: OTE Sport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2808.ts
-#EXTINF:0,GR: OTE Sport 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2809.ts
-#EXTINF:0,GR: OTE Sport 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2810.ts
-#EXTINF:0,GR: OTE Sport 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2811.ts
-#EXTINF:0,GR: OTE Sport 7 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2812.ts
-#EXTINF:0,GR: OTE Sport 8 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2813.ts
-#EXTINF:0,AR: Beuot Q Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/171.ts
-#EXTINF:0,AR: Beuot Q Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/174.ts
-#EXTINF:0,AR: Beuot Q Sport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2482.ts
-#EXTINF:0,AR: Beuot Q Sport 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2483.ts
-#EXTINF:0,AR: Beuot Q Sport 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2484.ts
-#EXTINF:0,AR: Bein Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/169.ts
-#EXTINF:0,AR: Bein Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/168.ts
-#EXTINF:0,AR: Bein Sport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/167.ts
-#EXTINF:0,AR: Bein Sport 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/166.ts
-#EXTINF:0,AR: Bein Sport 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/165.ts
-#EXTINF:0,AR: Bein Sport 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/164.ts
-#EXTINF:0,AR: Bein Sport 7 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/163.ts
-#EXTINF:0,AR: Bein Sport 8 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/162.ts
-#EXTINF:0,AR: Bein Sport 9 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/161.ts
-#EXTINF:0,AR: Bein Sport 10 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/160.ts
-#EXTINF:0,AR: Bein Sport 11 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/159.ts
-#EXTINF:0,AR: Bein Sport 12 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/170.ts
-#EXTINF:0,AR: Bein Sport 1 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2456.ts
-#EXTINF:0,AR: Bein Sport 2 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2457.ts
-#EXTINF:0,AR: Bein Sport 3 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2458.ts
-#EXTINF:0,AR: Bein Sport 4 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2459.ts
-#EXTINF:0,AR: Bein Sport 5 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2460.ts
-#EXTINF:0,AR: Bein Sport 6 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2461.ts
-#EXTINF:0,AR: Bein Sport 7 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2462.ts
-#EXTINF:0,AR: Bein Sport 8 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2463.ts
-#EXTINF:0,AR: Bein Sport 9 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2464.ts
-#EXTINF:0,AR: Bein Sport 10 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2465.ts
-#EXTINF:0,AR: Bein Sport 11 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2466.ts
-#EXTINF:0,AR: Bein Sport 12 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2467.ts
-#EXTINF:0,AR: Bein Sport 1 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2472.ts
-#EXTINF:0,AR: Bein Sport 2 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2473.ts
-#EXTINF:0,AR: Bein Sport 3 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2481.ts
-#EXTINF:0,AR: Bein Sport 4 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2474.ts
-#EXTINF:0,AR: Bein Sport 5 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2475.ts
-#EXTINF:0,AR: Bein Sport 6 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2476.ts
-#EXTINF:0,AR: Bein Sport 7 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2477.ts
-#EXTINF:0,AR: Bein Sport 8 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2478.ts
-#EXTINF:0,AR: Bein Sport 9 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2479.ts
-#EXTINF:0,AR: Bein Sport 10 Low
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/2480.ts
-#EXTINF:0,AR: Bein Sport News HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ipsatpro.biz:8080/live/11021102/11021102/172.ts
-#EXTINF:0,EQUIDIA LIVE
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2552
-#EXTINF:0,EQUIDIA
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2553
-#EXTINF:0,RMC SPORT 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22281
-#EXTINF:0,RMC SPORT 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22280
-#EXTINF:0,RMC SPORT 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22279
-#EXTINF:0,RMC SPORT 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22371
-#EXTINF:0,RMC SPORT 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22372
-#EXTINF:0,RMC SPORT 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22373
-#EXTINF:0,RMC SPORT 7
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22374
-#EXTINF:0,BEIN SPORTS 1 HD FR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3370
-#EXTINF:0,BEIN SPORTS 2 HD FR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3369
-#EXTINF:0,BEIN SPORTS 3 HD FR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3368
-#EXTINF:0,BEIN SPORT MAX 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3900
-#EXTINF:0,BEIN SPORT MAX 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3901
-#EXTINF:0,BEIN SPORT MAX 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3902
-#EXTINF:0,BEIN SPORT MAX 7
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3903
-#EXTINF:0,BEIN SPORT MAX 8
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3904
-#EXTINF:0,BEIN SPORT MAX 9
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/4040
-#EXTINF:0,BEIN SPORT MAX 10
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/4041
-#EXTINF:0,SFR SPORT 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2803
-#EXTINF:0,SFR SPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2804
-#EXTINF:0,SFR SPORT 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2880
-#EXTINF:0,SFR SPORT 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/16399
-#EXTINF:0,VOO SPORT 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22277
-#EXTINF:0,VOO SPORT 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22276
-#EXTINF:0,INFOSPORT+
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/1809
-#EXTINF:0,Foot 24
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2684
-#EXTINF:0,GOLF +
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/5304
-#EXTINF:0,Golf Channel HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/12251
-#EXTINF:0,EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/377
-#EXTINF:0,EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2555
-#EXTINF:0,L EQUIPE 21
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/2554
-#EXTINF:0,BEINSPORT NEWS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/16394
-#EXTINF:0,BEIN_SPORTS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3882
-#EXTINF:0,AR - BEIN SPORT 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/4412
-#EXTINF:0,AR - BEIN SPORT 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/23358
-#EXTINF:0,AR - BEIN SPORT 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/189
-#EXTINF:0,AR - BEIN SPORT 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/266
-#EXTINF:0,AR - BEIN SPORT 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/267
-#EXTINF:0,AR - BEIN SPORT 6
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/268
-#EXTINF:0,AR - BEIN SPORT 7
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/269
-#EXTINF:0,AR - BEIN SPORT 8
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/8
-#EXTINF:0,AR - BEIN SPORT 9
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/9
-#EXTINF:0,AR - BEIN SPORT 10
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/18429
-#EXTINF:0,AR - BEIN SPORT 11
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/17088
-#EXTINF:0,AR - BEIN SPORT 12
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/17087
-#EXTINF:0,AR - BEIN SPORT 13
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/17086
-#EXTINF:0,AR - BEIN SPORT 14
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/17085
-#EXTINF:0,Bein Sport HD15
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/23508
-#EXTINF:0,Bein Sport HD16
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/23507
-#EXTINF:0,Bein Sport HD17
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/23506
-#EXTINF:0,Bein Sport NBA HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/23505
-#EXTINF:0,Bein Sports 1 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22228
-#EXTINF:0,Bein Sports 2 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22226
-#EXTINF:0,Bein Sports 3 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22225
-#EXTINF:0,Bein Sports 4 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22224
-#EXTINF:0,Bein Sports 5 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22223
-#EXTINF:0,Bein Sports 6 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22222
-#EXTINF:0,Bein Sports 7 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22221
-#EXTINF:0,Bein Sports 8 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22220
-#EXTINF:0,Bein Sports 9 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22219
-#EXTINF:0,Bein Sports 10 720p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22227
-#EXTINF:0,Bein Sports 1 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22218
-#EXTINF:0,Bein Sports 2 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22216
-#EXTINF:0,Bein Sports 3 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22215
-#EXTINF:0,Bein Sports 4 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22214
-#EXTINF:0,Bein Sports 5 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22213
-#EXTINF:0,Bein Sports 6 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22212
-#EXTINF:0,Bein Sports 7 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22211
-#EXTINF:0,Bein Sports 8 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22210
-#EXTINF:0,Bein Sports 9 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22209
-#EXTINF:0,Bein Sports 10 1080p
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22217
-#EXTINF:0,BEIN SPORTS 1 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3705
-#EXTINF:0,BEIN SPORTS 2 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3706
-#EXTINF:0,BEIN SPORTS 3 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3707
-#EXTINF:0,BEIN SPORTS 4 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3708
-#EXTINF:0,BEIN SPORTS 5 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/3709
-#EXTINF:0,BEIN SPORTS 6 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/7994
-#EXTINF:0,BEIN SPORTS 7 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/7995
-#EXTINF:0,BEIN SPORTS 8 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/7996
-#EXTINF:0,beOut Q Sports 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22208
-#EXTINF:0,beOut Q Sports 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22207
-#EXTINF:0,beOut Q Sports 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22206
-#EXTINF:0,beOut Q Sports 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22205
-#EXTINF:0,beOut Q Sports 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22204
-#EXTINF:0,beOut Q Sports 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22203
-#EXTINF:0,beOut Q Sports 7 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22202
-#EXTINF:0,AR - AD Sport 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/18423
-#EXTINF:0,AR - AD Sport 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/18424
-#EXTINF:0,AR - AD Sport 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/18425
-#EXTINF:0,AR - AD Sport 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/18426
-#EXTINF:0,AR - AD Sport 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/18427
-#EXTINF:0,Al KASS 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/24939
-#EXTINF:0,Al KASS 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/24938
-#EXTINF:0,Al KASS 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/24937
-#EXTINF:0,Al KASS 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/24936
-#EXTINF:0,OSN_Sports_1_HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22232
-#EXTINF:0,OSN_Sports_2_HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22231
-#EXTINF:0,OSN_Sports_3_HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22230
-#EXTINF:0,OSN_Sports_4_HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22229
-#EXTINF:0,|AR| SPORT: AD Sports 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27533
-#EXTINF:0,|AR| SPORT: AD Sports 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27532
-#EXTINF:0,|AR| SPORT: ALAhly.TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27531
-#EXTINF:0,|AR| SPORT: ALKASS 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27530
-#EXTINF:0,|AR| SPORT: ALKASS 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27529
-#EXTINF:0,|AR| SPORT: ALKASS 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27528
-#EXTINF:0,|AR| SPORT: ALKASS 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27527
-#EXTINF:0,|AR| SPORT: Bahrain Sport 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27524
-#EXTINF:0,|AR| SPORT: DMC Sports
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27523
-#EXTINF:0,|AR| SPORT: DUBAI RCING2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27522
-#EXTINF:0,|AR| SPORT: DUBAI SPORT.3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27521
-#EXTINF:0,|AR| SPORT: Dubai Sports2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27520
-#EXTINF:0,|AR| SPORT: JOR:Jordan Sport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27519
-#EXTINF:0,|AR| SPORT: NILE SPORTS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27518
-#EXTINF:0,|AR| SPORT: OMAN TV Sport SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27517
-#EXTINF:0,|AR| SPORT: ONSport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27525
-#EXTINF:0,|AR| SPORT: Palestine-Sport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/27516
-#EXTINF:0,BE: ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22514
-#EXTINF:0,BE: ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22513
-#EXTINF:0,BE: ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ip.cs4ip.com:8000/youness/123456/22512
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23653.ts
+#EXTINF:0,UK: SKY SPORTS Premier League HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23652.ts
+#EXTINF:0,UK: Sky Sport FOOTBALL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23649.ts
+#EXTINF:0,UK: Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23648.ts
+#EXTINF:0,UK: SKY SPORTS Arena
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23638.ts
+#EXTINF:0,UK: BT SPORT  1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/19307.ts
+#EXTINF:0,UK: BT SPORT  2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/19306.ts
+#EXTINF:0,UK: BT SPORT  3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/19305.ts
+#EXTINF:0,UK: BT SPORT 1 L
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18109.ts
+#EXTINF:0,UK: BT SPORT 2 L
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/19298.ts
+#EXTINF:0,UK: BT SPORT 3 L
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/19297.ts
+#EXTINF:0,US: TSN SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20254.ts
+#EXTINF:0,US: TSN SPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20255.ts
+#EXTINF:0,US: TSN SPORT 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20256.ts
+#EXTINF:0,US: TSN SPORT 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20600.ts
+#EXTINF:0,US: TSN SPORT 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20599.ts
+#EXTINF:0,AR: BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/7653.ts
+#EXTINF:0,AR: beIN Sports 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12232.ts
+#EXTINF:0,AR: bEIN Sports 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12231.ts
+#EXTINF:0,AR: BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/6517.ts
+#EXTINF:0,AR: BEIN-sport 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12230.ts
+#EXTINF:0,AR: BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/7502.ts
+#EXTINF:0,AR: BEIN-sport 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12229.ts
+#EXTINF:0,AR: BEIN SPORT 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/7503.ts
+#EXTINF:0,AR: BEIN-sport 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12228.ts
+#EXTINF:0,AR: BEIN SPORT 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/6520.ts
+#EXTINF:0,AR: BEIN-sport 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12227.ts
+#EXTINF:0,AR: BEIN SPORT 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/6521.ts
+#EXTINF:0,AR: BEIN-sport 7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12226.ts
+#EXTINF:0,AR: BEIN SPORT 7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/6522.ts
+#EXTINF:0,AR: BEIN SPORT 8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/6523.ts
+#EXTINF:0,AR: BEIN Sports 8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12225.ts
+#EXTINF:0,AR: BEIN SPORT 9 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/6525.ts
+#EXTINF:0,AR: BEIN Sports 9 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12224.ts
+#EXTINF:0,AR: beIN Sports 10 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12223.ts
+#EXTINF:0,AR: BEIN SPORT 10 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/6526.ts
+#EXTINF:0,AR: Abu Dhabi Sports 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/7825.ts
+#EXTINF:0,AR: Abu Dhabi Sports 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/7826.ts
+#EXTINF:0,AR: DUBAI  SPORT  1 HD  local
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/11075.ts
+#EXTINF:0,AR: DUBAI  SPORT 2 HD  local
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20905.ts
+#EXTINF:0,AR: DUBAI RASIN  1  LOCAL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/11074.ts
+#EXTINF:0,AR: KTV SPORT  kuwait
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/9675.ts
+#EXTINF:0,AR: KTV SPORT PLUS  kuwait
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/9679.ts
+#EXTINF:0,AR: AlKASS 1 HD  qatar
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/11864.ts
+#EXTINF:0,AR: AlKASS 2 HD  qatar
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/11863.ts
+#EXTINF:0,AR: AlKASS 3 HD  qatar
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22384.ts
+#EXTINF:0,AR: AlKASS 4 HD  qatar
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22385.ts
+#EXTINF:0,AR: ALRAYYAN  1  qatar
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20899.ts
+#EXTINF:0,AR: ALRAYYAN  2  qatar
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20900.ts
+#EXTINF:0,POR: Motorvision
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15495.ts
+#EXTINF:0,POR: REAL MADRID TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15497.ts
+#EXTINF:0,POR: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15500.ts
+#EXTINF:0,POR: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15501.ts
+#EXTINF:0,POR: Benfica TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15504.ts
+#EXTINF:0,POR:  SPORT TV +
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20037.ts
+#EXTINF:0,POR: Sport TV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13731.ts
+#EXTINF:0,POR: Sport TV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13737.ts
+#EXTINF:0,POR: Sport TV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13739.ts
+#EXTINF:0,POR: Sport TV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/13732.ts
+#EXTINF:0,POR: Sport TV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/16707.ts
+#EXTINF:0,POR: SPORTING TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23281.ts
+#EXTINF:0,POR: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10260.ts
+#EXTINF:0,POR: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10261.ts
+#EXTINF:0,POR: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10262.ts
+#EXTINF:0,POR: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10263.ts
+#EXTINF:0,POR: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/10264.ts
+#EXTINF:0,POR: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23276.ts
+#EXTINF:0,POR: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23277.ts
+#EXTINF:0,POR: ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23278.ts
+#EXTINF:0,POR: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23279.ts
+#EXTINF:0,POR: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23280.ts
+#EXTINF:0,BR: FOX SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24322.ts
+#EXTINF:0,RU: SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24373.ts
+#EXTINF:0,RU: SPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24374.ts
+#EXTINF:0,RU: MATCH! IGRA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12742.ts
+#EXTINF:0,RU: SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18469.ts
+#EXTINF:0,RU: Match! FUTBOL 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20429.ts
+#EXTINF:0,NL: FOX SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8600.ts
+#EXTINF:0,NL: FOX SPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8601.ts
+#EXTINF:0,NL: FOX SPORT 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8602.ts
+#EXTINF:0,NL: FOX SPORT 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8603.ts
+#EXTINF:0,NL: FOX SPORT 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8604.ts
+#EXTINF:0,NL: FOX SPORT 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8611.ts
+#EXTINF:0,NL: ZIGGO SPORT HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21185.ts
+#EXTINF:0,NL: Ziggo Sport select
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8609.ts
+#EXTINF:0,NL: Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15103.ts
+#EXTINF:0,NL: ZIGGO SPORT EXTRA 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18212.ts
+#EXTINF:0,NL: ZIGGO SPORT EXTRA 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18102.ts
+#EXTINF:0,NL: Ziggo Sport Racing HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15088.ts
+#EXTINF:0,NL: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/15100.ts
+#EXTINF:0,NL: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8614.ts
+#EXTINF:0,RO: DIGI SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21160.ts
+#EXTINF:0,RO: DIGI SPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21200.ts
+#EXTINF:0,RO: DIGI SPORT 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21199.ts
+#EXTINF:0,BG: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22887.ts
+#EXTINF:0,BG: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22886.ts
+#EXTINF:0,BG: Eurosport News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22885.ts
+#EXTINF:0,BG: FightBox HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22877.ts
+#EXTINF:0,BG: FilmBox HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22876.ts
+#EXTINF:0,BG: Motorsport HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22866.ts
+#EXTINF:0,BG: NOVA SPORT HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18706.ts
+#EXTINF:0,BG: Sport +  HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20430.ts
+#EXTINF:0,BG: Nova Sport
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/22860.ts
+#EXTINF:0,BG: Diema Sport HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18785.ts
+#EXTINF:0,BG: DIEMA SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21043.ts
+#EXTINF:0,BG: Discovery Channel
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18742.ts
+#EXTINF:0,BG: Sportal TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18772.ts
+#EXTINF:0,BG: SPORT + HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18707.ts
+#EXTINF:0,AL: RTSH SPORT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21502.ts
+#EXTINF:0,AL: TRING SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21155.ts
+#EXTINF:0,AL: TRING SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21154.ts
+#EXTINF:0,PL: POLSAT SPORT HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21157.ts
+#EXTINF:0,AL: ARENA SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24266.ts
+#EXTINF:0,AL: ARENA SPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24267.ts
+#EXTINF:0,AL: ARENA SPORT 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24264.ts
+#EXTINF:0,AL: SUPER SPORT 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21153.ts
+#EXTINF:0,AL: ARENA SPORT 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24265.ts
+#EXTINF:0,SRB: ARENA SPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12851.ts
+#EXTINF:0,SRB: ARENA SPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12852.ts
+#EXTINF:0,SRB: ARENA SPORT 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12853.ts
+#EXTINF:0,SRB: ARENA SPORT 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12854.ts
