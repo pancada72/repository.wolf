@@ -1,4 +1,359 @@
 #EXTM3U
+#EXTINF:-1,PT: ABOLA TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3904.m3u8
+
+#EXTINF:-1,PT: AMCHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3914.m3u8
+
+#EXTINF:-1,PT: AXN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3789.m3u8
+
+#EXTINF:-1,PT: AXN BLACK HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3901.m3u8
+
+#EXTINF:-1,PT: AXN WHITE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3797.m3u8
+
+#EXTINF:-1,PT: Baby First
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3892.m3u8
+
+#EXTINF:-1,PT: BENFICA TV1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3767.m3u8
+
+#EXTINF:-1,PT: Caça e Pesca
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3911.m3u8
+
+#EXTINF:-1,PT: CANAL PANDA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3899.m3u8
+
+#EXTINF:-1,PT: Canal Q
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3896.m3u8
+
+#EXTINF:-1,PT: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3898.m3u8
+
+#EXTINF:-1,PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3915.m3u8
+
+#EXTINF:-1,PT: DISCOVERY
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3805.m3u8
+
+#EXTINF:-1,PT: Disney Channel HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3893.m3u8
+
+#EXTINF:-1,PT: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3796.m3u8
+
+#EXTINF:-1,PT: Food Network
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3781.m3u8
+
+#EXTINF:-1,PT: FOX
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3794.m3u8
+
+#EXTINF:-1,PT: FoxComedy
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3780.m3u8
+
+#EXTINF:-1,PT: FoxCrime
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3779.m3u8
+
+#EXTINF:-1,PT: FoxLife HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3778.m3u8
+
+#EXTINF:-1,PT: HOLLYWOOD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3804.m3u8
+
+#EXTINF:-1,PT: JimJam
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3897.m3u8
+
+#EXTINF:-1,PT: Kombat Sport
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3917.m3u8
+
+#EXTINF:-1,PT: Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3912.m3u8
+
+#EXTINF:-1,PT: NATIONAL GEO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3803.m3u8
+
+#EXTINF:-1,PT: Porto Canal
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3921.m3u8
+
+#EXTINF:-1,PT: Real Madrid
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3918.m3u8
+
+#EXTINF:-1,PT: RTP Memória
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3906.m3u8
+
+#EXTINF:-1,PT: SIC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3787.m3u8
+
+#EXTINF:-1,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
+
+#EXTINF:-1,PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3771.m3u8
+
+#EXTINF:-1,PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3770.m3u8
+
+#EXTINF:-1,PT: TLC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3900.m3u8
+
+#EXTINF:-1,PT: TOROS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3782.m3u8
+
+#EXTINF:-1,PT: TV CINE 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3801.m3u8
+
+#EXTINF:-1,PT: TV CINE 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3800.m3u8
+
+#EXTINF:-1,PT: TV CINE 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3799.m3u8
+
+#EXTINF:-1,PT: TV CINE 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3798.m3u8
+
+#EXTINF:-1,PT: RecordTV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3902.m3u8
+
+#EXTINF:-1,PT: TV SERIES HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3916.m3u8
+
+#EXTINF:-1,PT: TVI
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3785.m3u8
+
+#EXTINF:-1,PT: TVI 24
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3774.m3u8
+
+#EXTINF:-1,PT: TVI FICÇÃO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3905.m3u8
+
+#EXTINF:-1,PT: TVI REALITY
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3791.m3u8
+
+#EXTINF:-1,PT: SIC mulher
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/9682.m3u8
+
+#EXTINF:-1,PT | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14128.m3u8
+
+#EXTINF:-1,PT | DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14127.m3u8
+
+#EXTINF:-1,PT | DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14126.m3u8
+
+#EXTINF:-1,PT | E! Entertainment
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14125.m3u8
+
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13183.m3u8
+
+#EXTINF:-1,E! MAXX 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13182.m3u8
+
+#EXTINF:-1,Eimax 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13181.m3u8
+
+#EXTINF:-1,ESPN Brasil
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13180.m3u8
+
+#EXTINF:-1,ESPN plus
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13178.m3u8
+
+#EXTINF:-1,FOX Sporm3u8 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13177.m3u8
+
+#EXTINF:-1,Fox Sporm3u8 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13176.m3u8
+
+#EXTINF:-1,Globo News
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13174.m3u8
+
+#EXTINF:-1,Globo Premium
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13173.m3u8
+
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13172.m3u8
+
+#EXTINF:-1,GNT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13171.m3u8
+
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13170.m3u8
+
+#EXTINF:-1,Investiga
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13169.m3u8
+
+#EXTINF:-1,Max
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13168.m3u8
+
+#EXTINF:-1,Max Prime
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13167.m3u8
+
+#EXTINF:-1,MegaPix
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13166.m3u8
+
+#EXTINF:-1,Nick
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13165.m3u8
+
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13164.m3u8
+
+#EXTINF:-1,Paramount
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13163.m3u8
+
+#EXTINF:-1,Premiere Clubes
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13162.m3u8
+
+#EXTINF:-1,REDE RECORD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13161.m3u8
+
+#EXTINF:-1,Sport TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13159.m3u8
+
+#EXTINF:-1,Sport TV2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13158.m3u8
+
+#EXTINF:-1,Sport TV3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13157.m3u8
+
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13156.m3u8
+
+#EXTINF:-1,TV Globo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13153.m3u8
+
+#EXTINF:-1,TV Globo Premium
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13152.m3u8
+
+#EXTINF:-1,Universal Brasil
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13151.m3u8
+
+#EXTINF:-1,BR: A&E
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13150.m3u8
+
+#EXTINF:-1,BR: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13149.m3u8
+
+#EXTINF:-1,BR: AXN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13148.m3u8
+
+#EXTINF:-1,BR: BAND NEWS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13147.m3u8
+
+#EXTINF:-1,BR: BAND SPORm3u8
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13146.m3u8
+
+#EXTINF:-1,BR: Boomerang
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13145.m3u8
+
+#EXTINF:-1,BR: Canal Sony
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13144.m3u8
+
+#EXTINF:-1,BR: Cartoon Network
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13143.m3u8
+
+#EXTINF:-1,BR: CINEMAX
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13142.m3u8
+
+#EXTINF:-1,BR: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13140.m3u8
+
+#EXTINF:-1,BR: DISCOVERY
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13139.m3u8
+
+#EXTINF:-1,BR: Discovery Civilization
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13138.m3u8
+
+#EXTINF:-1,BR: Discovery Home Health
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13137.m3u8
+
+#EXTINF:-1,BR: Discovery Turbo
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13136.m3u8
+
+#EXTINF:-1,BR: Disney
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13135.m3u8
+
+#EXTINF:-1,BR: Disney Jr
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13134.m3u8
+
+#EXTINF:-1,BR: Disney XD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13133.m3u8
+
+#EXTINF:-1,BR: FOX
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13132.m3u8
+
+#EXTINF:-1,BR: Fox Life
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13131.m3u8
+
+#EXTINF:-1,BR: H2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13130.m3u8
+
+#EXTINF:-1,BR: HBO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13129.m3u8
+
+#EXTINF:-1,BR: HBO 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13128.m3u8
+
+#EXTINF:-1,BR: HBO Family
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13127.m3u8
+
+#EXTINF:-1,BR: HBO Plus
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13126.m3u8
+
+#EXTINF:-1,BR: National Geographic
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13124.m3u8
+
+#EXTINF:-1,BR: Space Brasil
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13123.m3u8
+
+#EXTINF:-1,BR: Syfy
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13122.m3u8
+
+#EXTINF:-1,BR: TBS Brasil
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13121.m3u8
+
+#EXTINF:-1,BR: TCM
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13120.m3u8
+
+#EXTINF:-1,BR: Telecine Action
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13119.m3u8
+
+#EXTINF:-1,BR: Telecine Cult
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13118.m3u8
+
+#EXTINF:-1,BR: Telecine Fun
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13117.m3u8
+
+#EXTINF:-1,BR: Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13116.m3u8
+
+#EXTINF:-1,BR: Telecine Premium
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13115.m3u8
+
+#EXTINF:-1,BR: Telecine Touch
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13114.m3u8
+
+#EXTINF:-1,BR: TLC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13113.m3u8
+
+#EXTINF:-1,BR: TNT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13112.m3u8
+
+#EXTINF:-1,BR: TNT Series
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13111.m3u8
+
+#EXTINF:-1,BR: Tooncast
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13110.m3u8
+
+#EXTINF:-1,BR: Universal
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13109.m3u8
+
+#EXTINF:-1,BR: WARNER
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13108.m3u8
+
+
 #EXTINF:0,PT: 24 Kitchen
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16258.m3u8
 #EXTINF:0,PT: A Bola TV
