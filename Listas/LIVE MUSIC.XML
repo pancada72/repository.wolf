@@ -3,6 +3,10 @@
 plugin://plugin.video.youtube/play/?video_id=SwimR5pv6SI
 #EXTINF:0 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/bob-marley-colors_a-G-9085648-0.jpg?w=632&h=949",[COLOR blue]Bob Marley - The Legend Live @ Santa Barbara County Bowl 1979 full[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=imfiY8ZVZ0g
+#EXTINF:0 tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=10219120&qld=90&l=430&a=-1",[COLOR blue]The Pink Floyd Tribute Show (2011) Full- Live From Liverpool[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=qYbm096uzEc
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/17/87/62/178762e823e257809d6e90be367f68c8.jpg",[COLOR blue]Scorpions Live Saarbrücken Full Concert 1080p HD[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=wtx5jiDEvJc
 
 #EXTINF:0 tvg-logo="",[COLOR blue][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=
