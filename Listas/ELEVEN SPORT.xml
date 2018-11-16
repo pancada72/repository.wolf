@@ -38,6 +38,8 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://fo
 #EXTINF:0, [COLOR  red][B] LINHA 3[/B][/COLOR]
 #EXTINF:0,POR: ELEVEN SPORTS 1 FHD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23276.ts
+#EXTINF:0,POR: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23276.ts
 #EXTINF:0,POR: ELEVEN SPORTS 2 FHD
 plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/23277.ts
 #EXTINF:0,POR: ELEVEN SPORTS 3 FHD
