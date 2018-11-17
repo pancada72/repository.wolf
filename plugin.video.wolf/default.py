@@ -1178,46 +1178,47 @@ def ii1I1IIii11 ( regexs , url , cookieJar = None , forCookieJarOnly = False , r
  else :
   return url , OOOiII1
   if 45 - 45: Ooo00oOo00o / II1 - IIII / oO0o0ooO0 % O0oO
-def OoOIii11iI11i1I ( ) :
- import binascii
+  if 83 - 83: IIiIiII11i . IIii1I - O0oO * i11iIiiIii
+  if 20 - 20: O00ooooo00 * o0oO0 + iIiiiI1IiI1I1 % ii11ii1ii % OoOO0ooOOoo0O
+def iIi1II ( ) :
  generator . addon_log ( "Request" )
  O0O00o0OOO0 ( generator . url + generator . base , '' )
- if 64 - 64: i11iIiiIii
-def I1II ( t ) :
+ if 17 - 17: o0000oOoOoO0o % IiIIi1I1Iiii / OoOO . O0oO * o0000oOoOoO0o - iIiiiI1IiI1I1
+def i1i1IIii1i1 ( t ) :
  import hashlib
  oOOO00o000o = hashlib . md5 ( )
  oOOO00o000o . update ( t )
  return oOOO00o000o . hexdigest ( )
- if 17 - 17: o0000oOoOoO0o % IiIIi1I1Iiii / OoOO . O0oO * o0000oOoOoO0o - iIiiiI1IiI1I1
-def i1i1IIii1i1 ( encrypted ) :
- oOoO00 = ""
+ if 65 - 65: IIiIiII11i + OOooOOo / o0000oOoOoO0o
+def oOO ( encrypted ) :
+ oOooo0O0o = ""
  print 'enc' , encrypted
- if 40 - 40: ii11ii1ii
- if 67 - 67: OoOO0ooOOoo0O + iIiiiI1IiI1I1 - OOO0O0O0ooooo . OoOO0ooOOoo0O * iIiiiI1IiI1I1 * o00O0oo
- if 90 - 90: oO0o0ooO0 . O0oO
- if 81 - 81: o0000oOoOoO0o - o00O0oo % i11Ii11I1Ii1i - Ooo00oOo00o / IiIIi1I1Iiii
-def Ii1iI111 ( media_url ) :
+ if 72 - 72: IIii1I / O0oO % IIII % o0000oOoOoO0o - o00O0oo % o0000oOoOoO0o
+ if 100 - 100: IiIIi1I1Iiii + i11iIiiIii
+ if 71 - 71: o00O0oo / ii11ii1ii / o0oO0 % o0000oOoOoO0o
+ if 51 - 51: O0oO * OOO0O0O0ooooo / iIiiiI1IiI1I1 . oO0o0ooO0 % o0000oOoOoO0o / IIiIiII11i
+def ii1iii1I1I ( media_url ) :
  try :
   import CustomPlayer
-  O0oooo00o0Oo = CustomPlayer . MyXBMCPlayer ( )
-  I1iii = xbmcgui . ListItem ( label = str ( iI1Ii11iII1 ) , iconImage = "DefaultVideo.png" , thumbnailImage = xbmc . getInfoImage ( "ListItem.Thumb" ) , path = media_url )
-  O0oooo00o0Oo . play ( media_url , I1iii )
+  oO0Ooo0ooOO0 = CustomPlayer . MyXBMCPlayer ( )
+  i1IIiIii1i = xbmcgui . ListItem ( label = str ( iI1Ii11iII1 ) , iconImage = "DefaultVideo.png" , thumbnailImage = xbmc . getInfoImage ( "ListItem.Thumb" ) , path = media_url )
+  oO0Ooo0ooOO0 . play ( media_url , i1IIiIii1i )
   xbmc . sleep ( 1000 )
-  while O0oooo00o0Oo . is_active :
+  while oO0Ooo0ooOO0 . is_active :
    xbmc . sleep ( 200 )
  except :
   traceback . print_exc ( )
  return ''
- if 86 - 86: OoOO * OOO0O0O0ooooo * O0oO
-def Ooo0oo ( params ) :
+ if 77 - 77: OOO0O0O0ooooo % OoOO0ooOOoo0O - Ooo00oOo00o
+def oo ( params ) :
  ii11iIi1I = json . dumps ( params )
- IIi11IIiIii1 = xbmc . executeJSONRPC ( ii11iIi1I )
- if 17 - 17: oO0o0ooO0 + OoOO0ooOOoo0O . Ooo00oOo00o - IiIIi1I1Iiii * i11iIiiIii
+ i1i1I = xbmc . executeJSONRPC ( ii11iIi1I )
+ if 25 - 25: IIii1I + OoOO + IIII / iIiiiI1IiI1I1 / o00O0oo
  try :
-  i1iIIi1 = json . loads ( IIi11IIiIii1 )
+  i1iIIi1 = json . loads ( i1i1I )
  except UnicodeDecodeError :
-  i1iIIi1 = json . loads ( IIi11IIiIii1 . decode ( 'utf-8' , 'ignore' ) )
-  if 20 - 20: IIiIiII11i . II1 % o0000oOoOoO0o
+  i1iIIi1 = json . loads ( i1i1I . decode ( 'utf-8' , 'ignore' ) )
+  if 60 - 60: i11Ii11I1Ii1i * o0oO0 + IiIIi1I1Iiii
  try :
   if 'result' in i1iIIi1 :
    return i1iIIi1 [ 'result' ]
@@ -1225,216 +1226,216 @@ def Ooo0oo ( params ) :
  except KeyError :
   logger . warn ( "[%s] %s" % ( params [ 'method' ] , i1iIIi1 [ 'error' ] [ 'message' ] ) )
   return None
-  if 63 - 63: IIiIiII11i % IIii1I
-  if 39 - 39: IIII / iIiiiI1IiI1I1 / OoOO % IIiIiII11i
-def O0Oo00 ( proxysettings = None ) :
- if 41 - 41: IIii1I % o00O0oo
+  if 19 - 19: Ooo00oOo00o * o00O0oo / o00O0oo . II1 - o0000oOoOoO0o + i11iIiiIii
+  if 88 - 88: i11iIiiIii - i11Ii11I1Ii1i
+def O0iIi1IiII ( proxysettings = None ) :
+ if 27 - 27: IIII . o00O0oo . IIii1I . IIii1I
  if proxysettings == None :
   print 'proxy set to nothing'
   xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.usehttpproxy", "value":false}, "id":1}' )
  else :
-  if 59 - 59: o0000oOoOoO0o + i11iIiiIii
-  oo0OOo0O = proxysettings . split ( ':' )
-  Ii1IiII = oo0OOo0O [ 0 ]
-  I1iooo = oo0OOo0O [ 1 ]
-  ii1iiIi1 = oo0OOo0O [ 2 ]
-  i111iiI1ii = None
-  IIiii = None
-  if 30 - 30: o00O0oo / oO0o0ooO0 . O0oO . II1 - IiIIi1I1Iiii
-  if len ( oo0OOo0O ) > 3 and '@' in proxysettings :
-   i111iiI1ii = oo0OOo0O [ 3 ]
-   IIiii = proxysettings . split ( '@' ) [ - 1 ]
-   if 44 - 44: OOO0O0O0ooooo * II1 % i11Ii11I1Ii1i + iIiiiI1IiI1I1
-  print 'proxy set to' , ii1iiIi1 , Ii1IiII , I1iooo
+  if 20 - 20: ii11ii1ii / O00ooooo00
+  oOIi111 = proxysettings . split ( ':' )
+  oO0 = oOIi111 [ 0 ]
+  i1iI = oOIi111 [ 1 ]
+  iioo0o0OoOOO = oOIi111 [ 2 ]
+  ooO0oO00O0o = None
+  ooOO00oOOo000 = None
+  if 14 - 14: Ooo00oOo00o . iIiiiI1IiI1I1 . o00O0oo / oO0o0ooO0 % OoOO - i11Ii11I1Ii1i
+  if len ( oOIi111 ) > 3 and '@' in proxysettings :
+   ooO0oO00O0o = oOIi111 [ 3 ]
+   ooOO00oOOo000 = proxysettings . split ( '@' ) [ - 1 ]
+   if 67 - 67: o00O0oo - o0000oOoOoO0o . O00ooooo00
+  print 'proxy set to' , iioo0o0OoOOO , oO0 , i1iI
   xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.usehttpproxy", "value":true}, "id":1}' )
-  xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxytype", "value":' + str ( ii1iiIi1 ) + '}, "id":1}' )
-  xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxyserver", "value":"' + str ( Ii1IiII ) + '"}, "id":1}' )
-  xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxyport", "value":' + str ( I1iooo ) + '}, "id":1}' )
-  if 39 - 39: OoOO0ooOOoo0O % IIii1I % OOO0O0O0ooooo % II1 * OoOO + IIII
-  if 68 - 68: IiIIi1I1Iiii + i11iIiiIii
-  if not i111iiI1ii == None :
-   xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxyusername", "value":"' + str ( i111iiI1ii ) + '"}, "id":1}' )
-   xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxypassword", "value":"' + str ( IIiii ) + '"}, "id":1}' )
-   if 69 - 69: IIii1I * IIii1I * i11iIiiIii + IIiIiII11i / o0000oOoOoO0o % oO0o0ooO0
-   if 58 - 58: o0000oOoOoO0o * ii11ii1ii + OOO0O0O0ooooo % o0000oOoOoO0o
-def iI1I1iIi11 ( ) :
- oo0ooOO = Ooo0oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.usehttpproxy" } , 'id' : 1 } ) [ 'value' ]
- print 'proxyActive' , oo0ooOO
- ii1iiIi1 = Ooo0oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxytype" } , 'id' : 1 } ) [ 'value' ]
- if 24 - 24: Ooo00oOo00o % Ooo00oOo00o * IIii1I
- if oo0ooOO :
-  Ii1IiII = Ooo0oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxyserver" } , 'id' : 1 } ) [ 'value' ]
-  I1iooo = unicode ( Ooo0oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxyport" } , 'id' : 1 } ) [ 'value' ] )
-  i111iiI1ii = Ooo0oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxyusername" } , 'id' : 1 } ) [ 'value' ]
-  IIiii = Ooo0oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxypassword" } , 'id' : 1 } ) [ 'value' ]
-  if 50 - 50: Ooo00oOo00o . i11iIiiIii - OoOO0ooOOoo0O . OoOO0ooOOoo0O
-  if i111iiI1ii and IIiii and Ii1IiII and I1iooo :
-   return Ii1IiII + ':' + str ( I1iooo ) + ':' + str ( ii1iiIi1 ) + ':' + i111iiI1ii + '@' + IIiii
-  elif Ii1IiII and I1iooo :
-   return Ii1IiII + ':' + str ( I1iooo ) + ':' + str ( ii1iiIi1 )
+  xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxytype", "value":' + str ( iioo0o0OoOOO ) + '}, "id":1}' )
+  xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxyserver", "value":"' + str ( oO0 ) + '"}, "id":1}' )
+  xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxyport", "value":' + str ( i1iI ) + '}, "id":1}' )
+  if 35 - 35: IIII + i11Ii11I1Ii1i - OoOO0ooOOoo0O . IIII . O0oO
+  if 87 - 87: OOooOOo
+  if not ooO0oO00O0o == None :
+   xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxyusername", "value":"' + str ( ooO0oO00O0o ) + '"}, "id":1}' )
+   xbmc . executeJSONRPC ( '{"jsonrpc":"2.0", "method":"Settings.SetSettingValue", "params":{"setting":"network.httpproxypassword", "value":"' + str ( ooOO00oOOo000 ) + '"}, "id":1}' )
+   if 25 - 25: O00ooooo00 . Ooo00oOo00o - OOooOOo / Ooo00oOo00o % Ooo00oOo00o * IIii1I
+   if 50 - 50: Ooo00oOo00o . i11iIiiIii - OoOO0ooOOoo0O . OoOO0ooOOoo0O
+def I11I ( ) :
+ iIIII1i = oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.usehttpproxy" } , 'id' : 1 } ) [ 'value' ]
+ print 'proxyActive' , iIIII1i
+ iioo0o0OoOOO = oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxytype" } , 'id' : 1 } ) [ 'value' ]
+ if 76 - 76: IIII + i11Ii11I1Ii1i
+ if iIIII1i :
+  oO0 = oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxyserver" } , 'id' : 1 } ) [ 'value' ]
+  i1iI = unicode ( oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxyport" } , 'id' : 1 } ) [ 'value' ] )
+  ooO0oO00O0o = oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxyusername" } , 'id' : 1 } ) [ 'value' ]
+  ooOO00oOOo000 = oo ( { 'jsonrpc' : '2.0' , "method" : "Settings.GetSettingValue" , "params" : { "setting" : "network.httpproxypassword" } , 'id' : 1 } ) [ 'value' ]
+  if 30 - 30: i11iIiiIii % IIii1I . o00O0oo % IIii1I
+  if ooO0oO00O0o and ooOO00oOOo000 and oO0 and i1iI :
+   return oO0 + ':' + str ( i1iI ) + ':' + str ( iioo0o0OoOOO ) + ':' + ooO0oO00O0o + '@' + ooOO00oOOo000
+  elif oO0 and i1iI :
+   return oO0 + ':' + str ( i1iI ) + ':' + str ( iioo0o0OoOOO )
  else :
   return None
-  if 31 - 31: o0000oOoOoO0o / IiIIi1I1Iiii * O00ooooo00 . OOooOOo
-def OO0o0oO ( media_url , name , iconImage , proxyip , port ) :
- if 83 - 83: ii11ii1ii / i11iIiiIii % IIii1I . o00O0oo % OoOO0ooOOoo0O . II1
- o00oO00 = xbmcgui . DialogProgress ( )
- o00oO00 . create ( 'Progress' , 'Playing with custom proxy' )
- o00oO00 . update ( 10 , "" , "setting proxy.." , "" )
- OO0oOOo = False
- OO0oO0o = ''
+  if 62 - 62: IiIIi1I1Iiii * OOooOOo
+def OO0 ( media_url , name , iconImage , proxyip , port ) :
+ if 84 - 84: OOooOOo % i11Ii11I1Ii1i - OOooOOo . ii11ii1ii
+ III1iI1iII1I = xbmcgui . DialogProgress ( )
+ III1iI1iII1I . create ( 'Progress' , 'Playing with custom proxy' )
+ III1iI1iII1I . update ( 10 , "" , "setting proxy.." , "" )
+ I1i11IiI11i1 = False
+ OOoOoO00O0O0o = ''
  try :
-  if 39 - 39: ii11ii1ii * i11Ii11I1Ii1i + oO0o0ooO0 * iIiiiI1IiI1I1
-  OO0oO0o = iI1I1iIi11 ( )
-  print 'existing_proxy' , OO0oO0o
-  if 97 - 97: IIii1I + o00O0oo + iIiiiI1IiI1I1 % O0oO % o0oO0 % OoOO0ooOOoo0O
-  O0Oo00 ( proxyip + ':' + port + ':0' )
-  if 21 - 21: IIiIiII11i / i11Ii11I1Ii1i % i11Ii11I1Ii1i - ii11ii1ii
-  print 'proxy setting complete' , iI1I1iIi11 ( )
-  OO0oOOo = True
-  o00oO00 . update ( 80 , "" , "setting proxy complete, now playing" , "" )
-  o00oO00 . close ( )
-  o00oO00 = None
+  if 12 - 12: OoOO + Ooo00oOo00o % o00O0oo
+  OOoOoO00O0O0o = I11I ( )
+  print 'existing_proxy' , OOoOoO00O0O0o
+  if 85 - 85: IIII * ii11ii1ii
+  O0iIi1IiII ( proxyip + ':' + port + ':0' )
+  if 3 - 3: o0000oOoOoO0o
+  print 'proxy setting complete' , I11I ( )
+  I1i11IiI11i1 = True
+  III1iI1iII1I . update ( 80 , "" , "setting proxy complete, now playing" , "" )
+  III1iI1iII1I . close ( )
+  III1iI1iII1I = None
   import CustomPlayer
-  O0oooo00o0Oo = CustomPlayer . MyXBMCPlayer ( )
-  I1iii = xbmcgui . ListItem ( label = str ( name ) , iconImage = iconImage , thumbnailImage = xbmc . getInfoImage ( "ListItem.Thumb" ) , path = media_url )
-  O0oooo00o0Oo . play ( media_url , I1iii )
+  oO0Ooo0ooOO0 = CustomPlayer . MyXBMCPlayer ( )
+  i1IIiIii1i = xbmcgui . ListItem ( label = str ( name ) , iconImage = iconImage , thumbnailImage = xbmc . getInfoImage ( "ListItem.Thumb" ) , path = media_url )
+  oO0Ooo0ooOO0 . play ( media_url , i1IIiIii1i )
   xbmc . sleep ( 1000 )
-  while O0oooo00o0Oo . is_active :
+  while oO0Ooo0ooOO0 . is_active :
    xbmc . sleep ( 200 )
  except :
   traceback . print_exc ( )
- if o00oO00 :
-  o00oO00 . close ( )
- if OO0oOOo :
+ if III1iI1iII1I :
+  III1iI1iII1I . close ( )
+ if I1i11IiI11i1 :
   print 'now resetting the proxy back'
-  O0Oo00 ( OO0oO0o )
+  O0iIi1IiII ( OOoOoO00O0O0o )
   print 'reset here'
  return ''
- if 70 - 70: IiIIi1I1Iiii . OOooOOo
- if 58 - 58: o00O0oo + iIiiiI1IiI1I1 * IIII * i11iIiiIii - IIii1I
-def oooo00o0o0o ( page_value , referer = None ) :
+ if 20 - 20: iIiiiI1IiI1I1 . IIII / iIiiiI1IiI1I1 % i11iIiiIii % IIII
+ if 11 - 11: O0oO % OoOO % oO0o0ooO0 / iIiiiI1IiI1I1 % o0oO0 - IiIIi1I1Iiii
+def OOooO ( page_value , referer = None ) :
  if referer :
   referer = [ ( 'Referer' , referer ) ]
  if page_value . startswith ( "http" ) :
-  O0Oo00oO0O00 = page_value
+  O00O0OO00oo = page_value
   page_value = OooO0OO ( page_value , headers = referer )
-  if 32 - 32: iIiiiI1IiI1I1 . oO0o0ooO0 - IIII * o0oO0
- OOO00oo0ooO = "(eval\(function\(p,a,c,k,e,(?:r|d).*)"
- if 38 - 38: IIii1I - iIiiiI1IiI1I1 - IIiIiII11i
- ooo = re . compile ( OOO00oo0ooO ) . findall ( page_value )
- OOOO0oooo = ""
- if ooo and len ( ooo ) > 0 :
-  for oO00oo0o00o0o in ooo :
-   oooooOo0 = O0o0O0OO00o ( oO00oo0o00o0o )
-   OOo00O = oO0000OOo00 ( oooooOo0 , '\'(.*?)\'' )
-   if 'unescape' in oooooOo0 :
-    oooooOo0 = urllib . unquote ( OOo00O )
-   OOOO0oooo += oooooOo0 + '\n'
-  print 'final value is ' , OOOO0oooo
-  if 81 - 81: O0oO . ii11ii1ii / o0oO0
-  O0Oo00oO0O00 = oO0000OOo00 ( OOOO0oooo , 'src="(.*?)"' )
-  if 17 - 17: i11iIiiIii - o0000oOoOoO0o . O0oO % IIii1I + o00O0oo - i11Ii11I1Ii1i
-  page_value = OooO0OO ( O0Oo00oO0O00 , headers = referer )
-  if 78 - 78: o00O0oo * OOooOOo . OOO0O0O0ooooo / OOO0O0O0ooooo
-  if 80 - 80: O00ooooo00 - IiIIi1I1Iiii / Ooo00oOo00o - i11iIiiIii
-  if 68 - 68: OoOO0ooOOoo0O - OoOO % OOO0O0O0ooooo % o0oO0
- Ii1II = oO0000OOo00 ( page_value , 'streamer\'.*?\'(.*?)\'\)' )
- ooO0O0o0 = oO0000OOo00 ( page_value , 'file\',\s\'(.*?)\'' )
- if 92 - 92: IiIIi1I1Iiii % OoOO * IIii1I - OoOO . ii11ii1ii
- if 95 - 95: o0oO0 % IIiIiII11i
- return Ii1II + ' playpath=' + ooO0O0o0 + ' pageUrl=' + O0Oo00oO0O00
- if 42 - 42: II1 - IIII / II1 / oO0o0ooO0
-def O0OOooo0OooOo ( page_value , referer = None ) :
+  if 69 - 69: ii11ii1ii / IiIIi1I1Iiii
+ IIi = "(eval\(function\(p,a,c,k,e,(?:r|d).*)"
+ if 34 - 34: II1 . OOO0O0O0ooooo / OoOO0ooOOoo0O * OOooOOo - OoOO
+ IiiiI = re . compile ( IIi ) . findall ( page_value )
+ Iiii1I1 = ""
+ if IiiiI and len ( IiiiI ) > 0 :
+  for oO00oo0o00o0o in IiiiI :
+   O0II11i11II = II1Ii1iI1i1 ( oO00oo0o00o0o )
+   o0OoO000O = oO0000OOo00 ( O0II11i11II , '\'(.*?)\'' )
+   if 'unescape' in O0II11i11II :
+    O0II11i11II = urllib . unquote ( o0OoO000O )
+   Iiii1I1 += O0II11i11II + '\n'
+  print 'final value is ' , Iiii1I1
+  if 94 - 94: OOooOOo . OOO0O0O0ooooo / oO0o0ooO0 . OoOO - O00ooooo00
+  O00O0OO00oo = oO0000OOo00 ( Iiii1I1 , 'src="(.*?)"' )
+  if 26 - 26: Ooo00oOo00o - o0000oOoOoO0o . ii11ii1ii
+  page_value = OooO0OO ( O00O0OO00oo , headers = referer )
+  if 65 - 65: OoOO % OOO0O0O0ooooo % IIii1I * oO0o0ooO0
+  if 31 - 31: oO0o0ooO0
+  if 44 - 44: OOooOOo - IIii1I - IiIIi1I1Iiii
+ Oo0000O0OOooO = oO0000OOo00 ( page_value , 'streamer\'.*?\'(.*?)\'\)' )
+ O00OO = oO0000OOo00 ( page_value , 'file\',\s\'(.*?)\'' )
+ if 65 - 65: O00ooooo00 . II1 * oO0o0ooO0 / O0oO
+ if 86 - 86: OOooOOo * iIiiiI1IiI1I1 - OOO0O0O0ooooo . OOooOOo % IIii1I / o0000oOoOoO0o
+ return Oo0000O0OOooO + ' playpath=' + O00OO + ' pageUrl=' + O00O0OO00oo
+ if 11 - 11: IIiIiII11i * OoOO0ooOOoo0O + OoOO / OoOO
+def iiii1I1 ( page_value , referer = None ) :
  if referer :
   referer = [ ( 'Referer' , referer ) ]
  if page_value . startswith ( "http" ) :
   page_value = OooO0OO ( page_value , headers = referer )
- OOO00oo0ooO = "var a = (.*?);\s*var b = (.*?);\s*var c = (.*?);\s*var d = (.*?);\s*var f = (.*?);\s*var v_part = '(.*?)';"
- ooo = re . compile ( OOO00oo0ooO ) . findall ( page_value ) [ 0 ]
- if 62 - 62: OOooOOo / IIiIiII11i - OoOO - IIiIiII11i + i11iIiiIii + O00ooooo00
- I1i11II , Oo000 , II11 , I1iiioOO0OO0O , o00o , oO00oo0o00o0o = ( ooo )
- o00o = int ( o00o )
- I1i11II = int ( I1i11II ) / o00o
- Oo000 = int ( Oo000 ) / o00o
- II11 = int ( II11 ) / o00o
- I1iiioOO0OO0O = int ( I1iiioOO0OO0O ) / o00o
- if 47 - 47: ii11ii1ii + IIII - OoOO0ooOOoo0O % II1
- O0Oo00O = 'rtmp://' + str ( I1i11II ) + '.' + str ( Oo000 ) + '.' + str ( II11 ) + '.' + str ( I1iiioOO0OO0O ) + oO00oo0o00o0o ;
+ IIi = "var a = (.*?);\s*var b = (.*?);\s*var c = (.*?);\s*var d = (.*?);\s*var f = (.*?);\s*var v_part = '(.*?)';"
+ IiiiI = re . compile ( IIi ) . findall ( page_value ) [ 0 ]
+ if 14 - 14: OOooOOo * IIiIiII11i + II1 - IIII - O0oO
+ I1iii , Oo000 , oOO0OO0O , o00o , III11I , oO00oo0o00o0o = ( IiiiI )
+ III11I = int ( III11I )
+ I1iii = int ( I1iii ) / III11I
+ Oo000 = int ( Oo000 ) / III11I
+ oOO0OO0O = int ( oOO0OO0O ) / III11I
+ o00o = int ( o00o ) / III11I
+ if 17 - 17: II1 + o0000oOoOoO0o * o00O0oo * OOooOOo
+ O0Oo00O = 'rtmp://' + str ( I1iii ) + '.' + str ( Oo000 ) + '.' + str ( oOO0OO0O ) + '.' + str ( o00o ) + oO00oo0o00o0o ;
  return O0Oo00O
- if 52 - 52: o0oO0 / i11Ii11I1Ii1i - o00O0oo
-def iIiI ( url , useragent = None ) :
+ if 36 - 36: OOO0O0O0ooooo + IiIIi1I1Iiii
+def iIIIi1i1I11i ( url , useragent = None ) :
  str = '#EXTM3U'
  str += '\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=361816'
  str += '\n' + url + '&bytes=0-200000'
  oo0o0O00 = os . path . join ( i1 , 'testfile.m3u' )
  str += '\n'
- iIIIi1i1I11i ( oo0o0O00 , str )
- if 55 - 55: IiIIi1I1Iiii - o0000oOoOoO0o
+ oOO0OO0OO ( oo0o0O00 , str )
+ if 87 - 87: OoOO0ooOOoo0O + IIii1I - II1
  return oo0o0O00
- if 84 - 84: o0oO0 + IiIIi1I1Iiii - OOooOOo * OOooOOo
-def iIIIi1i1I11i ( file_name , page_data , append = False ) :
+ if 8 - 8: II1 / o00O0oo + O00ooooo00 . IIII
+def oOO0OO0OO ( file_name , page_data , append = False ) :
  if append :
-  o00o = open ( file_name , 'a' )
-  o00o . write ( page_data )
-  o00o . close ( )
+  III11I = open ( file_name , 'a' )
+  III11I . write ( page_data )
+  III11I . close ( )
  else :
-  o00o = open ( file_name , 'wb' )
-  o00o . write ( page_data )
-  o00o . close ( )
+  III11I = open ( file_name , 'wb' )
+  III11I . write ( page_data )
+  III11I . close ( )
   return ''
-  if 61 - 61: II1 . OoOO0ooOOoo0O . II1 / IiIIi1I1Iiii
-def o00O ( file_name ) :
- o00o = open ( file_name , 'rb' )
- I1iiioOO0OO0O = o00o . read ( )
- o00o . close ( )
- return I1iiioOO0OO0O
- if 48 - 48: IIII . i11iIiiIii
-def IIi ( page_data ) :
+  if 73 - 73: O00ooooo00 + IIII . i11iIiiIii
+def IIioo0OO ( file_name ) :
+ III11I = open ( file_name , 'rb' )
+ o00o = III11I . read ( )
+ III11I . close ( )
+ return o00o
+ if 2 - 2: iIiiiI1IiI1I1 - Ooo00oOo00o . O0oO * IIII / OoOO0ooOOoo0O
+def OOo0 ( page_data ) :
  import re , base64 , urllib ;
- oo0OO = page_data
- while 'geh(' in oo0OO :
-  if oo0OO . startswith ( 'lol(' ) : oo0OO = oo0OO [ 5 : - 1 ]
-  if 2 - 2: iIiiiI1IiI1I1 - Ooo00oOo00o . O0oO * IIII / OoOO0ooOOoo0O
-  oo0OO = re . compile ( '"(.*?)"' ) . findall ( oo0OO ) [ 0 ] ;
-  oo0OO = base64 . b64decode ( oo0OO ) ;
-  oo0OO = urllib . unquote ( oo0OO ) ;
- print oo0OO
- return oo0OO
- if 80 - 80: o0000oOoOoO0o / o00O0oo / OOooOOo + O00ooooo00 - IiIIi1I1Iiii
-def iIIiiIIi1IiI ( page_data ) :
+ iiIii1IIi = page_data
+ while 'geh(' in iiIii1IIi :
+  if iiIii1IIi . startswith ( 'lol(' ) : iiIii1IIi = iiIii1IIi [ 5 : - 1 ]
+  if 10 - 10: i11iIiiIii - ii11ii1ii % IIii1I
+  iiIii1IIi = re . compile ( '"(.*?)"' ) . findall ( iiIii1IIi ) [ 0 ] ;
+  iiIii1IIi = base64 . b64decode ( iiIii1IIi ) ;
+  iiIii1IIi = urllib . unquote ( iiIii1IIi ) ;
+ print iiIii1IIi
+ return iiIii1IIi
+ if 49 - 49: OoOO0ooOOoo0O
+def OOOOoOo00OO ( page_data ) :
  print 'get_dag_url2' , page_data
- I11IIIiIi11 = OooO0OO ( page_data ) ;
- I11iiIi1i1 = '(http.*)'
+ OooOo0o0Oo = OooO0OO ( page_data ) ;
+ OooO0oOo = '(http.*)'
  import uuid
- i1IiiI1iIi = str ( uuid . uuid1 ( ) ) . upper ( )
- oOOo00O0OOOo = re . compile ( I11iiIi1i1 ) . findall ( I11IIIiIi11 )
- i11I1I1iiI = [ ( 'X-Playback-Session-Id' , i1IiiI1iIi ) ]
- for I1i1iii1Ii in oOOo00O0OOOo :
+ oOOo00O0OOOo = str ( uuid . uuid1 ( ) ) . upper ( )
+ i11I1I1iiI = re . compile ( OooO0oOo ) . findall ( OooOo0o0Oo )
+ I1i1iii1Ii = [ ( 'X-Playback-Session-Id' , oOOo00O0OOOo ) ]
+ for iIO0O00OOo in i11I1I1iiI :
   try :
-   iIO0O00OOo = OooO0OO ( I1i1iii1Ii , headers = i11I1I1iiI ) ;
-   if 66 - 66: i11iIiiIii / ii11ii1ii - II1 / O00ooooo00 . i11iIiiIii
+   OoOOo = OooO0OO ( iIO0O00OOo , headers = I1i1iii1Ii ) ;
+   if 17 - 17: O00ooooo00
   except : pass
-  if 16 - 16: IiIIi1I1Iiii % OoOO + o00O0oo - OOO0O0O0ooooo . IIII / o0oO0
- return page_data + '|&X-Playback-Session-Id=' + i1IiiI1iIi
- if 35 - 35: OoOO0ooOOoo0O / o0oO0 / iIiiiI1IiI1I1 - IIii1I + iIiiiI1IiI1I1 . o0oO0
- if 81 - 81: IIII * o0000oOoOoO0o - OoOO * oO0o0ooO0 % OOooOOo * OOooOOo
-def ooO ( page_data ) :
+  if 1 - 1: i11Ii11I1Ii1i
+ return page_data + '|&X-Playback-Session-Id=' + oOOo00O0OOOo
+ if 78 - 78: OoOO + o00O0oo - OOO0O0O0ooooo
+ if 10 - 10: o0oO0 % IIiIiII11i
+def oo0OoOooo ( page_data ) :
  print 'get_dag_url' , page_data
  if page_data . startswith ( 'http://dag.total-stream.net' ) :
-  i11I1I1iiI = [ ( 'User-Agent' , 'Verismo-BlackUI_(2.4.7.5.8.0.34)' ) ]
-  page_data = OooO0OO ( page_data , headers = i11I1I1iiI ) ;
-  if 100 - 100: IIiIiII11i / ii11ii1ii * IIII . OOO0O0O0ooooo / o0000oOoOoO0o
+  I1i1iii1Ii = [ ( 'User-Agent' , 'Verismo-BlackUI_(2.4.7.5.8.0.34)' ) ]
+  page_data = OooO0OO ( page_data , headers = I1i1iii1Ii ) ;
+  if 95 - 95: O0oO * OoOO % i11Ii11I1Ii1i % oO0o0ooO0 - oO0o0ooO0
  if '127.0.0.1' in page_data :
-  return oOO0o000Oo00o ( page_data )
+  return oOoooO0 ( page_data )
  elif oO0000OOo00 ( page_data , 'wmsAuthSign%3D([^%&]+)' ) != '' :
-  iii11II1I = oO0000OOo00 ( page_data , '&ver_t=([^&]+)&' ) + '?wmsAuthSign=' + oO0000OOo00 ( page_data , 'wmsAuthSign%3D([^%&]+)' ) + '==/mp4:' + oO0000OOo00 ( page_data , '\\?y=([^&]+)&' )
+  o0Oo0 = oO0000OOo00 ( page_data , '&ver_t=([^&]+)&' ) + '?wmsAuthSign=' + oO0000OOo00 ( page_data , 'wmsAuthSign%3D([^%&]+)' ) + '==/mp4:' + oO0000OOo00 ( page_data , '\\?y=([^&]+)&' )
  else :
-  iii11II1I = oO0000OOo00 ( page_data , 'href="([^"]+)"[^"]+$' )
-  if len ( iii11II1I ) == 0 :
-   iii11II1I = page_data
- iii11II1I = iii11II1I . replace ( ' ' , '%20' )
- return iii11II1I
- if 5 - 5: OOooOOo - O0oO * O0oO
+  o0Oo0 = oO0000OOo00 ( page_data , 'href="([^"]+)"[^"]+$' )
+  if len ( o0Oo0 ) == 0 :
+   o0Oo0 = page_data
+ o0Oo0 = o0Oo0 . replace ( ' ' , '%20' )
+ return o0Oo0
+ if 25 - 25: o0000oOoOoO0o
 def oO0000OOo00 ( data , re_patten ) :
  II11iIiIIIiI = ''
  OOooo0O0o0 = re . search ( re_patten , data )
@@ -1443,133 +1444,135 @@ def oO0000OOo00 ( data , re_patten ) :
  else :
   II11iIiIIIiI = ''
  return II11iIiIIIiI
- if 50 - 50: iIiiiI1IiI1I1 * OoOO / oO0o0ooO0 . ii11ii1ii + IiIIi1I1Iiii - o0000oOoOoO0o
-def oOO0o000Oo00o ( page_data ) :
- iii11II1I = ''
+ if 83 - 83: o0oO0
+def oOoooO0 ( page_data ) :
+ o0Oo0 = ''
  if '127.0.0.1' in page_data :
-  iii11II1I = oO0000OOo00 ( page_data , '&ver_t=([^&]+)&' ) + ' live=true timeout=15 playpath=' + oO0000OOo00 ( page_data , '\\?y=([a-zA-Z0-9-_\\.@]+)' )
-  if 18 - 18: OOooOOo % i11iIiiIii % OoOO / OoOO0ooOOoo0O / ii11ii1ii / O00ooooo00
+  o0Oo0 = oO0000OOo00 ( page_data , '&ver_t=([^&]+)&' ) + ' live=true timeout=15 playpath=' + oO0000OOo00 ( page_data , '\\?y=([a-zA-Z0-9-_\\.@]+)' )
+  if 48 - 48: iIiiiI1IiI1I1 * o0000oOoOoO0o * o0oO0
  if oO0000OOo00 ( page_data , 'token=([^&]+)&' ) != '' :
-  iii11II1I = iii11II1I + '?token=' + oO0000OOo00 ( page_data , 'token=([^&]+)&' )
+  o0Oo0 = o0Oo0 + '?token=' + oO0000OOo00 ( page_data , 'token=([^&]+)&' )
  elif oO0000OOo00 ( page_data , 'wmsAuthSign%3D([^%&]+)' ) != '' :
-  iii11II1I = oO0000OOo00 ( page_data , '&ver_t=([^&]+)&' ) + '?wmsAuthSign=' + oO0000OOo00 ( page_data , 'wmsAuthSign%3D([^%&]+)' ) + '==/mp4:' + oO0000OOo00 ( page_data , '\\?y=([^&]+)&' )
+  o0Oo0 = oO0000OOo00 ( page_data , '&ver_t=([^&]+)&' ) + '?wmsAuthSign=' + oO0000OOo00 ( page_data , 'wmsAuthSign%3D([^%&]+)' ) + '==/mp4:' + oO0000OOo00 ( page_data , '\\?y=([^&]+)&' )
  else :
-  iii11II1I = oO0000OOo00 ( page_data , 'HREF="([^"]+)"' )
-  if 48 - 48: OOooOOo + o00O0oo / O0oO + iIiiiI1IiI1I1
- if 'dag1.asx' in iii11II1I :
-  return ooO ( iii11II1I )
-  if 18 - 18: OoOO
- if 'devinlivefs.fplive.net' not in iii11II1I :
-  iii11II1I = iii11II1I . replace ( 'devinlive' , 'flive' )
- if 'permlivefs.fplive.net' not in iii11II1I :
-  iii11II1I = iii11II1I . replace ( 'permlive' , 'flive' )
- return iii11II1I
- if 23 - 23: iIiiiI1IiI1I1
- if 24 - 24: IIii1I + IIii1I * IIII
-def i1I11iIII1i1I ( str_eval ) :
- oOO0oo = ""
+  o0Oo0 = oO0000OOo00 ( page_data , 'HREF="([^"]+)"' )
+  if 50 - 50: O0oO % O00ooooo00
+ if 'dag1.asx' in o0Oo0 :
+  return oo0OoOooo ( o0Oo0 )
+  if 21 - 21: II1 - IIii1I
+ if 'devinlivefs.fplive.net' not in o0Oo0 :
+  o0Oo0 = o0Oo0 . replace ( 'devinlive' , 'flive' )
+ if 'permlivefs.fplive.net' not in o0Oo0 :
+  o0Oo0 = o0Oo0 . replace ( 'permlive' , 'flive' )
+ return o0Oo0
+ if 93 - 93: OoOO0ooOOoo0O - ii11ii1ii % OOooOOo . OOooOOo - i11Ii11I1Ii1i
+ if 90 - 90: i11Ii11I1Ii1i + iIiiiI1IiI1I1 * OoOO / oO0o0ooO0 . ii11ii1ii + ii11ii1ii
+def I11IoOoO ( str_eval ) :
+ IIIIiI1iiiIiii = ""
  try :
-  IiIIi1I1I11Ii = "w,i,s,e=(" + str_eval + ')'
-  exec ( IiIIi1I1I11Ii )
-  oOO0oo = o0OO ( w , II , s , e )
+  ii1i1i = "w,i,s,e=(" + str_eval + ')'
+  exec ( ii1i1i )
+  IIIIiI1iiiIiii = II11iIII1i1I ( w , II , s , e )
  except : traceback . print_exc ( file = sys . stdout )
- if 58 - 58: II1 . IIiIiII11i / iIiiiI1IiI1I1 / iIiiiI1IiI1I1 - O0oO + IiIIi1I1Iiii
- return oOO0oo
- if 59 - 59: II1 + o00O0oo . o0oO0 - OOO0O0O0ooooo % IIii1I / OOO0O0O0ooooo
-def o0OO ( w , i , s , e ) :
- OO = 0 ;
- ooO0o = 0 ;
- ii1iI1iI1 = 0 ;
- o00oOOO = [ ] ;
- OoOO0OOoo = [ ] ;
+ if 63 - 63: IiIIi1I1Iiii + o0oO0 - iIiiiI1IiI1I1
+ return IIIIiI1iiiIiii
+ if 2 - 2: O0oO
+def II11iIII1i1I ( w , i , s , e ) :
+ oOo0O0O0 = 0 ;
+ oOoo0 = 0 ;
+ I1iiiiii = 0 ;
+ o0OO0Oo = [ ] ;
+ I11iiii1I = [ ] ;
  while True :
-  if ( OO < 5 ) :
-   OoOO0OOoo . append ( w [ OO ] )
-  elif ( OO < len ( w ) ) :
-   o00oOOO . append ( w [ OO ] ) ;
-  OO += 1 ;
-  if ( ooO0o < 5 ) :
-   OoOO0OOoo . append ( i [ ooO0o ] )
-  elif ( ooO0o < len ( i ) ) :
-   o00oOOO . append ( i [ ooO0o ] )
-  ooO0o += 1 ;
-  if ( ii1iI1iI1 < 5 ) :
-   OoOO0OOoo . append ( s [ ii1iI1iI1 ] )
-  elif ( ii1iI1iI1 < len ( s ) ) :
-   o00oOOO . append ( s [ ii1iI1iI1 ] ) ;
-  ii1iI1iI1 += 1 ;
-  if ( len ( w ) + len ( i ) + len ( s ) + len ( e ) == len ( o00oOOO ) + len ( OoOO0OOoo ) + len ( e ) ) :
+  if ( oOo0O0O0 < 5 ) :
+   I11iiii1I . append ( w [ oOo0O0O0 ] )
+  elif ( oOo0O0O0 < len ( w ) ) :
+   o0OO0Oo . append ( w [ oOo0O0O0 ] ) ;
+  oOo0O0O0 += 1 ;
+  if ( oOoo0 < 5 ) :
+   I11iiii1I . append ( i [ oOoo0 ] )
+  elif ( oOoo0 < len ( i ) ) :
+   o0OO0Oo . append ( i [ oOoo0 ] )
+  oOoo0 += 1 ;
+  if ( I1iiiiii < 5 ) :
+   I11iiii1I . append ( s [ I1iiiiii ] )
+  elif ( I1iiiiii < len ( s ) ) :
+   o0OO0Oo . append ( s [ I1iiiiii ] ) ;
+  I1iiiiii += 1 ;
+  if ( len ( w ) + len ( i ) + len ( s ) + len ( e ) == len ( o0OO0Oo ) + len ( I11iiii1I ) + len ( e ) ) :
    break ;
-   if 1 - 1: IIiIiII11i * i11iIiiIii + o0oO0 * i11iIiiIii + Ooo00oOo00o
- iIIi1IIi = '' . join ( o00oOOO )
- i111i11I1ii = '' . join ( OoOO0OOoo )
- ooO0o = 0 ;
- OOooo = [ ] ;
- for OO in range ( 0 , len ( o00oOOO ) , 2 ) :
-  if 54 - 54: iIiiiI1IiI1I1 . o00O0oo
-  oOO = - 1 ;
-  if ( ord ( i111i11I1ii [ ooO0o ] ) % 2 ) :
-   oOO = 1 ;
-   if 32 - 32: OOooOOo * IIiIiII11i % i11Ii11I1Ii1i * oO0o0ooO0 . OOO0O0O0ooooo
-  OOooo . append ( chr ( int ( iIIi1IIi [ OO : OO + 2 ] , 36 ) - oOO ) ) ;
-  ooO0o += 1 ;
-  if ( ooO0o >= len ( OoOO0OOoo ) ) :
-   ooO0o = 0 ;
- O0Oo00O = '' . join ( OOooo )
+   if 3 - 3: OOO0O0O0ooooo % II1 / o0000oOoOoO0o
+ ooOo = '' . join ( o0OO0Oo )
+ o0oO0OoO0 = '' . join ( I11iiii1I )
+ oOoo0 = 0 ;
+ oOOOOOoOO = [ ] ;
+ for oOo0O0O0 in range ( 0 , len ( o0OO0Oo ) , 2 ) :
+  if 81 - 81: iIiiiI1IiI1I1 + i11iIiiIii / IIII
+  oo00OoO = - 1 ;
+  if ( ord ( o0oO0OoO0 [ oOoo0 ] ) % 2 ) :
+   oo00OoO = 1 ;
+   if 30 - 30: IiIIi1I1Iiii . Ooo00oOo00o
+  oOOOOOoOO . append ( chr ( int ( ooOo [ oOo0O0O0 : oOo0O0O0 + 2 ] , 36 ) - oo00OoO ) ) ;
+  oOoo0 += 1 ;
+  if ( oOoo0 >= len ( I11iiii1I ) ) :
+   oOoo0 = 0 ;
+ O0Oo00O = '' . join ( oOOOOOoOO )
  if 'eval(function(w,i,s,e)' in O0Oo00O :
   print 'STILL GOing'
   O0Oo00O = re . compile ( 'eval\(function\(w,i,s,e\).*}\((.*?)\)' ) . findall ( O0Oo00O ) [ 0 ]
-  return i1I11iIII1i1I ( O0Oo00O )
+  return I11IoOoO ( O0Oo00O )
  else :
   print 'FINISHED'
   return O0Oo00O
-  if 48 - 48: IIII * IIII
-def O0o0O0OO00o ( page_value , regex_for_text = '' , iterations = 1 , total_iteration = 1 ) :
+  if 57 - 57: o00O0oo . IiIIi1I1Iiii + iIiiiI1IiI1I1
+def II1Ii1iI1i1 ( page_value , regex_for_text = '' , iterations = 1 , total_iteration = 1 ) :
  try :
-  I1I1 = None
+  i111i11I1ii = None
   if page_value . startswith ( "http" ) :
    page_value = OooO0OO ( page_value )
   print 'page_value' , page_value
   if regex_for_text and len ( regex_for_text ) > 0 :
    page_value = re . compile ( regex_for_text ) . findall ( page_value ) [ 0 ]
-   if 4 - 4: ii11ii1ii % OOooOOo * o0000oOoOoO0o
-  page_value = ii1IiIi11 ( page_value , iterations , total_iteration )
+   if 64 - 64: OoOO0ooOOoo0O / i11iIiiIii / ii11ii1ii . II1
+  page_value = i1iiIIi11I ( page_value , iterations , total_iteration )
  except : traceback . print_exc ( file = sys . stdout )
  print 'unpacked' , page_value
  if 'sav1live.tv' in page_value :
   page_value = page_value . replace ( 'sav1live.tv' , 'sawlive.tv' )
   print 'sav1 unpacked' , page_value
  return page_value
- if 22 - 22: OoOO0ooOOoo0O
-def ii1IiIi11 ( sJavascript , iteration = 1 , totaliterations = 2 ) :
+ if 80 - 80: i11Ii11I1Ii1i * OOO0O0O0ooooo
+def i1iiIIi11I ( sJavascript , iteration = 1 , totaliterations = 2 ) :
  print 'iteration' , iteration
  if sJavascript . startswith ( 'var _0xcb8a=' ) :
-  ii1ii = sJavascript . split ( 'var _0xcb8a=' )
-  IiIIi1I1I11Ii = "myarray=" + ii1ii [ 1 ] . split ( "eval(" ) [ 0 ]
-  exec ( IiIIi1I1I11Ii )
-  oOoooO00O = 62
-  I1ii1111Ii = int ( ii1ii [ 1 ] . split ( ",62," ) [ 1 ] . split ( ',' ) [ 0 ] )
-  o0O = myarray [ 0 ]
-  iiiI1i11Ii = myarray [ 3 ]
-  with open ( 'temp file' + str ( iteration ) + '.js' , "wb" ) as iIiII :
-   iIiII . write ( str ( iiiI1i11Ii ) )
-   if 19 - 19: O0oO
+  oo000o0 = sJavascript . split ( 'var _0xcb8a=' )
+  ii1i1i = "myarray=" + oo000o0 [ 1 ] . split ( "eval(" ) [ 0 ]
+  exec ( ii1i1i )
+  I1iI1I1 = 62
+  IiIi1 = int ( oo000o0 [ 1 ] . split ( ",62," ) [ 1 ] . split ( ',' ) [ 0 ] )
+  oo00ooOoo = myarray [ 0 ]
+  iii1IIIiiiI = myarray [ 3 ]
+  with open ( 'temp file' + str ( iteration ) + '.js' , "wb" ) as OoO00oo00 :
+   OoO00oo00 . write ( str ( iii1IIIiiiI ) )
+   if 76 - 76: II1 + IiIIi1I1Iiii % O0oO . Ooo00oOo00o + iIiiiI1IiI1I1
  else :
-  if 78 - 78: o0000oOoOoO0o % ii11ii1ii
+  if 70 - 70: IIiIiII11i / o00O0oo
   if "rn p}('" in sJavascript :
-   ii1ii = sJavascript . split ( "rn p}('" )
+   oo000o0 = sJavascript . split ( "rn p}('" )
   else :
-   ii1ii = sJavascript . split ( "rn A}('" )
-  print ii1ii
-  if 39 - 39: OoOO + IIiIiII11i - IIii1I - ii11ii1ii
-  o0O , oOoooO00O , I1ii1111Ii , iiiI1i11Ii = ( '' , '0' , '0' , '' )
-  if 7 - 7: O0oO . OOooOOo / OoOO . o0000oOoOoO0o * o00O0oo - iIiiiI1IiI1I1
-  IiIIi1I1I11Ii = "p1,a1,c1,k1=('" + ii1ii [ 1 ] . split ( ".spli" ) [ 0 ] + ')'
-  exec ( IiIIi1I1I11Ii )
- iiiI1i11Ii = iiiI1i11Ii . split ( '|' )
- ii1ii = ii1ii [ 1 ] . split ( "))'" )
- if 37 - 37: o0oO0 . OOooOOo / OOO0O0O0ooooo * IIII
- if 7 - 7: Ooo00oOo00o * o00O0oo + iIiiiI1IiI1I1 % i11iIiiIii
+   oo000o0 = sJavascript . split ( "rn A}('" )
+  print oo000o0
+  if 28 - 28: OoOO * II1 . iIiiiI1IiI1I1 / i11iIiiIii + OoOO0ooOOoo0O
+  oo00ooOoo , I1iI1I1 , IiIi1 , iii1IIIiiiI = ( '' , '0' , '0' , '' )
+  if 38 - 38: O0oO . oO0o0ooO0
+  ii1i1i = "p1,a1,c1,k1=('" + oo000o0 [ 1 ] . split ( ".spli" ) [ 0 ] + ')'
+  exec ( ii1i1i )
+ iii1IIIiiiI = iii1IIIiiiI . split ( '|' )
+ oo000o0 = oo000o0 [ 1 ] . split ( "))'" )
+ if 24 - 24: ii11ii1ii - ii11ii1ii + OoOO + IIiIiII11i - OoOO0ooOOoo0O
+ if 12 - 12: IIII . O0oO . OOooOOo / OOO0O0O0ooooo
+ if 58 - 58: ii11ii1ii - iIiiiI1IiI1I1 % OoOO0ooOOoo0O + o0oO0 . OOooOOo / O0oO
+ if 8 - 8: OoOO . Ooo00oOo00o * o00O0oo + iIiiiI1IiI1I1 % i11iIiiIii
  if 8 - 8: i11Ii11I1Ii1i * OOO0O0O0ooooo
  if 73 - 73: ii11ii1ii / OoOO0ooOOoo0O / o00O0oo / Ooo00oOo00o
  if 11 - 11: OOooOOo + O0oO - II1 / Ooo00oOo00o
@@ -1588,100 +1591,98 @@ def ii1IiIi11 ( sJavascript , iteration = 1 , totaliterations = 2 ) :
  if 5 - 5: ii11ii1ii . IIii1I % IIii1I
  if 56 - 56: II1 - o00O0oo - O00ooooo00
  if 8 - 8: o0oO0 / o0000oOoOoO0o . IIiIiII11i + OoOO / i11iIiiIii
+ iI111I11I1I1 = ''
+ o00o = ''
  if 31 - 31: i11Ii11I1Ii1i - IIii1I + IIII . IiIIi1I1Iiii / O0oO % IIii1I
  if 6 - 6: O0oO * i11iIiiIii % IIii1I % i11iIiiIii + ii11ii1ii / O00ooooo00
- iI111I11I1I1 = ''
- I1iiioOO0OO0O = ''
- if 53 - 53: o00O0oo + IIii1I
- if 70 - 70: OoOO
- oo0O = str ( III1i1IiI1i ( o0O , oOoooO00O , I1ii1111Ii , iiiI1i11Ii , iI111I11I1I1 , I1iiioOO0OO0O , iteration ) )
- if 32 - 32: II1 - OOooOOo - i11iIiiIii * ii11ii1ii / IiIIi1I1Iiii + II1
- if 35 - 35: O00ooooo00 - ii11ii1ii * IIII
- if 63 - 63: IIII * OoOO . II1 / o0000oOoOoO0o * IiIIi1I1Iiii . i11Ii11I1Ii1i
- if 62 - 62: O00ooooo00 / i11Ii11I1Ii1i . IIiIiII11i * ii11ii1ii
- if 21 - 21: ii11ii1ii
+ o0o0oOO = str ( i1IiI ( oo00ooOoo , I1iI1I1 , IiIi1 , iii1IIIiiiI , iI111I11I1I1 , o00o , iteration ) )
+ if 1 - 1: O0oO / O0oO - i11iIiiIii
+ if 87 - 87: IiIIi1I1Iiii / OOO0O0O0ooooo * O0oO / ii11ii1ii
+ if 19 - 19: o0oO0 + O00ooooo00 . IIiIiII11i - IiIIi1I1Iiii
+ if 16 - 16: OoOO0ooOOoo0O + i11Ii11I1Ii1i / ii11ii1ii
+ if 82 - 82: O0oO * i11iIiiIii % iIiiiI1IiI1I1 - II1
  if iteration >= totaliterations :
-  if 81 - 81: o00O0oo / IIii1I - i11Ii11I1Ii1i * o0oO0 . IIiIiII11i * OoOO
-  return oo0O
+  if 90 - 90: IiIIi1I1Iiii . OoOO0ooOOoo0O * O00ooooo00 - O00ooooo00
+  return o0o0oOO
  else :
-  if 95 - 95: IIiIiII11i
-  return ii1IiIi11 ( oo0O , iteration + 1 )
-  if 88 - 88: O0oO % Ooo00oOo00o + o0oO0 + o0oO0 * iIiiiI1IiI1I1
-def III1i1IiI1i ( p , a , c , k , e , d , iteration , v = 1 ) :
- if 78 - 78: II1
- if 77 - 77: OoOO / O00ooooo00 / IiIIi1I1Iiii % o0000oOoOoO0o
- if 48 - 48: o00O0oo - O0oO + IIii1I + II1
+  if 16 - 16: IIiIiII11i * O00ooooo00 - ii11ii1ii . O0oO % o00O0oo / ii11ii1ii
+  return i1iiIIi11I ( o0o0oOO , iteration + 1 )
+  if 14 - 14: IIii1I * o0oO0 * OoOO / IIii1I * O0oO / o00O0oo
+def i1IiI ( p , a , c , k , e , d , iteration , v = 1 ) :
+ if 77 - 77: Ooo00oOo00o + o0oO0 + o0oO0 * oO0o0ooO0 / II1 . oO0o0ooO0
+ if 62 - 62: O00ooooo00 - O00ooooo00
+ if 69 - 69: OOooOOo % OoOO0ooOOoo0O - o00O0oo
  while ( c >= 1 ) :
   c = c - 1
   if ( k [ c ] ) :
-   IiI1i111IiIiIi1 = str ( i1II11II1 ( c , a ) )
+   Iiii1ii = str ( I1i111IiIiIi1 ( c , a ) )
    if v == 1 :
-    p = re . sub ( '\\b' + IiI1i111IiIiIi1 + '\\b' , k [ c ] , p )
+    p = re . sub ( '\\b' + Iiii1ii + '\\b' , k [ c ] , p )
    else :
-    p = II1IIIii ( p , IiI1i111IiIiIi1 , k [ c ] )
-    if 40 - 40: OOooOOo % Ooo00oOo00o
-    if 62 - 62: ii11ii1ii
-    if 15 - 15: o00O0oo + oO0o0ooO0 . o0000oOoOoO0o * Ooo00oOo00o . OOooOOo
-    if 18 - 18: O00ooooo00 % iIiiiI1IiI1I1 + o0oO0 % oO0o0ooO0
-    if 72 - 72: IIii1I
-    if 45 - 45: IiIIi1I1Iiii - ii11ii1ii % o0oO0
+    p = i1II11II1 ( p , Iiii1ii , k [ c ] )
+    if 5 - 5: IiIIi1I1Iiii - OoOO % OoOO0ooOOoo0O - iIiiiI1IiI1I1 . IIiIiII11i + IIII
+    if 47 - 47: OOO0O0O0ooooo - IIii1I - IIII
+    if 46 - 46: oO0o0ooO0 . o0000oOoOoO0o * Ooo00oOo00o . II1 + OoOO
+    if 72 - 72: iIiiiI1IiI1I1 + o0000oOoOoO0o
+    if 91 - 91: IIii1I % Ooo00oOo00o . ii11ii1ii + oO0o0ooO0 + ii11ii1ii
+    if 95 - 95: oO0o0ooO0 + OoOO * o0000oOoOoO0o
  return p
- if 38 - 38: o0oO0 % o0000oOoOoO0o - II1
- if 87 - 87: Ooo00oOo00o % IIiIiII11i
- if 77 - 77: IIii1I - O00ooooo00 . OoOO0ooOOoo0O
-def II1IIIii ( source_str , word_to_find , replace_with ) :
- iIi1iIIIiIiI = None
- iIi1iIIIiIiI = source_str . split ( word_to_find )
- if len ( iIi1iIIIiIiI ) > 1 :
-  OooOo000o0o = [ ]
-  iI1I1iII1i = 0
-  for iiIIii in iIi1iIIIiIiI :
-   if 70 - 70: ii11ii1ii - o0000oOoOoO0o
-   OooOo000o0o . append ( iiIIii )
+ if 16 - 16: o00O0oo / IIiIiII11i + Ooo00oOo00o % IIii1I - O00ooooo00 . OoOO0ooOOoo0O
+ if 26 - 26: ii11ii1ii * O0oO . O00ooooo00
+ if 59 - 59: OOO0O0O0ooooo + O00ooooo00 - ii11ii1ii
+def i1II11II1 ( source_str , word_to_find , replace_with ) :
+ OooOo000o0o = None
+ OooOo000o0o = source_str . split ( word_to_find )
+ if len ( OooOo000o0o ) > 1 :
+  iI1I1iII1i = [ ]
+  iiIIii = 0
+  for oO0Oo0O0 in OooOo000o0o :
+   if 49 - 49: i11Ii11I1Ii1i * OoOO0ooOOoo0O / ii11ii1ii / IiIIi1I1Iiii * IIii1I
+   iI1I1iII1i . append ( oO0Oo0O0 )
    I1IIIiI1I1ii1 = word_to_find
-   if 62 - 62: o00O0oo
-   if 63 - 63: o0000oOoOoO0o + i11Ii11I1Ii1i * OoOO0ooOOoo0O / ii11ii1ii / IiIIi1I1Iiii * IIii1I
-   if iI1I1iII1i == len ( iIi1iIIIiIiI ) - 1 :
+   if 57 - 57: OOooOOo - OoOO0ooOOoo0O / i11Ii11I1Ii1i % i11iIiiIii
+   if 3 - 3: IIII . i11Ii11I1Ii1i % IIiIiII11i + OoOO
+   if iiIIii == len ( OooOo000o0o ) - 1 :
     I1IIIiI1I1ii1 = ''
    else :
-    if len ( iiIIii ) == 0 :
-     if ( len ( iIi1iIIIiIiI [ iI1I1iII1i + 1 ] ) == 0 and word_to_find [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) or ( len ( iIi1iIIIiIiI [ iI1I1iII1i + 1 ] ) > 0 and iIi1iIIIiIiI [ iI1I1iII1i + 1 ] [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) :
+    if len ( oO0Oo0O0 ) == 0 :
+     if ( len ( OooOo000o0o [ iiIIii + 1 ] ) == 0 and word_to_find [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) or ( len ( OooOo000o0o [ iiIIii + 1 ] ) > 0 and OooOo000o0o [ iiIIii + 1 ] [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) :
       I1IIIiI1I1ii1 = replace_with
-      if 57 - 57: OOooOOo - OoOO0ooOOoo0O / i11Ii11I1Ii1i % i11iIiiIii
+      if 64 - 64: O00ooooo00
     else :
-     if ( iIi1iIIIiIiI [ iI1I1iII1i ] [ - 1 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) and ( ( len ( iIi1iIIIiIiI [ iI1I1iII1i + 1 ] ) == 0 and word_to_find [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) or ( len ( iIi1iIIIiIiI [ iI1I1iII1i + 1 ] ) > 0 and iIi1iIIIiIiI [ iI1I1iII1i + 1 ] [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) ) :
+     if ( OooOo000o0o [ iiIIii ] [ - 1 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) and ( ( len ( OooOo000o0o [ iiIIii + 1 ] ) == 0 and word_to_find [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) or ( len ( OooOo000o0o [ iiIIii + 1 ] ) > 0 and OooOo000o0o [ iiIIii + 1 ] [ 0 ] . lower ( ) not in 'abcdefghijklmnopqrstuvwxyz1234567890_' ) ) :
       I1IIIiI1I1ii1 = replace_with
-      if 3 - 3: IIII . i11Ii11I1Ii1i % IIiIiII11i + OoOO
-   OooOo000o0o . append ( I1IIIiI1I1ii1 )
-   iI1I1iII1i += 1
-   if 64 - 64: O00ooooo00
-  source_str = '' . join ( OooOo000o0o )
+      if 29 - 29: ii11ii1ii / i11iIiiIii / IIiIiII11i % OoOO0ooOOoo0O % i11iIiiIii
+   iI1I1iII1i . append ( I1IIIiI1I1ii1 )
+   iiIIii += 1
+   if 18 - 18: o0000oOoOoO0o + o0oO0
+  source_str = '' . join ( iI1I1iII1i )
  return source_str
- if 29 - 29: ii11ii1ii / i11iIiiIii / IIiIiII11i % OoOO0ooOOoo0O % i11iIiiIii
-def i111II ( num , radix ) :
- if 63 - 63: IIiIiII11i - Ooo00oOo00o % IIII % o00O0oo / ii11ii1ii / O00ooooo00
+ if 80 - 80: OoOO0ooOOoo0O + ii11ii1ii * oO0o0ooO0 + Ooo00oOo00o
+def O0oOo ( num , radix ) :
+ if 69 - 69: IiIIi1I1Iiii * iIiiiI1IiI1I1 * i11Ii11I1Ii1i . IIII - OoOO
  OOOooo = ""
  if num == 0 : return '0'
  while num > 0 :
   OOOooo = "0123456789abcdefghijklmnopqrstuvwxyz" [ num % radix ] + OOOooo
   num /= radix
  return OOOooo
- if 69 - 69: IiIIi1I1Iiii * iIiiiI1IiI1I1 * i11Ii11I1Ii1i . IIII - OoOO
-def i1II11II1 ( cc , a ) :
- IiI1i111IiIiIi1 = "" if cc < a else i1II11II1 ( int ( cc / a ) , a )
+ if 39 - 39: oO0o0ooO0 * IIiIiII11i % Ooo00oOo00o . OOooOOo
+def I1i111IiIiIi1 ( cc , a ) :
+ Iiii1ii = "" if cc < a else I1i111IiIiIi1 ( int ( cc / a ) , a )
  cc = ( cc % a )
- I11iiIIiI1ii = chr ( cc + 29 ) if cc > 35 else str ( i111II ( cc , 36 ) )
- return IiI1i111IiIiIi1 + I11iiIIiI1ii
- if 12 - 12: o0oO0 % i11iIiiIii + ii11ii1ii + o0oO0 / o00O0oo
- if 53 - 53: O0oO . o0oO0 % IIii1I % OOooOOo % o00O0oo
+ iiii111IiIIi1 = chr ( cc + 29 ) if cc > 35 else str ( O0oOo ( cc , 36 ) )
+ return Iiii1ii + iiii111IiIIi1
+ if 74 - 74: IIii1I % IIII * o0000oOoOoO0o * IIii1I
+ if 73 - 73: ii11ii1ii % o0oO0 . o0000oOoOoO0o
 def IiI1i ( cookieJar ) :
  try :
-  o0OoOoOOoOo0o = ""
-  for OoOo00o , iIiii in enumerate ( cookieJar ) :
-   o0OoOoOOoOo0o += iIiii . name + "=" + iIiii . value + ";"
+  ooOOoOo = ""
+  for OoOo00o , oooOiiIIi in enumerate ( cookieJar ) :
+   ooOOoOo += oooOiiIIi . name + "=" + oooOiiIIi . value + ";"
  except : pass
- if 2 - 2: O00ooooo00 - IIiIiII11i + o00O0oo . iIiiiI1IiI1I1
- return o0OoOoOOoOo0o
+ if 36 - 36: o00O0oo . iIiiiI1IiI1I1
+ return ooOOoOo
  if 25 - 25: OoOO0ooOOoo0O
  if 34 - 34: OOooOOo . IIii1I % OOO0O0O0ooooo
 def iiIiii1iI1i ( cookieJar , COOKIEFILE ) :
@@ -1731,9 +1732,9 @@ def i1iIiIi1I ( fun_call , page_data , Cookie_Jar , m ) :
  o0OOOOO0O = ''
  if oOo0oooo00o not in sys . path :
   sys . path . append ( oOo0oooo00o )
- o00o = open ( oOo0oooo00o + "/LSProdynamicCode.py" , "w" )
- o00o . write ( fun_call ) ;
- o00o . close ( )
+ III11I = open ( oOo0oooo00o + "/LSProdynamicCode.py" , "w" )
+ III11I . write ( fun_call ) ;
+ III11I . close ( )
  import LSProdynamicCode
  o0OOOOO0O = LSProdynamicCode . GetLSProData ( page_data , Cookie_Jar , m )
  return str ( o0OOOOO0O )
@@ -1818,13 +1819,13 @@ def Iii ( m , html_page , cookieJar ) :
  global OOoooOoO0Oo
  OOoooOoO0Oo += 1
  Oo000iiIiII11i1 = m [ 'expres' ]
- O0Oo00oO0O00 = m [ 'page' ]
+ O00O0OO00oo = m [ 'page' ]
  oOo00Ooo0o0 = re . compile ( '\$LiveStreamCaptcha\[([^\]]*)\]' ) . findall ( Oo000iiIiII11i1 ) [ 0 ]
  if 33 - 33: o00O0oo
  o0i1iI1iiI1I = re . compile ( oOo00Ooo0o0 ) . findall ( html_page ) [ 0 ]
  print Oo000iiIiII11i1 , oOo00Ooo0o0 , o0i1iI1iiI1I
  if not o0i1iI1iiI1I . startswith ( "http" ) :
-  oOO0 = 'http://' + "" . join ( O0Oo00oO0O00 . split ( '/' ) [ 2 : 3 ] )
+  oOO0 = 'http://' + "" . join ( O00O0OO00oo . split ( '/' ) [ 2 : 3 ] )
   if o0i1iI1iiI1I . startswith ( "/" ) :
    o0i1iI1iiI1I = oOO0 + o0i1iI1iiI1I
   else :
@@ -2026,8 +2027,8 @@ def i1IiiiiIi1I ( name , mu_playlist , queueVideo = None ) :
   o00o0 = 0
   for II in mu_playlist :
    o00o0 += 1
-   o0OO0OOO0O = xbmcgui . ListItem ( '%s) %s' % ( str ( o00o0 ) , name ) )
-   if 36 - 36: i11iIiiIii / IIII . o00O0oo + O0oO . OOO0O0O0ooooo + IIiIiII11i
+   o0O = xbmcgui . ListItem ( '%s) %s' % ( str ( o00o0 ) , name ) )
+   if 69 - 69: O0oO + IiIIi1I1Iiii - i11Ii11I1Ii1i + OoOO0ooOOoo0O
    try :
     if "$doregex" in II :
      O0oOoo = II . split ( '&regexs=' )
@@ -2036,21 +2037,21 @@ def i1IiiiiIi1I ( name , mu_playlist , queueVideo = None ) :
     elif "&mode=19" in II :
      I1II11IiII = ooOo000OoO0o ( II . replace ( '&mode=19' , '' ) . replace ( ';' , '' ) )
     if I1II11IiII :
-     i1I1i111Ii . add ( I1II11IiII , o0OO0OOO0O )
+     i1I1i111Ii . add ( I1II11IiII , o0O )
     else :
      raise
    except Exception :
-    i1I1i111Ii . add ( II , o0OO0OOO0O )
+    i1I1i111Ii . add ( II , o0O )
     pass
-    if 36 - 36: O00ooooo00 - OoOO - o0oO0
+    if 36 - 36: i11iIiiIii / IIII . o00O0oo + O0oO . OOO0O0O0ooooo + IIiIiII11i
   xbmc . executebuiltin ( 'playlist.playoffset(video,0)' )
  else :
+  if 36 - 36: O00ooooo00 - OoOO - o0oO0
+  i1IIiIii1i = xbmcgui . ListItem ( name )
+  i1I1i111Ii . add ( mu_playlist , i1IIiIii1i )
   if 7 - 7: i11iIiiIii + IIiIiII11i
-  I1iii = xbmcgui . ListItem ( name )
-  i1I1i111Ii . add ( mu_playlist , I1iii )
   if 47 - 47: o0oO0 - o0000oOoOoO0o / i11Ii11I1Ii1i - IiIIi1I1Iiii + IIII - IIii1I
-  if 68 - 68: oO0o0ooO0 - OoOO0ooOOoo0O + IiIIi1I1Iiii
-def i11Iii1Ii1i1 ( name , url ) :
+def o0OOOOO0 ( name , url ) :
  if Ooo . getSetting ( 'save_location' ) == "" :
   xbmc . executebuiltin ( "XBMC.Notification('Wolf','Choose a location to save files.',15000," + I11 + ")" )
   Ooo . openSettings ( )
@@ -2060,75 +2061,75 @@ def i11Iii1Ii1i1 ( name , url ) :
  O0Oo00O = IIIIIIi1i . yesno ( 'Wolf' , 'Do you want to add this file as a source?' )
  if O0Oo00O :
   o0oo0o0O00OO ( os . path . join ( Ooo . getSetting ( 'save_location' ) , name ) )
-  if 10 - 10: IIII . O00ooooo00 + oO0o0ooO0
-def oOOoOOO0oo0 ( url , name ) :
- if 87 - 87: i11Ii11I1Ii1i / OOooOOo % ii11ii1ii * OoOO0ooOOoo0O
- oOOOoo0o = [ 'plugin.video.PsycoTV' , 'plugin://plugin.video.phstreams' , 'plugin://plugin.video.SportsDevil' , 'plugin://plugin.video.CanTVLive' , 'plugin://plugin.video.ccloudtv' , 'plugin://plugin.video.prosport' , 'plugin://plugin.video.p2psport' , ]
- if 44 - 44: OOO0O0O0ooooo % O00ooooo00
- if 42 - 42: iIiiiI1IiI1I1 - Ooo00oOo00o - II1 . IIII / OOooOOo
- if 56 - 56: i11iIiiIii - IIii1I . iIiiiI1IiI1I1
- if 81 - 81: O0oO / OOooOOo * O0oO . OOO0O0O0ooooo
- if 61 - 61: Ooo00oOo00o * o0000oOoOoO0o + o0oO0 . IIii1I % o00O0oo . o0oO0
- if 53 - 53: o0oO0 * O0oO / IIii1I / IIiIiII11i % OoOO
- if 39 - 39: Ooo00oOo00o / II1 . Ooo00oOo00o * OoOO / OOooOOo
+  if 79 - 79: iIiiiI1IiI1I1 - i11Ii11I1Ii1i . O00ooooo00 + OOO0O0O0ooooo % OOO0O0O0ooooo * IIiIiII11i
+def Ii1Ii1I ( url , name ) :
+ if 54 - 54: OoOO0ooOOoo0O + OOooOOo
+ o0O00O = [ 'plugin.video.PsycoTV' , 'plugin://plugin.video.phstreams' , 'plugin://plugin.video.SportsDevil' , 'plugin://plugin.video.CanTVLive' , 'plugin://plugin.video.ccloudtv' , 'plugin://plugin.video.prosport' , 'plugin://plugin.video.p2psport' , ]
+ if 94 - 94: oO0o0ooO0 - OoOO + ii11ii1ii - IiIIi1I1Iiii
+ if 15 - 15: o0000oOoOoO0o
+ if 31 - 31: IIII / O00ooooo00 . Ooo00oOo00o
+ if 83 - 83: OoOO0ooOOoo0O / IIii1I + O00ooooo00 / IIII
+ if 47 - 47: OoOO0ooOOoo0O + II1 . iIiiiI1IiI1I1 . IIII
+ if 66 - 66: i11Ii11I1Ii1i * OOooOOo
+ if 2 - 2: OoOO0ooOOoo0O . o0oO0 * IiIIi1I1Iiii + OOO0O0O0ooooo - o00O0oo * IIii1I
  oo0OoOOooO = [ 'Psycho TV' , 'Phoenix' , 'SportsDevil' , 'CanTVLive' , 'Ccloudtv' , 'Prosport' , 'P2psport' ]
- if 38 - 38: Ooo00oOo00o / i11Ii11I1Ii1i % o0oO0 * o00O0oo + i11iIiiIii % i11Ii11I1Ii1i
+ if 12 - 12: ii11ii1ii * o0oO0 % iIiiiI1IiI1I1 * O00ooooo00 * IIii1I
  IIIIIIi1i = xbmcgui . Dialog ( )
  OoOo00o = IIIIIIi1i . select ( 'Choose a video source' , oo0OoOOooO )
- if 61 - 61: o0oO0 - oO0o0ooO0 % OoOO / i11Ii11I1Ii1i / IIII + IIii1I
+ if 81 - 81: IiIIi1I1Iiii - o00O0oo
  if OoOo00o >= 0 :
-  url = oOOOoo0o [ OoOo00o ]
+  url = o0O00O [ OoOo00o ]
   print 'url' , url
-  O0O0oo ( url )
-  if 83 - 83: O0oO / o0oO0
+  ii1 ( url )
+  if 44 - 44: OOooOOo - IiIIi1I1Iiii
 def i1I111I ( name , url , mode , iconimage , fanart , description , genre , date , credits , showcontext = False , regexs = None , reg_url = None , allinfo = { } ) :
- if 64 - 64: Ooo00oOo00o % O0oO . o0oO0 % Ooo00oOo00o + o00O0oo * O0oO
- OOOO00OooO = sys . argv [ 0 ] + "?url=" + urllib . quote_plus ( url ) + "&mode=" + str ( mode ) + "&name=" + urllib . quote_plus ( name ) + "&fanart=" + urllib . quote_plus ( fanart )
- OOOiI1 = True
+ if 95 - 95: o0000oOoOoO0o + i11Ii11I1Ii1i
+ O00o0O = sys . argv [ 0 ] + "?url=" + urllib . quote_plus ( url ) + "&mode=" + str ( mode ) + "&name=" + urllib . quote_plus ( name ) + "&fanart=" + urllib . quote_plus ( fanart )
+ O00oOo0O0o00O = True
  if date == '' :
   date = None
  else :
   description += '\n\nDate: %s' % date
- O00oO0o000oO = xbmcgui . ListItem ( name , iconImage = "DefaultFolder.png" , thumbnailImage = iconimage )
+ ooo0oo00O00Oo = xbmcgui . ListItem ( name , iconImage = "DefaultFolder.png" , thumbnailImage = iconimage )
  if len ( allinfo ) < 1 :
-  O00oO0o000oO . setInfo ( type = "Video" , infoLabels = { "Title" : name , "Plot" : description , "Genre" : genre , "dateadded" : date , "credits" : credits } )
+  ooo0oo00O00Oo . setInfo ( type = "Video" , infoLabels = { "Title" : name , "Plot" : description , "Genre" : genre , "dateadded" : date , "credits" : credits } )
  else :
-  O00oO0o000oO . setInfo ( type = "Video" , infoLabels = allinfo )
- O00oO0o000oO . setProperty ( "Fanart_Image" , fanart )
+  ooo0oo00O00Oo . setInfo ( type = "Video" , infoLabels = allinfo )
+ ooo0oo00O00Oo . setProperty ( "Fanart_Image" , fanart )
  if showcontext :
-  I1i11II11i1iI = [ ]
+  OOO000000OOO0 = [ ]
   o0o0o0oO0oOO = Ooo . getSetting ( 'parentalblocked' )
   o0o0o0oO0oOO = o0o0o0oO0oOO == "true"
-  iI1 = Ooo . getSetting ( 'parentalblockedpin' )
-  if 12 - 12: o0oO0 + o0000oOoOoO0o + o00O0oo . O0oO / oO0o0ooO0
-  if len ( iI1 ) > 0 :
+  ooOoOOoooO000 = Ooo . getSetting ( 'parentalblockedpin' )
+  if 85 - 85: IIiIiII11i % o00O0oo + o0000oOoOoO0o / oO0o0ooO0 % II1
+  if len ( ooOoOOoooO000 ) > 0 :
    if o0o0o0oO0oOO :
-    I1i11II11i1iI . append ( ( 'Disable Parental Block' , 'XBMC.RunPlugin(%s?mode=55&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
+    OOO000000OOO0 . append ( ( 'Disable Parental Block' , 'XBMC.RunPlugin(%s?mode=55&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
    else :
-    I1i11II11i1iI . append ( ( 'Enable Parental Block' , 'XBMC.RunPlugin(%s?mode=56&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
-    if 29 - 29: O0oO . i11Ii11I1Ii1i - iIiiiI1IiI1I1
+    OOO000000OOO0 . append ( ( 'Enable Parental Block' , 'XBMC.RunPlugin(%s?mode=56&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
+    if 42 - 42: o0oO0 * O0oO
   if showcontext == 'source' :
-   if 68 - 68: IIii1I + iIiiiI1IiI1I1 / OoOO0ooOOoo0O
+   if 23 - 23: OoOO0ooOOoo0O * o0oO0 - II1 * II1 % Ooo00oOo00o + iIiiiI1IiI1I1
    if name in str ( i1iiIIiiI111 ) :
-    I1i11II11i1iI . append ( ( 'Remove from Sources' , 'XBMC.RunPlugin(%s?mode=8&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
-    if 91 - 91: OOooOOo % IIii1I . IIiIiII11i
-    if 70 - 70: o00O0oo % iIiiiI1IiI1I1 % OOO0O0O0ooooo . O00ooooo00 / o0oO0
+    OOO000000OOO0 . append ( ( 'Remove from Sources' , 'XBMC.RunPlugin(%s?mode=8&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
+    if 9 - 9: IIii1I * Ooo00oOo00o % o0oO0
+    if 46 - 46: o00O0oo . O0oO / iIiiiI1IiI1I1 % IIii1I + O0oO
   elif showcontext == 'download' :
-   I1i11II11i1iI . append ( ( 'Download' , 'XBMC.RunPlugin(%s?url=%s&mode=9&name=%s)'
+   OOO000000OOO0 . append ( ( 'Download' , 'XBMC.RunPlugin(%s?url=%s&mode=9&name=%s)'
  % ( sys . argv [ 0 ] , urllib . quote_plus ( url ) , urllib . quote_plus ( name ) ) ) )
-   if 100 - 100: OoOO * i11iIiiIii % OoOO0ooOOoo0O / IiIIi1I1Iiii / i11Ii11I1Ii1i + OoOO
+   if 61 - 61: o0000oOoOoO0o / Ooo00oOo00o + iIiiiI1IiI1I1 . OoOO0ooOOoo0O / IiIIi1I1Iiii * o0000oOoOoO0o
   if showcontext == '!!update' :
-   o00ooOoo = (
+   ii1O0ooooo000 = (
  '%s?url=%s&mode=17&regexs=%s'
  % ( sys . argv [ 0 ] , urllib . quote_plus ( reg_url ) , regexs )
  )
-   I1i11II11i1iI . append ( ( '[COLOR yellow]!!update[/COLOR]' , 'XBMC.RunPlugin(%s)' % o00ooOoo ) )
-  O00oO0o000oO . addContextMenuItems ( I1i11II11i1iI )
- OOOiI1 = xbmcplugin . addDirectoryItem ( handle = int ( sys . argv [ 1 ] ) , url = OOOO00OooO , listitem = O00oO0o000oO , isFolder = True )
- return OOOiI1
-def i111i1I1ii1i ( url , title , media_type = 'video' ) :
- if 100 - 100: O0oO . oO0o0ooO0 - IIii1I . i11iIiiIii / iIiiiI1IiI1I1
- if 71 - 71: o0oO0 * IiIIi1I1Iiii . o00O0oo
+   OOO000000OOO0 . append ( ( '[COLOR yellow]!!update[/COLOR]' , 'XBMC.RunPlugin(%s)' % ii1O0ooooo000 ) )
+  ooo0oo00O00Oo . addContextMenuItems ( OOO000000OOO0 )
+ O00oOo0O0o00O = xbmcplugin . addDirectoryItem ( handle = int ( sys . argv [ 1 ] ) , url = O00o0O , listitem = ooo0oo00O00Oo , isFolder = True )
+ return O00oOo0O0o00O
+def OooOoOO0OO ( url , title , media_type = 'video' ) :
+ if 27 - 27: O0oO * IIiIiII11i . IIii1I - IIii1I
+ if 5 - 5: O0oO
  import youtubedl
  if not url == '' :
   if media_type == 'audio' :
@@ -2138,214 +2139,214 @@ def i111i1I1ii1i ( url , title , media_type = 'video' ) :
  elif xbmc . Player ( ) . isPlaying ( ) == True :
   import YDStreamExtractor
   if YDStreamExtractor . isDownloading ( ) == True :
-   if 49 - 49: O0oO * OOO0O0O0ooooo . O0oO
+   if 84 - 84: iIiiiI1IiI1I1 * OoOO0ooOOoo0O * iIiiiI1IiI1I1 % O0oO / IIiIiII11i
    YDStreamExtractor . manageDownloads ( )
   else :
-   ii1II1II = xbmc . Player ( ) . getPlayingFile ( )
-   if 42 - 42: oO0o0ooO0
-   ii1II1II = ii1II1II . split ( '|User-Agent=' ) [ 0 ]
-   o0OO0OOO0O = { 'url' : ii1II1II , 'title' : title , 'media_type' : media_type }
-   youtubedl . single_YD ( '' , download = True , dl_info = o0OO0OOO0O )
+   O0O = xbmc . Player ( ) . getPlayingFile ( )
+   if 80 - 80: IIii1I
+   O0O = O0O . split ( '|User-Agent=' ) [ 0 ]
+   o0O = { 'url' : O0O , 'title' : title , 'media_type' : media_type }
+   youtubedl . single_YD ( '' , download = True , dl_info = o0O )
  else :
   xbmc . executebuiltin ( "XBMC.Notification(DOWNLOAD,First Play [COLOR yellow]WHILE playing download[/COLOR] ,10000)" )
-  if 68 - 68: o0000oOoOoO0o . IiIIi1I1Iiii % i11Ii11I1Ii1i - II1 * IIII . o0000oOoOoO0o
-  if 46 - 46: i11iIiiIii - o0000oOoOoO0o * IIiIiII11i * o00O0oo % OoOO * O00ooooo00
-def Iii1I ( string ) :
+  if 23 - 23: iIiiiI1IiI1I1
+  if 71 - 71: o0oO0 * IiIIi1I1Iiii . o00O0oo
+def i1ii1iiIi1II ( string ) :
  if isinstance ( string , basestring ) :
   if isinstance ( string , unicode ) :
    string = string . encode ( 'ascii' , 'ignore' )
  return string
-def i1i1i1i1IiII1 ( string , encoding = 'utf-8' ) :
+def OOo000o0 ( string , encoding = 'utf-8' ) :
  if isinstance ( string , basestring ) :
   if not isinstance ( string , unicode ) :
    string = unicode ( string , encoding , 'ignore' )
  return string
-def II1oOOO00OOOoOO ( s ) : return "" . join ( filter ( lambda III : ord ( III ) < 128 , s ) )
-if 53 - 53: o0oO0 + OOooOOo
-def i1IiiiiiIiII ( command ) :
+def o00oo0OO0 ( s ) : return "" . join ( filter ( lambda oO0o000OooOoo : ord ( oO0o000OooOoo ) < 128 , s ) )
+if 8 - 8: IiIIi1I1Iiii + i11Ii11I1Ii1i / OOO0O0O0ooooo * II1 * iIiiiI1IiI1I1 % oO0o0ooO0
+def oO0o0oO ( command ) :
  ii11iIi1I = ''
  try :
-  ii11iIi1I = xbmc . executeJSONRPC ( i1i1i1i1IiII1 ( command ) )
+  ii11iIi1I = xbmc . executeJSONRPC ( OOo000o0 ( command ) )
  except UnicodeEncodeError :
-  ii11iIi1I = xbmc . executeJSONRPC ( Iii1I ( command ) )
-  if 26 - 26: ii11ii1ii . IIii1I
- return i1i1i1i1IiII1 ( ii11iIi1I )
- if 67 - 67: IiIIi1I1Iiii / OOO0O0O0ooooo
-def O0O0oo ( url , give_me_result = None , playlist = False ) :
+  ii11iIi1I = xbmc . executeJSONRPC ( i1ii1iiIi1II ( command ) )
+  if 84 - 84: O0oO + OoOO + oO0o0ooO0 + IIII
+ return OOo000o0 ( ii11iIi1I )
+ if 62 - 62: i11iIiiIii + OOooOOo + O00ooooo00
+def ii1 ( url , give_me_result = None , playlist = False ) :
  if 'audio' in url :
-  oO0Oo00oo = i1i1i1i1IiII1 ( '{"jsonrpc":"2.0","method":"Files.GetDirectory","params": {"directory":"%s","media":"video", "properties": ["title", "album", "artist", "duration","thumbnail", "year"]}, "id": 1}' ) % url
+  oOOoO0O = OOo000o0 ( '{"jsonrpc":"2.0","method":"Files.GetDirectory","params": {"directory":"%s","media":"video", "properties": ["title", "album", "artist", "duration","thumbnail", "year"]}, "id": 1}' ) % url
  else :
-  oO0Oo00oo = i1i1i1i1IiII1 ( '{"jsonrpc":"2.0","method":"Files.GetDirectory","params":{"directory":"%s","media":"video","properties":[ "plot","playcount","director", "genre","votes","duration","trailer","premiered","thumbnail","title","year","dateadded","fanart","rating","season","episode","studio","mpaa"]},"id":1}' ) % url
- OoOoooO000OO = json . loads ( i1IiiiiiIiII ( oO0Oo00oo ) )
- if 62 - 62: o0000oOoOoO0o + IiIIi1I1Iiii % IIii1I / IIii1I . i11Ii11I1Ii1i . O0oO
+  oOOoO0O = OOo000o0 ( '{"jsonrpc":"2.0","method":"Files.GetDirectory","params":{"directory":"%s","media":"video","properties":[ "plot","playcount","director", "genre","votes","duration","trailer","premiered","thumbnail","title","year","dateadded","fanart","rating","season","episode","studio","mpaa"]},"id":1}' ) % url
+ i1IiiiiiIiII = json . loads ( oO0o0oO ( oOOoO0O ) )
+ if 26 - 26: ii11ii1ii . IIii1I
  if give_me_result :
-  return OoOoooO000OO
- if OoOoooO000OO . has_key ( 'error' ) :
+  return i1IiiiiiIiII
+ if i1IiiiiiIiII . has_key ( 'error' ) :
   return
  else :
-  if 21 - 21: Ooo00oOo00o - oO0o0ooO0 - IIiIiII11i / OOooOOo
-  for II in OoOoooO000OO [ 'result' ] [ 'files' ] :
-   ii1 = { }
+  if 67 - 67: IiIIi1I1Iiii / OOO0O0O0ooooo
+  for II in i1IiiiiiIiII [ 'result' ] [ 'files' ] :
+   oO0Oo00oo = { }
    url = II [ 'file' ]
-   iI1Ii11iII1 = II1oOOO00OOOoOO ( II [ 'label' ] )
-   o0 = II1oOOO00OOOoOO ( II [ 'thumbnail' ] )
-   iI11iiiI1II = II1oOOO00OOOoOO ( II [ 'fanart' ] )
-   ii1 = dict ( ( k , v ) for k , v in II . iteritems ( ) if not v == '0' or not v == - 1 or v == '' )
-   ii1 . pop ( "file" , None )
+   iI1Ii11iII1 = o00oo0OO0 ( II [ 'label' ] )
+   o0 = o00oo0OO0 ( II [ 'thumbnail' ] )
+   iI11iiiI1II = o00oo0OO0 ( II [ 'fanart' ] )
+   oO0Oo00oo = dict ( ( k , v ) for k , v in II . iteritems ( ) if not v == '0' or not v == - 1 or v == '' )
+   oO0Oo00oo . pop ( "file" , None )
    if II [ 'filetype' ] == 'file' :
     if playlist :
      i1IiiiiIi1I ( iI1Ii11iII1 , url , queueVideo = '1' )
      continue
     else :
-     o00oooO0Oo ( url , iI1Ii11iII1 , o0 , iI11iiiI1II , '' , '' , '' , '' , None , '' , total = len ( OoOoooO000OO [ 'result' ] [ 'files' ] ) , allinfo = ii1 )
-     if 97 - 97: OoOO * OoOO / IIII
+     o00oooO0Oo ( url , iI1Ii11iII1 , o0 , iI11iiiI1II , '' , '' , '' , '' , None , '' , total = len ( i1IiiiiiIiII [ 'result' ] [ 'files' ] ) , allinfo = oO0Oo00oo )
+     if 75 - 75: IIii1I * i11iIiiIii - II1 . OOooOOo
      if II [ 'type' ] and II [ 'type' ] == 'tvshow' :
       xbmcplugin . setContent ( int ( sys . argv [ 1 ] ) , 'tvshows' )
      elif II [ 'episode' ] > 0 :
       xbmcplugin . setContent ( int ( sys . argv [ 1 ] ) , 'episodes' )
-      if 6 - 6: OoOO0ooOOoo0O
+      if 70 - 70: OoOO0ooOOoo0O * OoOO0ooOOoo0O + IiIIi1I1Iiii * o0000oOoOoO0o % IIiIiII11i + IIii1I
    else :
-    i1I111I ( iI1Ii11iII1 , url , 53 , o0 , iI11iiiI1II , '' , '' , '' , '' , allinfo = ii1 )
+    i1I111I ( iI1Ii11iII1 , url , 53 , o0 , iI11iiiI1II , '' , '' , '' , '' , allinfo = oO0Oo00oo )
   xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
-  if 72 - 72: o00O0oo * OoOO - OOooOOo / OoOO + o0000oOoOoO0o - IIII
+  if 2 - 2: i11iIiiIii
 def o00oooO0Oo ( url , name , iconimage , fanart , description , genre , date , showcontext , playlist , regexs , total , setCookie = "" , allinfo = { } ) :
- if 49 - 49: Ooo00oOo00o - OOO0O0O0ooooo / Ooo00oOo00o * OOooOOo + o0oO0
- I1i11II11i1iI = [ ]
+ if 98 - 98: OoOO0ooOOoo0O / Ooo00oOo00o - oO0o0ooO0 - IIiIiII11i / OOooOOo + i11iIiiIii
+ OOO000000OOO0 = [ ]
  o0o0o0oO0oOO = Ooo . getSetting ( 'parentalblocked' )
  o0o0o0oO0oOO = o0o0o0oO0oOO == "true"
- iI1 = Ooo . getSetting ( 'parentalblockedpin' )
- if 35 - 35: iIiiiI1IiI1I1 . IIiIiII11i / O00ooooo00 / IIiIiII11i * OoOO0ooOOoo0O
- if len ( iI1 ) > 0 :
+ ooOoOOoooO000 = Ooo . getSetting ( 'parentalblockedpin' )
+ if 17 - 17: o00O0oo
+ if len ( ooOoOOoooO000 ) > 0 :
   if o0o0o0oO0oOO :
-   I1i11II11i1iI . append ( ( 'Disable Parental Block' , 'XBMC.RunPlugin(%s?mode=55&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
+   OOO000000OOO0 . append ( ( 'Disable Parental Block' , 'XBMC.RunPlugin(%s?mode=55&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
   else :
-   I1i11II11i1iI . append ( ( 'Enable Parental Block' , 'XBMC.RunPlugin(%s?mode=56&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
-   if 85 - 85: iIiiiI1IiI1I1 . i11Ii11I1Ii1i % o0000oOoOoO0o % o00O0oo
+   OOO000000OOO0 . append ( ( 'Enable Parental Block' , 'XBMC.RunPlugin(%s?mode=56&name=%s)' % ( sys . argv [ 0 ] , urllib . quote_plus ( name ) ) ) )
+   if 97 - 97: OoOO * OoOO / IIII
  try :
   name = name . encode ( 'utf-8' )
  except : pass
+ if 6 - 6: OoOO0ooOOoo0O
+ if 72 - 72: o00O0oo * OoOO - OOooOOo / OoOO + o0000oOoOoO0o - IIII
+ if 49 - 49: Ooo00oOo00o - OOO0O0O0ooooo / Ooo00oOo00o * OOooOOo + o0oO0
+ if 35 - 35: iIiiiI1IiI1I1 . IIiIiII11i / O00ooooo00 / IIiIiII11i * OoOO0ooOOoo0O
+ if 85 - 85: iIiiiI1IiI1I1 . i11Ii11I1Ii1i % o0000oOoOoO0o % o00O0oo
  if 80 - 80: OoOO0ooOOoo0O * o00O0oo / IIii1I % OoOO0ooOOoo0O / IIii1I
- if 42 - 42: O00ooooo00 / i11iIiiIii . IiIIi1I1Iiii * IIII . i11iIiiIii * OOO0O0O0ooooo
- if 44 - 44: O00ooooo00 . IIiIiII11i / i11iIiiIii + O0oO
- if 27 - 27: o0000oOoOoO0o
- if 52 - 52: o0oO0 % OOooOOo + IIii1I * OoOO0ooOOoo0O . oO0o0ooO0
- if 95 - 95: IIii1I . O0oO - II1 * Ooo00oOo00o / ii11ii1ii
- OOOiI1 = True
- oOo0OO0o0 = False
+ O00oOo0O0o00O = True
+ Iiii1 = False
  if regexs :
-  II1I1I = '17'
+  i1iiIIiiiII = '17'
   if 'listrepeat' in regexs :
-   oOo0OO0o0 = True
+   Iiii1 = True
    print 'setting as folder in link'
-  I1i11II11i1iI . append ( ( '[COLOR white]!!Download Currently Playing!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=21&name=%s)'
+  OOO000000OOO0 . append ( ( '[COLOR white]!!Download Currently Playing!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=21&name=%s)'
  % ( sys . argv [ 0 ] , urllib . quote_plus ( url ) , urllib . quote_plus ( name ) ) ) )
  elif ( any ( x in url for x in OO0o ) and url . startswith ( 'http' ) ) or url . endswith ( '&mode=19' ) :
   url = url . replace ( '&mode=19' , '' )
-  II1I1I = '19'
-  I1i11II11i1iI . append ( ( '[COLOR white]!!Download Currently Playing!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=21&name=%s)'
+  i1iiIIiiiII = '19'
+  OOO000000OOO0 . append ( ( '[COLOR white]!!Download Currently Playing!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=21&name=%s)'
  % ( sys . argv [ 0 ] , urllib . quote_plus ( url ) , urllib . quote_plus ( name ) ) ) )
  elif url . endswith ( '&mode=18' ) :
   url = url . replace ( '&mode=18' , '' )
-  II1I1I = '18'
-  I1i11II11i1iI . append ( ( '[COLOR white]!!Download!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=23&name=%s)'
+  i1iiIIiiiII = '18'
+  OOO000000OOO0 . append ( ( '[COLOR white]!!Download!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=23&name=%s)'
  % ( sys . argv [ 0 ] , urllib . quote_plus ( url ) , urllib . quote_plus ( name ) ) ) )
   if Ooo . getSetting ( 'dlaudioonly' ) == 'true' :
-   I1i11II11i1iI . append ( ( '!!Download [COLOR seablue]Audio!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=24&name=%s)'
+   OOO000000OOO0 . append ( ( '!!Download [COLOR seablue]Audio!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=24&name=%s)'
  % ( sys . argv [ 0 ] , urllib . quote_plus ( url ) , urllib . quote_plus ( name ) ) ) )
  elif url . startswith ( 'magnet:?xt=' ) :
   if '&' in url and not '&amp;' in url :
    url = url . replace ( '&' , '&amp;' )
   url = 'plugin://plugin.video.pulsar/play?uri=' + url
-  II1I1I = '12'
+  i1iiIIiiiII = '12'
  else :
-  II1I1I = '12'
-  I1i11II11i1iI . append ( ( '[COLOR white]!!Download Currently Playing!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=21&name=%s)'
+  i1iiIIiiiII = '12'
+  OOO000000OOO0 . append ( ( '[COLOR white]!!Download Currently Playing!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=21&name=%s)'
  % ( sys . argv [ 0 ] , urllib . quote_plus ( url ) , urllib . quote_plus ( name ) ) ) )
  if 'plugin://plugin.video.youtube/play/?video_id=' in url :
-  III11I = url . replace ( 'plugin://plugin.video.youtube/play/?video_id=' , 'https://www.youtube.com/watch?v=' )
-  I1i11II11i1iI . append ( ( '!!Download [COLOR blue]Audio!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=24&name=%s)'
- % ( sys . argv [ 0 ] , urllib . quote_plus ( III11I ) , urllib . quote_plus ( name ) ) ) )
- OOOO00OooO = sys . argv [ 0 ] + "?"
- i1o0oo0 = False
+  Ii1I1 = url . replace ( 'plugin://plugin.video.youtube/play/?video_id=' , 'https://www.youtube.com/watch?v=' )
+  OOO000000OOO0 . append ( ( '!!Download [COLOR blue]Audio!![/COLOR]' , 'XBMC.RunPlugin(%s?url=%s&mode=24&name=%s)'
+ % ( sys . argv [ 0 ] , urllib . quote_plus ( Ii1I1 ) , urllib . quote_plus ( name ) ) ) )
+ O00o0O = sys . argv [ 0 ] + "?"
+ OO0ooO0 = False
  if playlist :
   if Ooo . getSetting ( 'add_playlist' ) == "false" :
-   OOOO00OooO += "url=" + urllib . quote_plus ( url ) + "&mode=" + II1I1I
+   O00o0O += "url=" + urllib . quote_plus ( url ) + "&mode=" + i1iiIIiiiII
   else :
-   OOOO00OooO += "mode=13&name=%s&playlist=%s" % ( urllib . quote_plus ( name ) , urllib . quote_plus ( str ( playlist ) . replace ( ',' , '||' ) ) )
+   O00o0O += "mode=13&name=%s&playlist=%s" % ( urllib . quote_plus ( name ) , urllib . quote_plus ( str ( playlist ) . replace ( ',' , '||' ) ) )
    name = name + '[COLOR green][/COLOR]'
-   i1o0oo0 = True
+   OO0ooO0 = True
  else :
-  OOOO00OooO += "url=" + urllib . quote_plus ( url ) + "&mode=" + II1I1I
+  O00o0O += "url=" + urllib . quote_plus ( url ) + "&mode=" + i1iiIIiiiII
  if regexs :
-  OOOO00OooO += "&regexs=" + regexs
+  O00o0O += "&regexs=" + regexs
  if not setCookie == '' :
-  OOOO00OooO += "&setCookie=" + urllib . quote_plus ( setCookie )
-  if 67 - 67: OOO0O0O0ooooo * o00O0oo - ii11ii1ii - iIiiiI1IiI1I1
+  O00o0O += "&setCookie=" + urllib . quote_plus ( setCookie )
+  if 95 - 95: IIii1I . O0oO - II1 * Ooo00oOo00o / ii11ii1ii
  if date == '' :
   date = None
  else :
   description += '\n\nDate: %s' % date
- O00oO0o000oO = xbmcgui . ListItem ( name , iconImage = "DefaultVideo.png" , thumbnailImage = iconimage )
+ ooo0oo00O00Oo = xbmcgui . ListItem ( name , iconImage = "DefaultVideo.png" , thumbnailImage = iconimage )
  if len ( allinfo ) < 1 :
-  O00oO0o000oO . setInfo ( type = "Video" , infoLabels = { "Title" : name , "Plot" : description , "Genre" : genre , "dateadded" : date } )
-  if 41 - 41: IIiIiII11i - o0oO0 % iIiiiI1IiI1I1 . o0oO0 - o00O0oo
+  ooo0oo00O00Oo . setInfo ( type = "Video" , infoLabels = { "Title" : name , "Plot" : description , "Genre" : genre , "dateadded" : date } )
+  if 74 - 74: OoOO0ooOOoo0O
  else :
-  O00oO0o000oO . setInfo ( type = "Video" , infoLabels = allinfo )
- O00oO0o000oO . setProperty ( "Fanart_Image" , fanart )
- if 45 - 45: oO0o0ooO0 - o0000oOoOoO0o
- if ( not i1o0oo0 ) and not any ( x in url for x in Oo0Ooo ) and not '$PLAYERPROXY$=' in url :
+  ooo0oo00O00Oo . setInfo ( type = "Video" , infoLabels = allinfo )
+ ooo0oo00O00Oo . setProperty ( "Fanart_Image" , fanart )
+ if 34 - 34: IIII
+ if ( not OO0ooO0 ) and not any ( x in url for x in Oo0Ooo ) and not '$PLAYERPROXY$=' in url :
   if regexs :
-   if 70 - 70: Ooo00oOo00o % IIiIiII11i / IIiIiII11i . o00O0oo % i11Ii11I1Ii1i . iIiiiI1IiI1I1
+   if 44 - 44: O00ooooo00 % IIiIiII11i % ii11ii1ii
    if '$pyFunction:playmedia(' not in urllib . unquote_plus ( regexs ) and 'notplayable' not in urllib . unquote_plus ( regexs ) and 'listrepeat' not in urllib . unquote_plus ( regexs ) :
-    if 10 - 10: oO0o0ooO0 - i11iIiiIii . OoOO % O00ooooo00
-    O00oO0o000oO . setProperty ( 'IsPlayable' , 'true' )
+    if 9 - 9: IiIIi1I1Iiii % II1 - oO0o0ooO0
+    ooo0oo00O00Oo . setProperty ( 'IsPlayable' , 'true' )
   else :
-   O00oO0o000oO . setProperty ( 'IsPlayable' , 'true' )
+   ooo0oo00O00Oo . setProperty ( 'IsPlayable' , 'true' )
  else :
   generator . addon_log ( 'NOT setting isplayable' + url )
-  if 78 - 78: IIii1I * IiIIi1I1Iiii . IiIIi1I1Iiii - o0000oOoOoO0o . IIii1I
+  if 43 - 43: Ooo00oOo00o % Ooo00oOo00o
  if not playlist is None :
   if Ooo . getSetting ( 'add_playlist' ) == "false" :
-   I111I1I = name . split ( ') ' ) [ 1 ]
-   Oo0000 = [
- ( 'Play ' + I111I1I + ' PlayList' , 'XBMC.RunPlugin(%s?mode=13&name=%s&playlist=%s)'
- % ( sys . argv [ 0 ] , urllib . quote_plus ( I111I1I ) , urllib . quote_plus ( str ( playlist ) . replace ( ',' , '||' ) ) ) )
+   IIiii11ii1i = name . split ( ') ' ) [ 1 ]
+   II1iI1IIi = [
+ ( 'Play ' + IIiii11ii1i + ' PlayList' , 'XBMC.RunPlugin(%s?mode=13&name=%s&playlist=%s)'
+ % ( sys . argv [ 0 ] , urllib . quote_plus ( IIiii11ii1i ) , urllib . quote_plus ( str ( playlist ) . replace ( ',' , '||' ) ) ) )
  ]
-   O00oO0o000oO . addContextMenuItems ( Oo0000 )
-   if 52 - 52: OoOO / IIII
- OOOiI1 = xbmcplugin . addDirectoryItem ( handle = int ( sys . argv [ 1 ] ) , url = OOOO00OooO , listitem = O00oO0o000oO , totalItems = total , isFolder = oOo0OO0o0 )
- if 37 - 37: o00O0oo
- if 83 - 83: OOO0O0O0ooooo
- return OOOiI1
- if 89 - 89: IiIIi1I1Iiii + OoOO - ii11ii1ii
- if 40 - 40: Ooo00oOo00o + Ooo00oOo00o
-def o0oo0o00ooO00 ( url , name , iconimage , setresolved = True ) :
+   ooo0oo00O00Oo . addContextMenuItems ( II1iI1IIi )
+   if 41 - 41: IIiIiII11i - o0oO0 % iIiiiI1IiI1I1 . o0oO0 - o00O0oo
+ O00oOo0O0o00O = xbmcplugin . addDirectoryItem ( handle = int ( sys . argv [ 1 ] ) , url = O00o0O , listitem = ooo0oo00O00Oo , totalItems = total , isFolder = Iiii1 )
+ if 45 - 45: oO0o0ooO0 - o0000oOoOoO0o
+ if 70 - 70: Ooo00oOo00o % IIiIiII11i / IIiIiII11i . o00O0oo % i11Ii11I1Ii1i . iIiiiI1IiI1I1
+ return O00oOo0O0o00O
+ if 10 - 10: oO0o0ooO0 - i11iIiiIii . OoOO % O00ooooo00
+ if 78 - 78: IIii1I * IiIIi1I1Iiii . IiIIi1I1Iiii - o0000oOoOoO0o . IIii1I
+def I111I1I ( url , name , iconimage , setresolved = True ) :
  if setresolved :
-  O00oO0o000oO = xbmcgui . ListItem ( name , iconImage = iconimage )
-  O00oO0o000oO . setInfo ( type = 'Video' , infoLabels = { 'Title' : name } )
-  O00oO0o000oO . setProperty ( "IsPlayable" , "true" )
-  O00oO0o000oO . setPath ( url )
-  xbmcplugin . setResolvedUrl ( int ( sys . argv [ 1 ] ) , True , O00oO0o000oO )
+  ooo0oo00O00Oo = xbmcgui . ListItem ( name , iconImage = iconimage )
+  ooo0oo00O00Oo . setInfo ( type = 'Video' , infoLabels = { 'Title' : name } )
+  ooo0oo00O00Oo . setProperty ( "IsPlayable" , "true" )
+  ooo0oo00O00Oo . setPath ( url )
+  xbmcplugin . setResolvedUrl ( int ( sys . argv [ 1 ] ) , True , ooo0oo00O00Oo )
  else :
   xbmc . executebuiltin ( 'XBMC.RunPlugin(' + url + ')' )
-  if 37 - 37: Ooo00oOo00o - OoOO . II1 . i11Ii11I1Ii1i + OOooOOo / oO0o0ooO0
-  if 15 - 15: O0oO . O00ooooo00 * OOooOOo % IIii1I
-  if 35 - 35: OoOO + o0oO0 - OOooOOo % OoOO0ooOOoo0O % ii11ii1ii % OOooOOo
-  if 45 - 45: IIiIiII11i * o0000oOoOoO0o % Ooo00oOo00o
+  if 54 - 54: iIiiiI1IiI1I1 + o00O0oo % o00O0oo % ii11ii1ii
+  if 25 - 25: IIII - IiIIi1I1Iiii
+  if 10 - 10: OOO0O0O0ooooo % O0oO . Ooo00oOo00o + ii11ii1ii + OoOO
+  if 52 - 52: OOooOOo / Ooo00oOo00o + o0oO0
 def OoO ( link ) :
  I1II11IiII = urllib . urlopen ( link )
- i111I11I = I1II11IiII . read ( )
+ Iii1i11iiI1 = I1II11IiII . read ( )
  I1II11IiII . close ( )
- OoOoOOoO = i111I11I . split ( "Jetzt" )
- ii1ii1i11I1I = OoOoOOoO [ 1 ] . split ( 'programm/detail.php?const_id=' )
- iiII1iiiiiii = ii1ii1i11I1I [ 1 ] . split ( '<br /><a href="/' )
- iiIiii = iiII1iiiiiii [ 0 ] [ 40 : len ( iiII1iiiiiii [ 0 ] ) ]
- iiI1ii = ii1ii1i11I1I [ 2 ] . split ( "</a></p></div>" )
- O0OooOO = iiI1ii [ 0 ] [ 17 : len ( iiI1ii [ 0 ] ) ]
- O0OooOO = O0OooOO . encode ( 'utf-8' )
- return "  - " + O0OooOO + " - " + iiIiii
- if 49 - 49: O0oO / i11Ii11I1Ii1i / o0000oOoOoO0o
- if 25 - 25: IIiIiII11i % OOO0O0O0ooooo + O00ooooo00 - i11Ii11I1Ii1i
+ oOOoOooO0oO0o = Iii1i11iiI1 . split ( "Jetzt" )
+ o0o0OoO0OOO0 = oOOoOooO0oO0o [ 1 ] . split ( 'programm/detail.php?const_id=' )
+ oO0OOOO0o0 = o0o0OoO0OOO0 [ 1 ] . split ( '<br /><a href="/' )
+ oOO0O00O00OoO = oO0OOOO0o0 [ 0 ] [ 40 : len ( oO0OOOO0o0 [ 0 ] ) ]
+ IiIiI1i1 = o0o0OoO0OOO0 [ 2 ] . split ( "</a></p></div>" )
+ ii11I1IIi1i = IiIiI1i1 [ 0 ] [ 17 : len ( IiIiI1i1 [ 0 ] ) ]
+ ii11I1IIi1i = ii11I1IIi1i . encode ( 'utf-8' )
+ return "  - " + ii11I1IIi1i + " - " + oOO0O00O00OoO
+ if 44 - 44: IIiIiII11i * IIii1I / OOO0O0O0ooooo
+ if 17 - 17: iIiiiI1IiI1I1
 def oooooo0O000o ( url , regex ) :
  ii11iIi1I = IIIiI11ii ( url )
  try :
@@ -2355,36 +2356,36 @@ def oooooo0O000o ( url , regex ) :
   generator . addon_log ( 'regex failed' )
   generator . addon_log ( regex )
   return
-  if 38 - 38: ii11ii1ii % o0oO0 + i11iIiiIii + IIII + i11Ii11I1Ii1i / i11iIiiIii
-  if 94 - 94: IIII - IiIIi1I1Iiii + OoOO0ooOOoo0O
-  if 59 - 59: o00O0oo . IIiIiII11i - IIii1I + IIii1I
-def oO0o0Oo ( d , root = "root" , nested = 0 ) :
- if 76 - 76: i11Ii11I1Ii1i / OOooOOo + OoOO
- IiI11I111 = lambda Ooo000O00 : '<' + Ooo000O00 + '>'
- i1iI1Iiii1I = lambda Ooo000O00 : '</' + Ooo000O00 + '>\n'
- I1iII = lambda oO00oo0o00o0o , Iii1I1IIII : Iii1I1IIII + IiI11I111 ( OooooOoO ) + str ( oO00oo0o00o0o ) + i1iI1Iiii1I ( OooooOoO )
- if 79 - 79: i11Ii11I1Ii1i % o0000oOoOoO0o
- Iii1I1IIII = IiI11I111 ( root ) + '\n' if root else ""
- if 54 - 54: OOooOOo - o0oO0
- for OooooOoO , O0I1II1 in d . iteritems ( ) :
-  oOOoo = type ( O0I1II1 )
-  if nested == 0 : OooooOoO = 'regex'
-  if oOOoo is list :
-   for oO00oo0o00o0o in O0I1II1 :
+  if 9 - 9: II1 + OoOO0ooOOoo0O
+  if 33 - 33: OOO0O0O0ooooo
+  if 39 - 39: IIiIiII11i + IiIIi1I1Iiii
+def o0OO ( d , root = "root" , nested = 0 ) :
+ if 76 - 76: OOO0O0O0ooooo . Ooo00oOo00o + OOooOOo
+ ii11iI1iIiIi = lambda o0OO0OoO0o0o0 : '<' + o0OO0OoO0o0o0 + '>'
+ IIIIIIi1IiIi = lambda o0OO0OoO0o0o0 : '</' + o0OO0OoO0o0o0 + '>\n'
+ III1i = lambda oO00oo0o00o0o , o0Oo0ii1IiI11I : o0Oo0ii1IiI11I + ii11iI1iIiIi ( OO0Ooo000O0 ) + str ( oO00oo0o00o0o ) + IIIIIIi1IiIi ( OO0Ooo000O0 )
+ if 83 - 83: oO0o0ooO0 / i11iIiiIii % OOooOOo
+ o0Oo0ii1IiI11I = ii11iI1iIiIi ( root ) + '\n' if root else ""
+ if 94 - 94: i11iIiiIii / o0oO0 / IiIIi1I1Iiii
+ for OO0Ooo000O0 , I1iII in d . iteritems ( ) :
+  Iii1I1IIII = type ( I1iII )
+  if nested == 0 : OO0Ooo000O0 = 'regex'
+  if Iii1I1IIII is list :
+   for oO00oo0o00o0o in I1iII :
     oO00oo0o00o0o = escape ( oO00oo0o00o0o )
-    Iii1I1IIII = I1iII ( oO00oo0o00o0o , Iii1I1IIII )
-    if 9 - 9: o00O0oo . Ooo00oOo00o * O00ooooo00 . II1
-  if oOOoo is dict :
-   Iii1I1IIII = I1iII ( '\n' + oO0o0Oo ( O0I1II1 , None , nested + 1 ) , Iii1I1IIII )
-  if oOOoo is not list and oOOoo is not dict :
-   if not O0I1II1 is None : O0I1II1 = escape ( O0I1II1 )
-   Iii1I1IIII = I1iII ( O0I1II1 , Iii1I1IIII )
-   if 32 - 32: OOooOOo . OoOO % IIiIiII11i - iIiiiI1IiI1I1
- Iii1I1IIII += i1iI1Iiii1I ( root ) if root else ""
- if 11 - 11: OOO0O0O0ooooo + IIiIiII11i
- return Iii1I1IIII
+    o0Oo0ii1IiI11I = III1i ( oO00oo0o00o0o , o0Oo0ii1IiI11I )
+    if 57 - 57: OOO0O0O0ooooo - OOO0O0O0ooooo . OoOO / ii11ii1ii / oO0o0ooO0
+  if Iii1I1IIII is dict :
+   o0Oo0ii1IiI11I = III1i ( '\n' + o0OO ( I1iII , None , nested + 1 ) , o0Oo0ii1IiI11I )
+  if Iii1I1IIII is not list and Iii1I1IIII is not dict :
+   if not I1iII is None : I1iII = escape ( I1iII )
+   o0Oo0ii1IiI11I = III1i ( I1iII , o0Oo0ii1IiI11I )
+   if 20 - 20: o0000oOoOoO0o * iIiiiI1IiI1I1 - OOooOOo - OoOO0ooOOoo0O * o0oO0
+ o0Oo0ii1IiI11I += IIIIIIi1IiIi ( root ) if root else ""
+ if 6 - 6: i11Ii11I1Ii1i + o0000oOoOoO0o / IiIIi1I1Iiii + O0oO % iIiiiI1IiI1I1 / Ooo00oOo00o
+ return o0Oo0ii1IiI11I
 xbmcplugin . setContent ( int ( sys . argv [ 1 ] ) , 'movies' )
-if 80 - 80: OoOO0ooOOoo0O % OoOO0ooOOoo0O % OOO0O0O0ooooo - i11iIiiIii . IIII / OOO0O0O0ooooo
+if 45 - 45: II1
 try :
  xbmcplugin . addSortMethod ( int ( sys . argv [ 1 ] ) , xbmcplugin . SORT_METHOD_UNSORTED )
 except :
@@ -2401,19 +2402,19 @@ try :
  xbmcplugin . addSortMethod ( int ( sys . argv [ 1 ] ) , xbmcplugin . SORT_METHOD_GENRE )
 except :
  pass
- if 13 - 13: IIiIiII11i + OOO0O0O0ooooo - OoOO % IiIIi1I1Iiii / oO0o0ooO0 . O00ooooo00
+ if 9 - 9: o00O0oo . Ooo00oOo00o * O00ooooo00 . II1
 iI1III1iIi11 = IiiIiI1I1 ( )
-if 60 - 60: IiIIi1I1Iiii . O0oO % IIiIiII11i - o0oO0
+if 32 - 32: OOooOOo . OoOO % IIiIiII11i - iIiiiI1IiI1I1
 I1II11IiII = None
 iI1Ii11iII1 = None
-II1I1I = None
+i1iiIIiiiII = None
 i1I1i111Ii = None
-oooOo = None
+iiI111 = None
 iI11iiiI1II = Oo0o0000o0o0
 i1I1i111Ii = None
-oOoO0Oo0 = None
+OOoooo0oo = None
 iiI1I11i1i = None
-if 7 - 7: i11Ii11I1Ii1i + oO0o0ooO0
+if 92 - 92: OoOO0ooOOoo0O / o0000oOoOoO0o . OoOO
 try :
  I1II11IiII = urllib . unquote_plus ( iI1III1iIi11 [ "url" ] ) . decode ( 'utf-8' )
 except :
@@ -2423,7 +2424,7 @@ try :
 except :
  pass
 try :
- oooOo = urllib . unquote_plus ( iI1III1iIi11 [ "iconimage" ] )
+ iiI111 = urllib . unquote_plus ( iI1III1iIi11 [ "iconimage" ] )
 except :
  pass
 try :
@@ -2431,7 +2432,7 @@ try :
 except :
  pass
 try :
- II1I1I = int ( iI1III1iIi11 [ "mode" ] )
+ i1iiIIiiiII = int ( iI1III1iIi11 [ "mode" ] )
 except :
  pass
 try :
@@ -2439,53 +2440,53 @@ try :
 except :
  pass
 try :
- oOoO0Oo0 = int ( iI1III1iIi11 [ "fav_mode" ] )
+ OOoooo0oo = int ( iI1III1iIi11 [ "fav_mode" ] )
 except :
  pass
 try :
  iiI1I11i1i = iI1III1iIi11 [ "regexs" ]
 except :
  pass
- if 32 - 32: IIii1I % IIiIiII11i / i11iIiiIii + o0000oOoOoO0o - ii11ii1ii . IIII
-generator . addon_log ( "Mode: " + str ( II1I1I ) )
-if 86 - 86: O00ooooo00 / oO0o0ooO0 * IIiIiII11i
-if 67 - 67: OoOO * OoOO / OoOO0ooOOoo0O * II1 + OOooOOo
+ if 30 - 30: oO0o0ooO0 . OoOO / o0000oOoOoO0o
+generator . addon_log ( "Mode: " + str ( i1iiIIiiiII ) )
+if 2 - 2: O0oO % IIiIiII11i - o0oO0
+if 79 - 79: II1 / OoOO . OOO0O0O0ooooo
 if not I1II11IiII is None :
  generator . addon_log ( "URL: " + str ( I1II11IiII . encode ( 'utf-8' ) ) )
 generator . addon_log ( "Name: " + str ( iI1Ii11iII1 ) )
-if 79 - 79: O00ooooo00
-if II1I1I == None :
- OoOIii11iI11i1I ( )
+if 79 - 79: OoOO0ooOOoo0O - iIiiiI1IiI1I1
+if i1iiIIiiiII == None :
+ iIi1II ( )
  generator . addon_log ( "getSources" )
  iii11iII ( )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 1 - 1: OoOO0ooOOoo0O / O00ooooo00
-elif II1I1I == 1 :
+ if 43 - 43: O00ooooo00 + OOO0O0O0ooooo % Ooo00oOo00o / oO0o0ooO0 * IIiIiII11i
+elif i1iiIIiiiII == 1 :
  generator . addon_log ( "getData" )
  ii11iIi1I = None
  if iiI1I11i1i :
   ii11iIi1I = ii1I1IIii11 ( iiI1I11i1i , I1II11IiII )
   I1II11IiII = ''
-  if 74 - 74: o00O0oo / II1 / IiIIi1I1Iiii * i11iIiiIii . iIiiiI1IiI1I1 . II1
+  if 89 - 89: IIiIiII11i . IiIIi1I1Iiii + OoOO . OOO0O0O0ooooo % ii11ii1ii
  O0O00o0OOO0 ( I1II11IiII , iI11iiiI1II , ii11iIi1I )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 59 - 59: i11iIiiIii . II1 / o00O0oo * OoOO + II1
-elif II1I1I == 2 :
+ if 84 - 84: II1 + o0oO0 / IIiIiII11i % o0000oOoOoO0o % OoOO * IIiIiII11i
+elif i1iiIIiiiII == 2 :
  generator . addon_log ( "getChannelItems" )
  o0O0OOO0Ooo ( iI1Ii11iII1 , I1II11IiII , iI11iiiI1II )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 3 - 3: i11iIiiIii * IiIIi1I1Iiii % IIii1I % IIiIiII11i * IIII / o0000oOoOoO0o
-elif II1I1I == 3 :
+ if 58 - 58: Ooo00oOo00o - OOooOOo . i11iIiiIii % i11iIiiIii / O00ooooo00 / OoOO0ooOOoo0O
+elif i1iiIIiiiII == 3 :
  generator . addon_log ( "getSubChannelItems" )
  IiI111111IIII ( iI1Ii11iII1 , I1II11IiII , iI11iiiI1II )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 95 - 95: O0oO * OOO0O0O0ooooo * o0oO0 . II1 % IiIIi1I1Iiii + OoOO
-elif II1I1I == 5 :
+ if 24 - 24: IIiIiII11i * O00ooooo00 % i11Ii11I1Ii1i / OOO0O0O0ooooo + i11iIiiIii
+elif i1iiIIiiiII == 5 :
  generator . addon_log ( "LinksSources" )
  OoOo ( )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 98 - 98: OoOO0ooOOoo0O . II1
-elif II1I1I == 6 :
+ if 12 - 12: OoOO / oO0o0ooO0
+elif i1iiIIiiiII == 6 :
  generator . addon_log ( "rmFavorite" )
  try :
   iI1Ii11iII1 = iI1Ii11iII1 . split ( '\\ ' ) [ 1 ]
@@ -2496,28 +2497,28 @@ elif II1I1I == 6 :
  except :
   pass
  rmFavorite ( iI1Ii11iII1 )
+ if 5 - 5: II1
+elif i1iiIIiiiII == 7 :
+ generator . addon_log ( "addSource" )
+ o0oo0o0O00OO ( I1II11IiII )
+ if 18 - 18: IIiIiII11i % II1 - IIII . i11iIiiIii * IiIIi1I1Iiii % oO0o0ooO0
+elif i1iiIIiiiII == 8 :
+ generator . addon_log ( "rmSource" )
+ II111ii1II1i ( iI1Ii11iII1 )
+ if 12 - 12: O00ooooo00 / o0000oOoOoO0o % i11Ii11I1Ii1i * O0oO * OOO0O0O0ooooo * IIii1I
+elif i1iiIIiiiII == 9 :
+ generator . addon_log ( "download_file" )
+ o0OOOOO0 ( iI1Ii11iII1 , I1II11IiII )
+ if 93 - 93: IiIIi1I1Iiii / OoOO + O00ooooo00 * OoOO0ooOOoo0O . II1
+elif i1iiIIiiiII == 10 :
+ generator . addon_log ( "getCommunitySources" )
+ IIii1Ii1 ( )
  if 54 - 54: OOO0O0O0ooooo / O0oO % i11Ii11I1Ii1i * O00ooooo00 * OOO0O0O0ooooo
-elif II1I1I == 7 :
+elif i1iiIIiiiII == 11 :
  generator . addon_log ( "addSource" )
  o0oo0o0O00OO ( I1II11IiII )
  if 48 - 48: ii11ii1ii . OoOO0ooOOoo0O % OOooOOo - OOooOOo
-elif II1I1I == 8 :
- generator . addon_log ( "rmSource" )
- II111ii1II1i ( iI1Ii11iII1 )
- if 33 - 33: o00O0oo % iIiiiI1IiI1I1 + Ooo00oOo00o
-elif II1I1I == 9 :
- generator . addon_log ( "download_file" )
- i11Iii1Ii1i1 ( iI1Ii11iII1 , I1II11IiII )
- if 93 - 93: O00ooooo00 . O0oO / IIiIiII11i + O0oO
-elif II1I1I == 10 :
- generator . addon_log ( "getCommunitySources" )
- IIii1Ii1 ( )
- if 58 - 58: OoOO + OOO0O0O0ooooo . IiIIi1I1Iiii + OOooOOo - Ooo00oOo00o - OOooOOo
-elif II1I1I == 11 :
- generator . addon_log ( "addSource" )
- o0oo0o0O00OO ( I1II11IiII )
- if 41 - 41: IiIIi1I1Iiii / O00ooooo00 / IiIIi1I1Iiii - IIII . ii11ii1ii
-elif II1I1I == 12 :
+elif i1iiIIiiiII == 12 :
  generator . addon_log ( "setResolvedUrl" )
  if not I1II11IiII . startswith ( "plugin://plugin" ) or not any ( x in I1II11IiII for x in Oo0Ooo ) :
   o00o0 = xbmcgui . ListItem ( path = I1II11IiII )
@@ -2525,83 +2526,83 @@ elif II1I1I == 12 :
  else :
   print 'Not setting setResolvedUrl'
   xbmc . executebuiltin ( 'XBMC.RunPlugin(' + I1II11IiII + ')' )
-  if 65 - 65: OOO0O0O0ooooo * i11iIiiIii . II1 / IIiIiII11i / IIII
-  if 69 - 69: i11Ii11I1Ii1i % i11Ii11I1Ii1i
-elif II1I1I == 13 :
+  if 33 - 33: o00O0oo % iIiiiI1IiI1I1 + Ooo00oOo00o
+  if 93 - 93: O00ooooo00 . O0oO / IIiIiII11i + O0oO
+elif i1iiIIiiiII == 13 :
  generator . addon_log ( "play_playlist" )
  i1IiiiiIi1I ( iI1Ii11iII1 , i1I1i111Ii )
- if 76 - 76: i11iIiiIii * IIII / Ooo00oOo00o % OoOO + o0000oOoOoO0o
-elif II1I1I == 14 :
+ if 58 - 58: OoOO + OOO0O0O0ooooo . IiIIi1I1Iiii + OOooOOo - Ooo00oOo00o - OOooOOo
+elif i1iiIIiiiII == 14 :
  generator . addon_log ( "get_xml_database" )
  i1II1 ( I1II11IiII )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 48 - 48: IIii1I % O00ooooo00 + OOooOOo % ii11ii1ii
-elif II1I1I == 15 :
+ if 41 - 41: IiIIi1I1Iiii / O00ooooo00 / IiIIi1I1Iiii - IIII . ii11ii1ii
+elif i1iiIIiiiII == 15 :
  generator . addon_log ( "browse_xml_database" )
  i1II1 ( I1II11IiII , True )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 79 - 79: OOooOOo % IIiIiII11i % oO0o0ooO0 / O00ooooo00 % Ooo00oOo00o
-elif II1I1I == 16 :
+ if 65 - 65: OOO0O0O0ooooo * i11iIiiIii . II1 / IIiIiII11i / IIII
+elif i1iiIIiiiII == 16 :
  generator . addon_log ( "browse_community" )
  IIii1Ii1 ( I1II11IiII , browse = True )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 56 - 56: IIii1I - i11iIiiIii * IIII
-elif II1I1I == 17 :
+ if 69 - 69: i11Ii11I1Ii1i % i11Ii11I1Ii1i
+elif i1iiIIiiiII == 17 :
  generator . addon_log ( "getRegexParsed" )
- if 84 - 84: o0000oOoOoO0o + oO0o0ooO0 + ii11ii1ii
+ if 76 - 76: i11iIiiIii * IIII / Ooo00oOo00o % OoOO + o0000oOoOoO0o
  ii11iIi1I = None
  if iiI1I11i1i and 'listrepeat' in urllib . unquote_plus ( iiI1I11i1i ) :
   IiII1II11I , O0Oo00O , OOooo0O0o0 , iiI1I11i1i = ii1I1IIii11 ( iiI1I11i1i , I1II11IiII )
-  if 33 - 33: oO0o0ooO0
-  I1iiioOO0OO0O = ''
-  if 93 - 93: i11Ii11I1Ii1i
-  if 34 - 34: OoOO0ooOOoo0O - i11Ii11I1Ii1i * IiIIi1I1Iiii / ii11ii1ii
-  iI1iiIi1 = OOooo0O0o0 [ 'name' ]
-  i1iiiIi1Iii = iiI1I11i1i . pop ( iI1iiIi1 )
-  if 54 - 54: i11Ii11I1Ii1i . IIii1I * O00ooooo00
+  if 48 - 48: IIii1I % O00ooooo00 + OOooOOo % ii11ii1ii
+  o00o = ''
+  if 79 - 79: OOooOOo % IIiIiII11i % oO0o0ooO0 / O00ooooo00 % Ooo00oOo00o
+  if 56 - 56: IIii1I - i11iIiiIii * IIII
+  o0O0Ooo = OOooo0O0o0 [ 'name' ]
+  O0o = iiI1I11i1i . pop ( o0O0Ooo )
+  if 63 - 63: O0oO - O00ooooo00 * ii11ii1ii + II1
   I1II11IiII = ''
   import copy
-  II1II1i = ''
-  for iIO0OO0o0O00oO in O0Oo00O :
+  I1iiIi1 = ''
+  for i1iiiIi1Iii in O0Oo00O :
    try :
-    o00OoO0o0oOo = copy . deepcopy ( iiI1I11i1i )
-    if 92 - 92: O00ooooo00 % i11Ii11I1Ii1i + i11Ii11I1Ii1i - IIii1I . oO0o0ooO0
-    iIIi1o0Ooo0o0Oo = IiII1II11I
+    o0oO0O = copy . deepcopy ( iiI1I11i1i )
+    if 61 - 61: ii11ii1ii - iIiiiI1IiI1I1 % IIii1I . IiIIi1I1Iiii . ii11ii1ii % o0oO0
+    o0o0O00o = IiII1II11I
     II = 0
-    for II in range ( len ( iIO0OO0o0O00oO ) ) :
-     if 55 - 55: IIii1I * IIII
-     if len ( o00OoO0o0oOo ) > 0 :
-      for oo , Ii11iI in o00OoO0o0oOo . iteritems ( ) :
-       if Ii11iI is not None :
-        for ii111I11Ii , i11IiiI1Ii1 in Ii11iI . iteritems ( ) :
-         if i11IiiI1Ii1 is not None :
-          if 23 - 23: IIII % II1 / IIii1I + OoOO / O00ooooo00 / ii11ii1ii
-          if 94 - 94: O00ooooo00
-          if 36 - 36: IIiIiII11i + IiIIi1I1Iiii
-          if 46 - 46: IIII
-          if type ( i11IiiI1Ii1 ) is dict :
-           for ooIiI11i1I11111 , Ii1IIIIIIiI1 in i11IiiI1Ii1 . iteritems ( ) :
-            if Ii1IIIIIIiI1 is not None :
-             i11IiiI1Ii1 [ ooIiI11i1I11111 ] = Ii1IIIIIIiI1 . replace ( '[' + iI1iiIi1 + '.param' + str ( II + 1 ) + ']' , iIO0OO0o0O00oO [ II ] . decode ( 'utf-8' ) )
+    for II in range ( len ( i1iiiIi1Iii ) ) :
+     if 62 - 62: O00ooooo00 / o00O0oo * o0oO0 + OoOO / IiIIi1I1Iiii
+     if len ( o0oO0O ) > 0 :
+      for ooOo000oO0O0 , iiIiIIi11I1 in o0oO0O . iteritems ( ) :
+       if iiIiIIi11I1 is not None :
+        for oooOoOo0o00o , iIIi1ooo0o0 in iiIiIIi11I1 . iteritems ( ) :
+         if iIIi1ooo0o0 is not None :
+          if 84 - 84: o00O0oo - IiIIi1I1Iiii * OOO0O0O0ooooo / oO0o0ooO0 . oO0o0ooO0
+          if 93 - 93: OOO0O0O0ooooo / i11Ii11I1Ii1i + IIiIiII11i
+          if 20 - 20: O0oO / IIII % II1 / IIii1I + IIiIiII11i
+          if 57 - 57: ii11ii1ii / o0oO0
+          if type ( iIIi1ooo0o0 ) is dict :
+           for iiIiII , IIiiiI1iI in iIIi1ooo0o0 . iteritems ( ) :
+            if IIiiiI1iI is not None :
+             iIIi1ooo0o0 [ iiIiII ] = IIiiiI1iI . replace ( '[' + o0O0Ooo + '.param' + str ( II + 1 ) + ']' , i1iiiIi1Iii [ II ] . decode ( 'utf-8' ) )
           else :
-           Ii11iI [ ii111I11Ii ] = i11IiiI1Ii1 . replace ( '[' + iI1iiIi1 + '.param' + str ( II + 1 ) + ']' , iIO0OO0o0O00oO [ II ] . decode ( 'utf-8' ) )
-     iIIi1o0Ooo0o0Oo = iIIi1o0Ooo0o0Oo . replace ( '[' + iI1iiIi1 + '.param' + str ( II + 1 ) + ']' , iIO0OO0o0O00oO [ II ] . decode ( 'utf-8' ) )
-     if 24 - 24: IIiIiII11i * oO0o0ooO0 % OOO0O0O0ooooo - IiIIi1I1Iiii
-     if 30 - 30: O00ooooo00
-     if 4 - 4: o0oO0 - IIiIiII11i % OoOO0ooOOoo0O / ii11ii1ii % OoOO0ooOOoo0O * iIiiiI1IiI1I1
-    IiI1I = ''
-    if len ( o00OoO0o0oOo ) > 0 :
-     IiI1I = oO0o0Oo ( o00OoO0o0oOo , 'lsproroot' )
-     IiI1I = IiI1I . split ( '<lsproroot>' ) [ 1 ] . split ( '</lsproroot' ) [ 0 ]
-     if 25 - 25: OoOO0ooOOoo0O % IIiIiII11i + i11iIiiIii + OOO0O0O0ooooo * II1
-    II1II1i += '\n<item>%s\n%s</item>' % ( iIIi1o0Ooo0o0Oo , IiI1I )
+           iiIiIIi11I1 [ oooOoOo0o00o ] = iIIi1ooo0o0 . replace ( '[' + o0O0Ooo + '.param' + str ( II + 1 ) + ']' , i1iiiIi1Iii [ II ] . decode ( 'utf-8' ) )
+     o0o0O00o = o0o0O00o . replace ( '[' + o0O0Ooo + '.param' + str ( II + 1 ) + ']' , i1iiiIi1Iii [ II ] . decode ( 'utf-8' ) )
+     if 100 - 100: i11Ii11I1Ii1i / i11Ii11I1Ii1i - o0000oOoOoO0o % o0000oOoOoO0o * OoOO0ooOOoo0O / O0oO
+     if 32 - 32: IIiIiII11i + OoOO - OoOO0ooOOoo0O + OoOO / O00ooooo00 * OoOO0ooOOoo0O
+     if 90 - 90: oO0o0ooO0 % OoOO0ooOOoo0O
+    iiii1 = ''
+    if len ( o0oO0O ) > 0 :
+     iiii1 = o0OO ( o0oO0O , 'lsproroot' )
+     iiii1 = iiii1 . split ( '<lsproroot>' ) [ 1 ] . split ( '</lsproroot' ) [ 0 ]
+     if 60 - 60: IIiIiII11i % OoOO0ooOOoo0O / ii11ii1ii % OoOO0ooOOoo0O * i11iIiiIii / IIII
+    I1iiIi1 += '\n<item>%s\n%s</item>' % ( o0o0O00o , iiii1 )
    except : traceback . print_exc ( file = sys . stdout )
+   if 34 - 34: o0oO0 - o0000oOoOoO0o
+   if 25 - 25: OoOO0ooOOoo0O % IIiIiII11i + i11iIiiIii + OOO0O0O0ooooo * II1
    if 64 - 64: O00ooooo00
    if 10 - 10: o0oO0 % OOO0O0O0ooooo / IIiIiII11i % o00O0oo
    if 25 - 25: iIiiiI1IiI1I1 / Ooo00oOo00o
-   if 64 - 64: OOO0O0O0ooooo % i11Ii11I1Ii1i
-   if 40 - 40: ii11ii1ii + o00O0oo
-  O0O00o0OOO0 ( '' , '' , II1II1i )
+  O0O00o0OOO0 ( '' , '' , I1iiIi1 )
   xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
  else :
   I1II11IiII , OOOiII1 = ii1I1IIii11 ( iiI1I11i1i , I1II11IiII )
@@ -2609,58 +2610,58 @@ elif II1I1I == 17 :
    if '$PLAYERPROXY$=' in I1II11IiII :
     I1II11IiII , ooOoOO0OoO00o = I1II11IiII . split ( '$PLAYERPROXY$=' )
     print 'proxy' , ooOoOO0OoO00o
-    OoO000Oo0oO , iiiIiiiI1 = ooOoOO0OoO00o . split ( ':' )
-    OO0o0oO ( I1II11IiII , iI1Ii11iII1 , oooOo , OoO000Oo0oO , iiiIiiiI1 )
+    oo0OoOO0000 , i11Ii1iIIIIi = ooOoOO0OoO00o . split ( ':' )
+    OO0 ( I1II11IiII , iI1Ii11iII1 , iiI111 , oo0OoOO0000 , i11Ii1iIIIIi )
    else :
-    o0oo0o00ooO00 ( I1II11IiII , iI1Ii11iII1 , oooOo , OOOiII1 )
+    I111I1I ( I1II11IiII , iI1Ii11iII1 , iiI111 , OOOiII1 )
   else :
    xbmc . executebuiltin ( "XBMC.Notification(Wolf,Failed to extract regex. - " + "this" + ",4000," + I11 + ")" )
-elif II1I1I == 18 :
+elif i1iiIIiiiII == 18 :
  generator . addon_log ( "youtubedl" )
  try :
   import youtubedl
  except Exception :
   xbmc . executebuiltin ( "XBMC.Notification(Wolf,Please [COLOR yellow]install Youtube-dl[/COLOR] module ,10000," ")" )
  OOoOoo = youtubedl . single_YD ( I1II11IiII )
- o0oo0o00ooO00 ( OOoOoo , iI1Ii11iII1 , oooOo )
-elif II1I1I == 19 :
+ I111I1I ( OOoOoo , iI1Ii11iII1 , iiI111 )
+elif i1iiIIiiiII == 19 :
  generator . addon_log ( "Genesiscommonresolvers" )
- o0oo0o00ooO00 ( ooOo000OoO0o ( I1II11IiII ) , iI1Ii11iII1 , oooOo , True )
- if 50 - 50: i11Ii11I1Ii1i * OOooOOo + OoOO - i11iIiiIii + IiIIi1I1Iiii * OoOO
-elif II1I1I == 21 :
+ I111I1I ( ooOo000OoO0o ( I1II11IiII ) , iI1Ii11iII1 , iiI111 , True )
+ if 14 - 14: II1 . ii11ii1ii . o00O0oo
+elif i1iiIIiiiII == 21 :
  generator . addon_log ( "download current file using youtube-dl service" )
- i111i1I1ii1i ( '' , iI1Ii11iII1 , 'video' )
-elif II1I1I == 23 :
+ OooOoOO0OO ( '' , iI1Ii11iII1 , 'video' )
+elif i1iiIIiiiII == 23 :
  generator . addon_log ( "get info then download" )
- i111i1I1ii1i ( I1II11IiII , iI1Ii11iII1 , 'video' )
-elif II1I1I == 24 :
+ OooOoOO0OO ( I1II11IiII , iI1Ii11iII1 , 'video' )
+elif i1iiIIiiiII == 24 :
  generator . addon_log ( "Audio only youtube download" )
- i111i1I1ii1i ( I1II11IiII , iI1Ii11iII1 , 'audio' )
-elif II1I1I == 25 :
+ OooOoOO0OO ( I1II11IiII , iI1Ii11iII1 , 'audio' )
+elif i1iiIIiiiII == 25 :
  generator . addon_log ( "Searchin Other plugins" )
- oOOoOOO0oo0 ( I1II11IiII , iI1Ii11iII1 )
+ Ii1Ii1I ( I1II11IiII , iI1Ii11iII1 )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
-elif II1I1I == 55 :
+elif i1iiIIiiiII == 55 :
  generator . addon_log ( "enabled lock" )
- iI1 = Ooo . getSetting ( 'parentalblockedpin' )
+ ooOoOOoooO000 = Ooo . getSetting ( 'parentalblockedpin' )
  oOO00oOO = xbmc . Keyboard ( '' , 'Enter Pin' )
  oOO00oOO . doModal ( )
  if not ( oOO00oOO . isConfirmed ( ) == False ) :
   OoOoiI = oOO00oOO . getText ( )
-  if OoOoiI == iI1 :
+  if OoOoiI == ooOoOOoooO000 :
    Ooo . setSetting ( 'parentalblocked' , "false" )
    xbmc . executebuiltin ( "XBMC.Notification(Wolf,Parental Block Disabled,5000," + I11 + ")" )
   else :
    xbmc . executebuiltin ( "XBMC.Notification(Wolf,Wrong Pin??,5000," + I11 + ")" )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
-elif II1I1I == 56 :
+elif i1iiIIiiiII == 56 :
  generator . addon_log ( "disable lock" )
  Ooo . setSetting ( 'parentalblocked' , "true" )
  xbmc . executebuiltin ( "XBMC.Notification(Wolf,Parental block enabled,5000," + I11 + ")" )
  xbmcplugin . endOfDirectory ( int ( sys . argv [ 1 ] ) )
- if 20 - 20: o0oO0 / ii11ii1ii % OOooOOo
-elif II1I1I == 53 :
+ if 50 - 50: i11Ii11I1Ii1i * OOooOOo + OoOO - i11iIiiIii + IiIIi1I1Iiii * OoOO
+elif i1iiIIiiiII == 53 :
  generator . addon_log ( "Requesting JSON-RPC Items" )
- O0O0oo ( I1II11IiII )
- if 69 - 69: o0oO0 - O00ooooo00 % IIII . o0000oOoOoO0o - o0000oOoOoO0o
+ ii1 ( I1II11IiII )
+ if 20 - 20: o0oO0 / ii11ii1ii % OOooOOo
 # dd678faae9ac167bc83abf78e5cb2f3f0688d3a3
