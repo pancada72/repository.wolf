@@ -8,20 +8,94 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 1[/B][/COLOR]
-#EXTINF:0,PT: SPORT TV+
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3783.m3u8
-#EXTINF:0,PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
-#EXTINF:0,PT: SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3771.m3u8
-#EXTINF:0,PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3770.m3u8
-#EXTINF:0,PT: SPORT TV 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3769.m3u8
-#EXTINF:0,PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3768.m3u8
-#EXTINF:0,PT: BENFICA TV1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3767.m3u8
+#EXTINF:-1,|PT|  Sport TV   LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/926
+
+#EXTINF:-1,SPORTV 1   LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/697
+
+#EXTINF:-1,SPORTV 2 LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/696
+
+#EXTINF:-1,SPORTV 3 HD LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/695
+
+#EXTINF:-1,SPORTV 4  LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/694
+
+#EXTINF:-1,SPORTV 5 HD  LOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/693
+#EXTINF:-1,|PT| SPORT TV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/71
+
+#EXTINF:-1,|PT| SPORT TV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/70
+
+#EXTINF:-1,|PT| SPORT TV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/69
+
+#EXTINF:-1,|PT| SPORT TV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/68
+
+#EXTINF:-1,|PT| SPORT TV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/67
+
+#EXTINF:-1,|PT| Sport TV   Full HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2117
+
+#EXTINF:-1,PT: SPOR TV 1 (LOCAL 360p)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/4441
+
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2400
+
+#EXTINF:-1,PT  SPORTTV 1HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/66
+
+#EXTINF:-1,Sport TV 1 SD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2401
+
+#EXTINF:-1,|PT| SPORT TV 1 HD 720p
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2119
+
+#EXTINF:-1,|PT| Sport TV 1 Full HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2118
+
+#EXTINF:-1,|PT| SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/65
+
+#EXTINF:-1,|PT| Sport TV 2 Full HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2120
+
+#EXTINF:-1,|PT| SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/64
+
+#EXTINF:-1,|PT| Sport TV 3 Full HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2121
+
+#EXTINF:-1,|PT| SPORT TV4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/63
+
+#EXTINF:-1,|PT| SportTV 4 Full HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2122
+
+#EXTINF:-1,|PT| SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/62
+
+#EXTINF:-1,|PT| SportTV 5 Full HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/2123
+
+#EXTINF:-1,|PT| SPORTING TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/57
+
+#EXTINF:-1,|PT| A BOLA TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/55
+
+#EXTINF:-1,|PT| BTV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/60
+
+#EXTINF:-1,|PT|  BENFICA TV1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/fred/fred/3006
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
