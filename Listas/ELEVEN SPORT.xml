@@ -1,54 +1,105 @@
 #EXTM3U
 
-#EXTINF:0,(PT) ELEVEN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164977.ts
-#EXTINF:0,(PT) ELEVEN SPORT 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/158069.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164978.ts
-#EXTINF:0,(PT) ELEVEN SPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/158902.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164979.ts
-#EXTINF:0,(PT) ELEVENSPORT 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159765.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 4 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164980.ts
-#EXTINF:0,(PT) ELEVENSPORT 4 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159766.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 5 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164981.ts
-#EXTINF:0,(PT) ELEVENSPORT 5 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159767.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 6 SD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/164982.ts
-#EXTINF:0,(PT) ELEVENSPORT 6 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/159768.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/165455.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/165456.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167456.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167457.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167458.ts
-#EXTINF:0,(PT) ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167459.ts
-#EXTINF:0,(PT) ELEVEN SPORT 1 LOW
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167478.ts
-#EXTINF:0,(PT) ELEVEN SPORT 2 LOW
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167479.ts
-#EXTINF:0,(PT) ELEVEN SPORT 3 LOW
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167480.ts
-#EXTINF:0,(PT) ELEVEN SPORT 4 LOW
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167481.ts
-#EXTINF:0,(PT) ELEVEN SPORT 5 LOW
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167482.ts
-#EXTINF:0,(PT) ELEVEN SPORT 6 LOW
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://ip.sltv.be:8000/live/zO409sa90z/qNmhrVS5kn/167483.ts
+#EXTINF:-1,ElevenSports1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/1
+#EXTINF:-1,ElevenSports1 HD Extra
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/7
+#EXTINF:-1,ElevenSports 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/2
+#EXTINF:-1,ElevenSports 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/3
+#EXTINF:-1,ElevenSports 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/32
+#EXTINF:-1,ElevenSports 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/34
+#EXTINF:-1,ElevenSports 6
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/36
+#EXTINF:-1,ElevenSports 1 (Resolucao Muito Baixa)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/38
+#EXTINF:-1,ElevenSports 1 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/4
+#EXTINF:-1,ElevenSports 2 (Resolucao Muito Baixa)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/39
+#EXTINF:-1,ElevenSports 2 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/5
+#EXTINF:-1,ElevenSports 3 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/6
+#EXTINF:-1,ElevenSports 4 (Baixa ResoluÃ§Ã£o)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/33
+#EXTINF:-1,ElevenSports 5 (Baixa ResoluÃ§Ã£o)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/35
+#EXTINF:-1,ElevenSports 6 (Baixa ResoluÃ§Ã£o)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/alberta/alberta/37
+#EXTINF:-1,canal de informacoes
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/42
+#EXTINF:-1,ElevenSports1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/1
+#EXTINF:-1,ElevenSports1 HD Extra
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/7
+#EXTINF:-1,ElevenSports 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/2
+#EXTINF:-1,ElevenSports 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/3
+#EXTINF:-1,ElevenSports 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/32
+#EXTINF:-1,ElevenSports 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/34
+#EXTINF:-1,ElevenSports 6
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/36
+#EXTINF:-1,ElevenSports 1 (Resolucao Muito Baixa)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/38
+#EXTINF:-1,ElevenSports 1 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/4
+#EXTINF:-1,ElevenSports 2 (Resolucao Muito Baixa)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/39
+#EXTINF:-1,ElevenSports 2 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/5
+#EXTINF:-1,ElevenSports 3 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/6
+#EXTINF:-1,ElevenSports 4 (Baixa ResoluÃ§Ã£o)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/33
+#EXTINF:-1,ElevenSports 5 (Baixa ResoluÃ§Ã£o)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/35
+#EXTINF:-1,ElevenSports 6 (Baixa ResoluÃ§Ã£o)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/dolores/dolores/37
+#EXTINF:-1,ElevenSports1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/1
 
+#EXTINF:-1,ElevenSports1 HD Extra
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/7
+
+#EXTINF:-1,ElevenSports 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/2
+
+#EXTINF:-1,ElevenSports 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/3
+
+#EXTINF:-1,ElevenSports 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/32
+
+#EXTINF:-1,ElevenSports 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/34
+
+#EXTINF:-1,ElevenSports 6
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/36
+
+#EXTINF:-1,ElevenSports 1 (Resolucao Muito Baixa)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/38
+
+#EXTINF:-1,ElevenSports 1 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/4
+
+#EXTINF:-1,ElevenSports 2 (Resolucao Muito Baixa)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/39
+
+#EXTINF:-1,ElevenSports 2 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/5
+
+#EXTINF:-1,ElevenSports 3 (Baixa Resolucao)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/6
+
+#EXTINF:-1,ElevenSports 4 (Baixa Resolução)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/jupiter/jupiter/33
 
 
 
