@@ -136,18 +136,50 @@ plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http:
 
 
 #EXTINF:0,[COLOR  red][B] LINHA 2[/B][/COLOR]
-#EXTINF:0,PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
-#EXTINF:0,PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
-#EXTINF:0,PT: SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3771.m3u8
-#EXTINF:0,PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3770.m3u8
-#EXTINF:0,PT: SPORT TV 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3769.m3u8
-#EXTINF:0,PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3768.m3u8
+#EXTINF:-1,SPORTV + FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1477
+#EXTINF:-1,SPORTV +
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1038
+#EXTINF:-1,SPORTV 4k (TESTE)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/3685
+#EXTINF:-1,SPORTV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1476
+#EXTINF:-1,SPORTV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/193
+#EXTINF:-1,SPORTV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/286
+#EXTINF:-1,SPORTV 2 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1475
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/192
+#EXTINF:-1,SPORTV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/285
+#EXTINF:-1,SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1474
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/202
+#EXTINF:-1,SPORTV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/688
+#EXTINF:-1,SPORTV 4 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1473
+#EXTINF:-1,SPORTV 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/201
+#EXTINF:-1,SPORTV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/687
+#EXTINF:-1,SPORTV 5 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1472
+#EXTINF:-1,SPORTV 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/200
+#EXTINF:-1,SPORTV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/686
+#EXTINF:-1,A BOLA TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/199
+#EXTINF:-1,BTV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1479
+#EXTINF:-1,BTV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/245
+#EXTINF:-1,BTV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/288
 
 #EXTINF:0,[COLOR  red][B] LINHA 3[/B][/COLOR]
 #EXTINF:0,PT: Benfica TV HD
