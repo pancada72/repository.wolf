@@ -1,239 +1,301 @@
 #EXTM3U
-#EXTINF:-1,PT: ABOLA TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3904.m3u8
-
-#EXTINF:-1,PT: AMCHD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3914.m3u8
-
-#EXTINF:-1,PT: AXN
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3789.m3u8
-
-#EXTINF:-1,PT: AXN BLACK HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3901.m3u8
-
-#EXTINF:-1,PT: AXN WHITE
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3797.m3u8
-
-#EXTINF:-1,PT: Baby First
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3892.m3u8
-
-#EXTINF:-1,PT: BENFICA TV1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3767.m3u8
-
-#EXTINF:-1,PT: Caça e Pesca
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3911.m3u8
-
-#EXTINF:-1,PT: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3899.m3u8
-
-#EXTINF:-1,PT: Canal Q
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3896.m3u8
-
-#EXTINF:-1,PT: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3898.m3u8
-
-#EXTINF:-1,PT: CINEMUNDO
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3915.m3u8
-
-#EXTINF:-1,PT: DISCOVERY
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3805.m3u8
-
-#EXTINF:-1,PT: Disney Channel HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3893.m3u8
-
-#EXTINF:-1,PT: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3796.m3u8
-
-#EXTINF:-1,PT: Food Network
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3781.m3u8
-
-#EXTINF:-1,PT: FOX
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3794.m3u8
-
-#EXTINF:-1,PT: FoxComedy
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3780.m3u8
-
-#EXTINF:-1,PT: FoxCrime
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3779.m3u8
-
-#EXTINF:-1,PT: FoxLife HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3778.m3u8
-
-#EXTINF:-1,PT: HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3804.m3u8
-
-#EXTINF:-1,PT: JimJam
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3897.m3u8
-
-#EXTINF:-1,PT: Kombat Sport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3917.m3u8
-
-#EXTINF:-1,PT: Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3912.m3u8
-
-#EXTINF:-1,PT: NATIONAL GEO
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3803.m3u8
-
-#EXTINF:-1,PT: Porto Canal
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3921.m3u8
-
-#EXTINF:-1,PT: Real Madrid
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3918.m3u8
-
-#EXTINF:-1,PT: RTP Memória
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3906.m3u8
-
-#EXTINF:-1,PT: SIC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3787.m3u8
-
-#EXTINF:-1,PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3772.m3u8
-
-#EXTINF:-1,PT: SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3771.m3u8
-
-#EXTINF:-1,PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3770.m3u8
-
-#EXTINF:-1,PT: TLC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3900.m3u8
-
-#EXTINF:-1,PT: TOROS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3782.m3u8
-
-#EXTINF:-1,PT: TV CINE 1
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3801.m3u8
-
-#EXTINF:-1,PT: TV CINE 2
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3800.m3u8
-
-#EXTINF:-1,PT: TV CINE 3
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3799.m3u8
-
-#EXTINF:-1,PT: TV CINE 4
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3798.m3u8
-
-#EXTINF:-1,PT: RecordTV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3902.m3u8
-
-#EXTINF:-1,PT: TV SERIES HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3916.m3u8
-
-#EXTINF:-1,PT: TVI
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3785.m3u8
-
-#EXTINF:-1,PT: TVI 24
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3774.m3u8
-
-#EXTINF:-1,PT: TVI FICÇÃO
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3905.m3u8
-
-#EXTINF:-1,PT: TVI REALITY
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/3791.m3u8
-
-#EXTINF:-1,PT: SIC mulher
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://vmdirect.co.uk:5001/live/Errol/Errol/9682.m3u8
-
-#EXTINF:-1,PT | DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14128.m3u8
-
-#EXTINF:-1,PT | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14127.m3u8
-
-#EXTINF:-1,PT | DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14126.m3u8
-
-#EXTINF:-1,PT | E! Entertainment
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14125.m3u8
-
-
-
-
-#EXTINF:0,PT: 24 Kitchen
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16258.m3u8
-#EXTINF:0,PT: A Bola TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16302.m3u8
-#EXTINF:0,PT: AMC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16280.m3u8
-#EXTINF:0,PT: AXN Black HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16288.m3u8
-#EXTINF:0,PT: AXN White
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16287.m3u8
-#EXTINF:0,PT: Baby TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16277.m3u8
-#EXTINF:0,PT: Caça e Pesca
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16256.m3u8
-#EXTINF:0,PT: CAÇAVISION
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16257.m3u8
-#EXTINF:0,PT: CBS Reality
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16260.m3u8
-#EXTINF:0,PT: Cinemundo
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16290.m3u8
-#EXTINF:0,PT: Discovery Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16264.m3u8
-#EXTINF:0,PT: Discovery Showcase
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16263.m3u8
-#EXTINF:0,PT: Disney Channel
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16271.m3u8
-#EXTINF:0,PT: Disney Junior
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16270.m3u8
-#EXTINF:0,PT: FOX Comedy
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16286.m3u8
-#EXTINF:0,PT: Fox Crime
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16282.m3u8
-#EXTINF:0,PT: FOX HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16285.m3u8
-#EXTINF:0,PT: FOX Life HD
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16284.m3u8
-#EXTINF:0,PT: FOX Movies
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16283.m3u8
-#EXTINF:0,PT: Fuel TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16292.m3u8
-#EXTINF:0,PT: Historia
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16268.m3u8
-#EXTINF:0,PT: Hollywood
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16281.m3u8
-#EXTINF:0,PT: JimJam
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16273.m3u8
-#EXTINF:0,PT: Kombat Sport
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16293.m3u8
-#EXTINF:0,PT: Motorvision
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16294.m3u8
-#EXTINF:0,PT: Nat Geo
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16266.m3u8
-#EXTINF:0,PT: Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16265.m3u8
-#EXTINF:0,PT: Nickelodeon
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16275.m3u8
-#EXTINF:0,PT: Odissea
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16267.m3u8
-#EXTINF:0,PT: PFC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16297.m3u8
-#EXTINF:0,PT: Porto Canal
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16320.m3u8
-#EXTINF:0,PT: Real Madrid TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16296.m3u8
-#EXTINF:0,PT: RTP Africa
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16325.m3u8
-#EXTINF:0,PT: SIC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16326.m3u8
-#EXTINF:0,PT: SIC CARAS
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16324.m3u8
-#EXTINF:0,PT: SIC K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16276.m3u8
-#EXTINF:0,PT: SIC Radical
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16323.m3u8
-#EXTINF:0,PT: SYFY
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16279.m3u8
-#EXTINF:0,PT: TLC
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16259.m3u8
-#EXTINF:0,PT: Toros TV
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16255.m3u8
-#EXTINF:0,PT: TV Globo
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16318.m3u8
-#EXTINF:0,PT: TV Globo Premium
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16317.m3u8
-#EXTINF:0,PT: TV Record
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16316.m3u8
-#EXTINF:0,PT: TVi Reality
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://formen1.com:8080/live/rasit35/35rasit/16322.m3u8
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/185
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/184
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/183
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/191
+#EXTINF:-1,RTP 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1505
+#EXTINF:-1,RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1506
+#EXTINF:-1,SIC FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1508
+#EXTINF:-1,TVI FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1507
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/212
+#EXTINF:-1,SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/195
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/190
+#EXTINF:-1,RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1395
+#EXTINF:-1,SIC MULHER HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/219
+#EXTINF:-1,SIC RADICAL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/194
+#EXTINF:-1,SIC CARAS HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/204
+#EXTINF:-1,CANAL Q
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/198
+#EXTINF:-1,PORTO CANAL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/196
+#EXTINF:-1,CMTV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/186
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/700
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/518
+#EXTINF:-1,RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/697
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/698
+#EXTINF:-1,TVI REALTY
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/689
+#EXTINF:-1,TVI REALTY CAMERA 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1394
+#EXTINF:-1,TVI REALTY CAMERA 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1393
+#EXTINF:-1,TVI REALTY CAMERA 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1392
+#EXTINF:-1,TVI REALTY CAMERA 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1391
+#EXTINF:-1,TVI REALTY MOSAICO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1390
+#EXTINF:-1,TVI FICCAO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/213
+#EXTINF:-1,ARTV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/852
+#EXTINF:-1,TV RECORD HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/189
+#EXTINF:-1,GLOBO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/512
+#EXTINF:-1,GLOBO NOW
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/511
+#EXTINF:-1,SPORTV + FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1477
+#EXTINF:-1,SPORTV +
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1038
+#EXTINF:-1,SPORTV 4k (TESTE)
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/3685
+#EXTINF:-1,SPORTV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1476
+#EXTINF:-1,SPORTV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/193
+#EXTINF:-1,SPORTV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/286
+#EXTINF:-1,SPORTV 2 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1475
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/192
+#EXTINF:-1,SPORTV 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/285
+#EXTINF:-1,SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1474
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/202
+#EXTINF:-1,SPORTV 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/688
+#EXTINF:-1,SPORTV 4 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1473
+#EXTINF:-1,SPORTV 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/201
+#EXTINF:-1,SPORTV 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/687
+#EXTINF:-1,SPORTV 5 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1472
+#EXTINF:-1,SPORTV 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/200
+#EXTINF:-1,SPORTV 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/686
+#EXTINF:-1,A BOLA TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/199
+#EXTINF:-1,BTV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1479
+#EXTINF:-1,BTV 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/245
+#EXTINF:-1,BTV 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/288
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8012
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8011
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8010
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8015
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8014
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8013
+#EXTINF:-1,SPORTING TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/203
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/854
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/207
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/227
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/228
+#EXTINF:-1,MOTORVISION HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/206
+#EXTINF:-1,FUEL TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/276
+#EXTINF:-1,FIGHT NETWORK HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/705
+#EXTINF:-1,KOMBAT SPORT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/900
+#EXTINF:-1,CACAVISION
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/216
+#EXTINF:-1,CAÇA E PESCA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/208
+#EXTINF:-1,OUTDOOR HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/784
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/278
+#EXTINF:-1,DOG TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/706
+#EXTINF:-1,CINEMA 4K
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8009
+#EXTINF:-1,TVCINE 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/229
+#EXTINF:-1,TVCINE 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/2754
+#EXTINF:-1,TVCINE 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/230
+#EXTINF:-1,TVCINE 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/2753
+#EXTINF:-1,TVCINE 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/231
+#EXTINF:-1,TVCINE 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/2752
+#EXTINF:-1,TVCINE 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/232
+#EXTINF:-1,TVCINE 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/2751
+#EXTINF:-1,EUROCHANNEL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8508
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/234
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/522
+#EXTINF:-1,FOX MOVIES HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/513
+#EXTINF:-1,CINEMUNDO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/523
+#EXTINF:-1,SUNDANCE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/780
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/182
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/217
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/237
+#EXTINF:-1,AXN BLACK HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/238
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/215
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/235
+#EXTINF:-1,FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/236
+#EXTINF:-1,FOX COMEDY HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/693
+#EXTINF:-1,CRIME + INVESTIGATION
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1398
+#EXTINF:-1,TV SERIES HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/233
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/239
+#EXTINF:-1,CBS REALITY
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/517
+#EXTINF:-1,NAT. GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/211
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/242
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/180
+#EXTINF:-1,DISCOVERY SHOWCASE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/514
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/240
+#EXTINF:-1,BLAZE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/284
+#EXTINF:-1,ODISSEIA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/280
+#EXTINF:-1,CANAL HISTORIA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/516
+#EXTINF:-1,MY CUISINE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/790
+#EXTINF:-1,24 KITCHEN HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/241
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/695
+#EXTINF:-1,TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/509
+#EXTINF:-1,FASHION TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/696
+#EXTINF:-1,LUXE TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/783
+#EXTINF:-1,FINE LIVING HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/870
+#EXTINF:-1,S+ HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8505
+#EXTINF:-1,ZEE TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/867
+#EXTINF:-1,MAX
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/869
+#EXTINF:-1,TRACE URBAN HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/868
+#EXTINF:-1,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/692
+#EXTINF:-1,MTV ROCKS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/918
+#EXTINF:-1,MTV MUSIC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/919
+#EXTINF:-1,MTV DANCE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/920
+#EXTINF:-1,MCM POP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/788
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/277
+#EXTINF:-1,VH1 CLASSIC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1036
+#EXTINF:-1,iCONCERTS HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/704
+#EXTINF:-1,VIRGIN TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1500
+#EXTINF:-1,AFRO TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/515
+#EXTINF:-1,MEZZO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/781
+#EXTINF:-1,MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8506
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/282
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/243
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/519
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/283
+#EXTINF:-1,PANDA BIGGS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/279
+#EXTINF:-1,BOOMRANG
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8518
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/281
+#EXTINF:-1,TIJI
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/2817
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/205
+#EXTINF:-1,NICKELODEAN JUNIOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/3060
+#EXTINF:-1,SIC K
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/188
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/187
+#EXTINF:-1,LOCALVISAO HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/855
+#EXTINF:-1,KURIAKOS TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/1579
+#EXTINF:-1,ANGELUS TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/8510
+#EXTINF:-1,REGIOES TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/898
+#EXTINF:-1,SANTUARIO FATIMA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/marcelo/12345/225
