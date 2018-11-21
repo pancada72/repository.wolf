@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:0 tvg-logo="http://iporto.amp.pt/eventos/quim-roscas-zeca-estacionancio/picture_eventview",[COLOR blue]QUIM ROSCAS E ZECA ESTACIONÂNCIO AO VIVO 2010[/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Mz2yqzsXli8
-#EXTINF:0 tvg-logo="https://i0.wp.com/www.almeirinense.com/wp-content/uploads/2015/04/pass_solrir_fernando_rocha_11.png?fit=530%2C353",[COLOR blue]Fernando Rocha no Coliseu do Porto[/COLOR]
-plugin://plugin.video.youtube/play/?video_id=lJDxHHqLhew
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/MLbOR3sxb5Q/mqdefault.jpg",[COLOR blue]Cantiflas - Gravação Especial - Anedotas Picantes - Completo (AUDIO)[/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Zb3z0wappwY
