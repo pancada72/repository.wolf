@@ -1,0 +1,39 @@
+<item>
+<title>Acestream Search Engine </title>
+<link>$doregex[lista]</link>
+
+<regex>
+<name>lista</name>
+  <listrepeat><![CDATA[
+         <SetViewMode>55</SetViewMode>
+		 <title>[lista.param2]</title>
+        <link>plugin://program.plexus/?url=[lista.param1]&amp;mode=1&amp;name=udan+[lista.param2]</link>
+		<thumbnail>https://acestreamsearch.com/images/logo.png</thumbnail>
+		]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)">(.*?)<]]><expres>
+<page>https://acestreamsearch.com/en/index.php</page>
+<rawpost>cn=$doregex[search]</rawpost>
+<referer>https://acestreamsearch.com/en/index.php</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Acestream Search', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://acestreamsearch.com/images/logo.png</thumbnail>
+</item>
