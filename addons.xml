@@ -212,21 +212,6 @@
   </extension>
 </addon>
 
-<addon id="program.starwars.build" name="Auto Skin" version="0.0.1" provider-name="OChalado">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-		<summary>Auto Build Kodi</summary>
-		<description lang="en">Addon created to install a Build on your Kodi. Password access watch the video https://youtu.be/YBEB7xDc9qI</description>
-		<description lang="pt">Addon criado para instalar uma Build no seu Kodi. Acesso a senha ver o vÃ­deo https://youtu.be/YBEB7xDc9qI</description>
-		<platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="repository.kodi_ghost" name="[COLOR white]Kodi Ghost Repo[/COLOR]" version="1.0" provider-name="Kodi Ghost">
 	<extension point="xbmc.addon.repository" name="KodiGhostRepo">
 	    <dir>
