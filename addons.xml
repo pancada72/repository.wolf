@@ -347,27 +347,15 @@
   </extension>
 </addon>
 
-<addon id="script.exodusredux.artwork" version="1.0.2" name="Exodus Redux Artwork" provider-name="I-A-C">
+<addon id="script.module.exodusredux" name="Exodus Redux Module" version="2.0.3" provider-name="I-A-C">
 	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.beautifulsoup4"/>
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
-		<summary>Themes for the Exodus Redux Addon</summary>
-		<description></description>
 		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="script.exodusredux.metadata" version="1.0.2" name="Exodus Redux Metadata" provider-name="I-A-C">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Metadata for the Exodus Redux Addon</summary>
-		<description>Metadata for Exodus Redux are maintained separately to make distribution of the the addon itself easier/faster.</description>
-		<platform>all</platform>
+		<summary lang="en">Exodus Redux</summary>
 	</extension>
 </addon>
 
