@@ -424,19 +424,6 @@
   </extension>
 </addon>
 
-<addon id="script.module.yoda" name="[COLORgreen]yoda Module[/COLOR]" version="1.0.0" provider-name="S">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">yoda</summary>
-		<description></description>
-        <disclaimer lang="en"></disclaimer>
-	</extension>
-</addon>
-
 <addon id="script.tempest.artwork" version="1.0.2" name="Tempest Artwork" provider-name="Tempest">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
@@ -481,6 +468,31 @@
     <summary lang="en">Proxy for f4m</summary>
     <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
   </extension>
+</addon>
+
+<addon id="script.yoda.artwork" version="1.0.0" name="[COLORgreen]yoda Artwork[/COLOR]" provider-name="S">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes For yoda Addon</summary>
+		<description>Artwork Module For yoda Addon</description>
+        <disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.yoda.metadata" version="1.0.0" name="[COLORgreen]yoda Metadata[/COLOR]" provider-name="S">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the yoda Addon</summary>
+		<description>Metadata for yoda are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="service.autosubs"
