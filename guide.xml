@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=171&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <programme start="20190511020800 +0000" stop="20190511025200 +0000" channel="RTP 1">
+    <title lang="pt">Água de Mar</title>
+    <desc lang="pt">Elisa chega cedo à escola. Está muito preocupada com o aparecimento do pai da Maria. Teresa recebe um telefonema de Amélie e fica a saber que António, seu ex-companheiro, e a ex-mulher deste - a mãe de Amélie e Carmo - morreram num acidente em Paris(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22616793/16_9/325/244" />
+    <episode-num system="onscreen">S2 E81</episode-num>
+  </programme>
+  <programme start="20190511025200 +0000" stop="20190511044100 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_235523/16_9/325/244" />
+  </programme>
+  <programme start="20190511044100 +0000" stop="20190511053000 +0000" channel="RTP 1">
+    <title lang="pt">Viva a Música</title>
+    <desc lang="pt">É conhecida a paixão de Pedro Mestre pela Viola Campaniça, que ajudou a reabilitar, e pelo Cante Alentejano, que se tem expressado através da edição de vários discos e de grandes concertos nas mais prestigiadas salas do país. O Palco da Rádio recebe-o de novo, esta semana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221041730/16_9/325/244" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20190511053000 +0000" stop="20190511053100 +0000" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326269/16_9/325/244" />
+  </programme>
+  <programme start="20190511053100 +0000" stop="20190511053300 +0000" channel="RTP 1">
+    <title lang="pt">Movimento Gentil</title>
+    <sub-title lang="pt">Embaixadores:T1 Ep.29</sub-title>
+    <desc lang="pt">Depoimentos dos Embaixadores do Movimento Gentil que pretendem realçar a importância da gentileza em todos os momentos das nossas vidas(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22964590/16_9/325/244" />
+  </programme>
+  <programme start="20190511053300 +0000" stop="20190511054200 +0000" channel="RTP 1">
+    <title lang="pt">Conta um Conto</title>
+    <desc lang="pt">Contos que promovem a gentileza, a inclusão e a diversidade. São 20 contos narrados ao mesmo tempo por atores, artistas e contadores de histórias em Português e em Língua Gestual Portuguesa(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22981615/16_9/325/244" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20190511054200 +0000" stop="20190511054900 +0000" channel="RTP 1">
+    <title lang="pt">Ema e Gui</title>
+    <desc lang="pt">Série de animação inteiramente produzida em Portugal. Co-produção da RTP com José Miguel Ribeiro, um dos mais premiados animadores portugueses, esta série de 52 episódios de 7 minutos cada, conta a história de uma menina de 4 anos(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22864025/16_9/325/244" />
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20190511054900 +0000" stop="20190511055200 +0000" channel="RTP 1">
+    <title lang="pt">Os Pequenos Contos de Wismo</title>
+    <desc lang="pt">Sempre com a sua trouxa mágica, Wismo é um pequeno diabinho que viaja pelo universo dos contos e das lendas de toda a Europa. De certa forma, Wismo é o herói oculto dessas fábulas, aquele que nunca ouviu falar... ainda. É tempo agora de devolver o mérito que merece(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22762868/16_9/325/244" />
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20190511055200 +0000" stop="20190511060800 +0000" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22870096/16_9/325/244" />
+    <episode-num system="onscreen">S21 E37</episode-num>
+  </programme>
+  <programme start="20190511060800 +0000" stop="20190511061900 +0000" channel="RTP 1">
+    <title lang="pt">Jelly Jamm</title>
+    <desc lang="pt">Jelly Jamm celebra a música, a diversão e a amizade. Bello e os seus amigos vivem divertidas aventuras à medida que aprendem a viver em harmonia no mágico planeta Jammbo, a origem da música no universo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22835812/16_9/325/244" />
+    <episode-num system="onscreen">S1 E46</episode-num>
+  </programme>
+  <programme start="20190511061900 +0000" stop="20190511063200 +0000" channel="RTP 1">
+    <title lang="pt">Lulu Cambalhota</title>
+    <desc lang="pt">Lulu Cambalhota, uma série alegre e agradável para os pequenos exploradores da vida e da natureza. Lulu e os seus amigos adoram o campo, as florestas, o riacho, todas as estações do ano. Para eles o melhor parque infantil é a natureza!(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22842056/16_9/325/244" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20190511063200 +0000" stop="20190511070000 +0000" channel="RTP 1">
+    <title lang="pt">Movimento Gentil</title>
+    <sub-title lang="pt">Desafio Escolas:T1 Ep.14</sub-title>
+    <desc lang="pt">O Movimento Gentil, com o Rodrigo Paganelli, vai invadir as escolas do 1º ciclo do ensino básico de todo o país. Vamos espalhar gentileza, mas também vamos ficar inspirados com os fantásticos projetos que cada escola organiza(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221010735/16_9/325/244" />
+  </programme>
+  <programme start="20190511070000 +0000" stop="20190511090700 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">Fim de Semana</sub-title>
+    <desc lang="pt">Um espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326260/16_9/325/244" />
+  </programme>
+  <programme start="20190511090700 +0000" stop="20190511095700 +0000" channel="RTP 1">
+    <title lang="pt">Austrália</title>
+    <sub-title lang="pt">O Reino dos Monstros:T1 Ep.1</sub-title>
+    <desc lang="pt">Oscilando entre a seca e o dilúvio, a Austrália tropical está repleta de vida e morte. Quando as presas são abundantes, os predadores, ou melhor, os pesadelos estão constantemente à espreita. E nenhum lugar é seguro!(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221046284/16_9/325/244" />
+  </programme>
+  <programme start="20190511095700 +0000" stop="20190511115100 +0000" channel="RTP 1">
+    <title lang="pt">Aqui Portugal</title>
+    <desc lang="pt">Aqui mostramos Portugal! Nas tardes de sábado, ligue-se ao melhor do nosso país, na sua RTP! Numa viagem de descoberta, partimos à aventura pela diversidade do que há de melhor no nosso país. Ao longo de quatro horas, em direto dos estúdios do Porto ou de qualquer ponto de Portugal(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22736035/16_9/325/244" />
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20190511115100 +0000" stop="20190511120000 +0000" channel="RTP 1">
+    <title lang="pt">À Roda da Alimentação</title>
+    <desc lang="pt">A nossa saúde e o nosso bem-estar dependem muito de nós, por isso precisamos de dicas que façam toda a diferença no nosso dia-a-dia. A apresentadora Catarina Furtado é a cara do movimento "À Roda da Alimentação". Um desafio que nos vai ajudar a descobrir refeições mais saudáveis(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221043901/16_9/325/244" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20190511120000 +0000" stop="20190511130200 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">Todos os dias, às 13 horas, as notícias que marcam a atualidade nacional e mundial. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade que marcam a informação na RTP(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326249/16_9/325/244" />
+  </programme>
+  <programme start="20190511130200 +0000" stop="20190511132800 +0000" channel="RTP 1">
+    <title lang="pt">Voz do Cidadão</title>
+    <desc lang="pt">Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespectadores em cada semana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221043902/16_9/325/244" />
+    <episode-num system="onscreen">S8 E17</episode-num>
+  </programme>
+  <programme start="20190511132800 +0000" stop="20190511151000 +0000" channel="RTP 1">
+    <title lang="pt">Benfica x Elétrico</title>
+    <sub-title lang="pt">Futsal: Liga Sport Zone</sub-title>
+    <desc lang="pt">O Benfica recebe o Elétrico, no Pavilhão n. º 2 do Sport Lisboa e Benfica(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221046199/16_9/325/244" />
+  </programme>
+  <programme start="20190511151000 +0000" stop="20190511185900 +0000" channel="RTP 1">
+    <title lang="pt">Aqui Portugal</title>
+    <desc lang="pt">Aqui mostramos Portugal! Nas tardes de sábado, ligue-se ao melhor do nosso país, na sua RTP! Numa viagem de descoberta, partimos à aventura pela diversidade do que há de melhor no nosso país. Ao longo de quatro horas, em direto dos estúdios do Porto ou de qualquer ponto de Portugal(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22736035/16_9/325/244" />
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20190511185900 +0000" stop="20190511200000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou no país e no mundo. Se é importante, está no Telejornal(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326252/16_9/325/244" />
+  </programme>
+  <programme start="20190511200000 +0000" stop="20190511204300 +0000" channel="RTP 1">
+    <title lang="pt">Debates Europeias 2019</title>
+    <desc lang="pt">A poucos dias das Eleições Europeias, Maria Flor Pedroso traz a estúdio antigos eurodeputados e mandatários dos partidos para debate(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221045933/16_9/325/244" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20190511204300 +0000" stop="20190511213500 +0000" channel="RTP 1">
+    <title lang="pt">Joker</title>
+    <desc lang="pt">Noite após noite, vamos tentar encontrar a mente mais brilhante de Portugal. Cada pergunta tem quatro hipóteses de resposta. Por cada resposta correta, o concorrente sobe um patamar na árvore do dinheiro, até atingir o sétimo e último patamar da árvore, no valor de 50 mil euros(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221043916/16_9/325/244" />
+    <episode-num system="onscreen">S1 E159</episode-num>
+  </programme>
+  <programme start="20190511213500 +0000" stop="20190511223500 +0000" channel="RTP 1">
+    <title lang="pt">Conan, o Rapaz do Futuro</title>
+    <desc lang="pt">Quem é Conan Osíris, que pôs o país inteiro a cantar "Telemóveis"? De onde vem a sua música e como nasceu a sua imagem? A poucos dias da primeira semifinal do Festival da Eurovisão, a RTP vai recordar a história do percurso artístico do músico(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_23317391/16_9/325/244" />
+  </programme>
+  <programme start="20190511223500 +0000" stop="20190511235100 +0000" channel="RTP 1">
+    <title lang="pt">Fausto Bordalo Dias Banda &amp; Orquestra</title>
+    <sub-title lang="pt">Música e Revolução</sub-title>
+    <desc lang="pt">Transmissão do concerto especial de Fausto Bordalo Dias, com Banda &amp; Orquestra, gravado na Praça do Comércio, no âmbito das celebrações dos 45 anos do 25 de Abril. O compositor e cantor português interpreta canções emblemáticas como "Atrás dos Tempos Vêm Tempos" ou "O Barco Vai de Saída"(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_23315334/16_9/325/244" />
+  </programme>
+  <programme start="20190511235100 +0000" stop="20190512004600 +0000" channel="RTP 1">
+    <title lang="pt">A3.30</title>
+    <desc lang="pt">Todas as semanas, Fernando Alvim mostra-lhe o top dos videoclipes lançados no Youtube(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221043918/16_9/325/244" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20190512004600 +0000" stop="20190512012900 +0000" channel="RTP 1">
+    <title lang="pt">The Flash</title>
+    <desc lang="pt">Barry tem apenas 24 horas para salvar a mulher que ama e para o conseguir fará tudo o que for necessário(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22876305/16_9/325/244" />
+    <episode-num system="onscreen">S3 E22</episode-num>
+  </programme>
+  <programme start="20190512012900 +0000" stop="20190512020800 +0000" channel="RTP 1">
+    <title lang="pt">The Flash</title>
+    <desc lang="pt">Sem nada a perder, Barry enfrenta Savitar, que prepara um plano para se dispersar no Tempo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22878706/16_9/325/244" />
+    <episode-num system="onscreen">S3 E23</episode-num>
+  </programme>
+  <programme start="20190512020800 +0000" stop="20190512050800 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_235523/16_9/325/244" />
+  </programme>
+  <programme start="20190512050800 +0000" stop="20190512053000 +0000" channel="RTP 1">
+    <title lang="pt">Todas as Palavras</title>
+    <desc lang="pt">Ana Daniela Soares e Inês Fonseca Santos apresentam os livros e os autores que nos emocionam(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221039899/16_9/325/244" />
+    <episode-num system="onscreen">S4 E17</episode-num>
+  </programme>
+  <programme start="20190512053000 +0000" stop="20190512053100 +0000" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326269/16_9/325/244" />
+  </programme>
+  <programme start="20190512053100 +0000" stop="20190512054500 +0000" channel="RTP 1">
+    <title lang="pt">Conta um Conto</title>
+    <desc lang="pt">Contos que promovem a gentileza, a inclusão e a diversidade. São 20 contos narrados ao mesmo tempo por atores, artistas e contadores de histórias em Português e em Língua Gestual Portuguesa(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22983029/16_9/325/244" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20190512054500 +0000" stop="20190512055500 +0000" channel="RTP 1">
+    <title lang="pt">Ema e Gui</title>
+    <desc lang="pt">Série de animação inteiramente produzida em Portugal. Co-produção da RTP com José Miguel Ribeiro, um dos mais premiados animadores portugueses, esta série de 52 episódios de 7 minutos cada, conta a história de uma menina de 4 anos(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22866549/16_9/325/244" />
+    <episode-num system="onscreen">E27</episode-num>
+  </programme>
+  <programme start="20190512055500 +0000" stop="20190512060000 +0000" channel="RTP 1">
+    <title lang="pt">Os Pequenos Contos de Wismo</title>
+    <desc lang="pt">Sempre com a sua trouxa mágica, Wismo é um pequeno diabinho que viaja pelo universo dos contos e das lendas de toda a Europa. De certa forma, Wismo é o herói oculto dessas fábulas, aquele que nunca ouviu falar... ainda. É tempo agora de devolver o mérito que merece(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22763595/16_9/325/244" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20190512060000 +0000" stop="20190512061500 +0000" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22870177/16_9/325/244" />
+    <episode-num system="onscreen">S21 E38</episode-num>
+  </programme>
+  <programme start="20190512061500 +0000" stop="20190512063000 +0000" channel="RTP 1">
+    <title lang="pt">Jelly Jamm</title>
+    <desc lang="pt">Jelly Jamm celebra a música, a diversão e a amizade. Bello e os seus amigos vivem divertidas aventuras à medida que aprendem a viver em harmonia no mágico planeta Jammbo, a origem da música no universo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22836289/16_9/325/244" />
+    <episode-num system="onscreen">S1 E47</episode-num>
+  </programme>
+  <programme start="20190512063000 +0000" stop="20190512064500 +0000" channel="RTP 1">
+    <title lang="pt">Lulu Cambalhota</title>
+    <desc lang="pt">Lulu Cambalhota, uma série alegre e agradável para os pequenos exploradores da vida e da natureza. Lulu e os seus amigos adoram o campo, as florestas, o riacho, todas as estações do ano. Para eles o melhor parque infantil é a natureza!(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22835342/16_9/325/244" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20190512064500 +0000" stop="20190512070000 +0000" channel="RTP 1">
+    <title lang="pt">Movimento Gentil</title>
+    <sub-title lang="pt">Desafio Escolas:T1 Ep.15</sub-title>
+    <desc lang="pt">O Movimento Gentil, com o Rodrigo Paganelli, vai invadir as escolas do 1º ciclo do ensino básico de todo o país. Vamos espalhar gentileza, mas também vamos ficar inspirados com os fantásticos projetos que cada escola organiza(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221013203/16_9/325/244" />
+  </programme>
+  <programme start="20190512070000 +0000" stop="20190512093000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">Fim de Semana</sub-title>
+    <desc lang="pt">Um espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326260/16_9/325/244" />
+  </programme>
+  <programme start="20190512093000 +0000" stop="20190512103000 +0000" channel="RTP 1">
+    <title lang="pt">Eucaristia Dominical</title>
+    <desc lang="pt">A celebração dominical do dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22739097/16_9/325/244" />
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20190512103000 +0000" stop="20190512110000 +0000" channel="RTP 1">
+    <title lang="pt">Paraíso Verde</title>
+    <desc lang="pt">Nos últimos trinta anos, o arquipélago de 115 ilhas transformou quase 50% do seu território em reservas naturais classificadas, protegendo assim uma extensão de flora e fauna excepcionais, que lhe vale a reputação de "Galápagos do Oceano Índico"(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22876303/16_9/325/244" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20190512110000 +0000" stop="20190512120000 +0000" channel="RTP 1">
+    <title lang="pt">As Receitas Lá de Casa</title>
+    <desc lang="pt">As "Receitas lá de Casa" é uma competição em que duas duplas de amigos ou familiares se defrontam na cozinha. A fórmula é bem simples: as duas equipas cozinham em simultâneo, têm um tempo para a prova e um cabaz com todos os ingredientes que necessitam para fazer o melhor prato(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221039521/16_9/325/244" />
+    <episode-num system="onscreen">E170</episode-num>
+  </programme>
+  <programme start="20190512120000 +0000" stop="20190512131500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">Todos os dias, às 13 horas, as notícias que marcam a atualidade nacional e mundial. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade que marcam a informação na RTP(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326249/16_9/325/244" />
+  </programme>
+  <programme start="20190512131500 +0000" stop="20190512141500 +0000" channel="RTP 1">
+    <title lang="pt">Faz Faísca</title>
+    <desc lang="pt">"Faz Faísca" põe os olhos no mundo social e artístico e nas figuras mais conhecidas e seguidas do panorama nacional e internacional. Acompanha os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e os temas fortes nas redes sociais(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221044091/16_9/325/244" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20190512141500 +0000" stop="20190512150000 +0000" channel="RTP 1">
+    <title lang="pt">Portugueses pelo Mundo</title>
+    <desc lang="pt">Neste "Portugueses pelo Mundo", viajamos por África e pela Europa e ficamos a conhecer três portugueses que trabalham em profissões ligadas ao mar. É na ilha de Santo Antão, em Cabo Verde, que conhecemos António Garcias, 52 anos, instrutor de mergulho que nos leva numa viagem pelos mares da ilha(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22905398/16_9/325/244" />
+    <episode-num system="onscreen">S9 E5</episode-num>
+  </programme>
+  <programme start="20190512150000 +0000" stop="20190512170000 +0000" channel="RTP 1">
+    <title lang="pt">Um Avô Muito à Frente</title>
+    <desc lang="pt">Jason Kelly está a uma semana de casar com a filha do seu super controlador chefe. Mas quando o bem comportado Jason se encarrega de levar o seu avô depravado, Dick, a Daytona para umas férias, as suas núpcias ficam subitamente em perigo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_21191702/16_9/325/244" />
+  </programme>
+  <programme start="20190512170000 +0000" stop="20190512184500 +0000" channel="RTP 1">
+    <title lang="pt">Liga Europeia de Hóquei em Patins 2019</title>
+    <desc lang="pt">Acompanhe o embate que decidirá o título de campeão da Liga Europeia de hóquei em patins(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221047152/16_9/325/244" />
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20190512184500 +0000" stop="20190512185900 +0000" channel="RTP 1">
+    <title lang="pt">La Banda</title>
+    <desc lang="pt">La Banda percorre o país de norte a sul em busca de novas vozes para formar um grupo de cinco cantores. Sílvia Alberto é a anfitriã do programa, que conta com Bárbara Bandeira como apresentadora digital do formato. Os jurados são Manuel Moura dos Santos, Carolina Deslandes e Miguel Cristovinho(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221044092/16_9/325/244" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190512185900 +0000" stop="20190512200000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou no país e no mundo. Se é importante, está no Telejornal(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326252/16_9/325/244" />
+  </programme>
+  <programme start="20190512200000 +0000" stop="20190512221500 +0000" channel="RTP 1">
+    <title lang="pt">La Banda</title>
+    <desc lang="pt">La Banda percorre o país de norte a sul em busca de novas vozes para formar um grupo de cinco cantores. Sílvia Alberto é a anfitriã do programa, que conta com Bárbara Bandeira como apresentadora digital do formato. Os jurados são Manuel Moura dos Santos, Carolina Deslandes e Miguel Cristovinho(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_221044092/16_9/325/244" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190512221500 +0000" stop="20190513011500 +0000" channel="RTP 1">
+    <title lang="pt">Fátima</title>
+    <desc lang="pt">Maio de 2016. Um grupo de 11 mulheres parte de Vinhais, em peregrinação a Fátima. Ao longo de nove dias e 400 quilómetros, atravessam meio país em esforço e sacrifício para cumprir as suas promessas. Chegadas a Fátima, cada uma terá de reencontrar o seu próprio caminho para a redenção(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_21239826/16_9/325/244" />
+  </programme>
+</tv>
