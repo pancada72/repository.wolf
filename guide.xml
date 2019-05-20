@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <programme start="20190511004500 +0100" stop="20190511015000 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+    <desc lang="pt">u0027Linha Aberta, com Hernâni Carvalhou0027 um programa conduzido pelo próprio, que propõe analisar, debater, esmiuçar casos célebres da criminalidade e justiça portuguesa. Todos os dias será abordado um tema diferente. O tema do dia é lançado com uma peça de fundo, apoiada por testemunhos e por material de arquivo(n)</desc>
+  </programme>
+  <programme start="20190511015000 +0100" stop="20190511024500 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? (Diário)</title>
+    <desc lang="pt">u0027Quem Quer Namorar com o Agricultor?u0027, é uma versão do programa britânico u0027The Farmer Wants a Wifeu0027, apresentado por Andreia Rodrigues. u0027Longe do meio urbano, da agitação das grandes cidades, o desafio é encontrar o u0027matchu0027 perfeito para agricultores que procuram a mulher ideal. As várias pretendentes testam a sua adaptação ao campo e à vida na u0027terrau0027, sem perder de vista o objetivo de seduzir o seu futuro namorado(n)</desc>
+    <episode-num>S1E40</episode-num>
+  </programme>
+  <programme start="20190511024500 +0100" stop="20190511042500 +0100" channel="SIC">
+    <title lang="pt">Mentes Perigosas</title>
+    <desc lang="pt">Louanne Johnson, uma oficial da marinha, abandona a vida militar para ser professora de inglês. Porém, logo na primeira escola em que trabalha, ela depara-se com diversas barreiras e é forçada a lidar com a rebeldia dos alunos. Como a professora não consegue a atenção da sua classe, ela parte para outra forma de ensino e passa a dar aulas com caratê e músicas de Bob Dylan, tentando ajudar a turma(n)</desc>
+  </programme>
+  <programme start="20190511042500 +0100" stop="20190511051500 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
+  </programme>
+  <programme start="20190511051500 +0100" stop="20190511060000 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <desc lang="pt">Num navio de cruzeiro muita coisa pode acontecer: senhoras à procura de maridos ricos, homens que querem seduzir mulheres abonadas e pessoas que pretendem apenas diversão(n)</desc>
+    <episode-num>S2E21</episode-num>
+  </programme>
+  <programme start="20190511060000 +0100" stop="20190511063500 +0100" channel="SIC">
+    <title lang="pt">Etnias</title>
+    <desc lang="pt">Semanalmente, a jornalista Rita Rebelo apresenta o programa televisivo destinado às comunidades imigrantes em Portugal. Em aproximadamente 30 minutos, o Etnias faz a divulgação de informações úteis para os estrangeiros que escolheram Portugal para viver(n)</desc>
+    <episode-num>S19E19</episode-num>
+  </programme>
+  <programme start="20190511063500 +0100" stop="20190511070000 +0100" channel="SIC">
+    <title lang="pt">Lego Nexo Knights</title>
+    <desc lang="pt">A série descreve as aventuras dos cinco jovens cavaleiros tecnológicos: Clay, Aaron, Lance, Macy e Axl que protegem o Reino de Knighton contra os terríveis monstros de Jestro, o jovem bobo da corte enfeitiçado pelo Livro dos Monstros, e seu exército aterrorizante de monstros de lava(n)</desc>
+    <episode-num>S2E7</episode-num>
+  </programme>
+  <programme start="20190511070000 +0100" stop="20190511072000 +0100" channel="SIC">
+    <title lang="pt">Marvel: Os Guardiões da Galáxia</title>
+    <desc lang="pt">Os Guardiões da Galáxia da Marvel é uma série animada estadunidense, baseada na equipe de super-heróis fictícios da Marvel Comics, Guardiões da Galáxia(n)</desc>
+    <episode-num>S2E23</episode-num>
+  </programme>
+  <programme start="20190511072000 +0100" stop="20190511072500 +0100" channel="SIC">
+    <title lang="pt">Magazine Literacia 3Di</title>
+    <desc lang="pt">Uma iniciativa da Porto Editora, que consiste num desafio nacional dirigido aos alunos dos 2º e 3º ciclos do Ensino Básico de todo o país, envolvendo os respetivos professores e estabelecimentos de ensino, com o propósito de avaliarem as suas competências em quatro dimensões do saber: Matemática, Ciência, Leitura e Inglês(n)</desc>
+    <episode-num>S4E5</episode-num>
+  </programme>
+  <programme start="20190511072500 +0100" stop="20190511091000 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <desc lang="pt">Em cada episódio um grupo de 5 adolescentes portugueses vive uma aventura diferente para resolver um mistério(n)</desc>
+  </programme>
+  <programme start="20190511091000 +0100" stop="20190511121500 +0100" channel="SIC">
+    <title lang="pt">Olhó Baião</title>
+    <desc lang="pt">João Baião está de regresso à antena da SIC, para um projeto que tem a sua cara. Aos sábados e domingos de manhã, a SIC abre a antena para um programa divertido e popular, feito em direto dos estúdios SIC, com a participação de muitos convidados especiais. O programa terá várias rubricas surpreendentes e será uma janela aberta para o mundo português e de expressão portuguesa(n)</desc>
+    <episode-num>S1E25</episode-num>
+  </programme>
+  <programme start="20190511121500 +0100" stop="20190511130000 +0100" channel="SIC">
+    <title lang="pt">Nosso Mundo</title>
+    <desc lang="pt">Hoje: u0027Natureu0027s Great Migrations 3u0027. Conheça melhor o mundo em que vivemos com os extraordinários documentários da National Geographic, Explorer, BBC e muitos outros(n)</desc>
+  </programme>
+  <programme start="20190511130000 +0100" stop="20190511140000 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+  </programme>
+  <programme start="20190511140000 +0100" stop="20190511150000 +0100" channel="SIC">
+    <title lang="pt">Alta Definição</title>
+    <desc lang="pt">Convidado: António Teixeira. Espaço semanal marcado por entrevistas num registo íntimo e que promete algumas surpresas ao longo da emissão. Apresentado por Daniel Oliveira(n)</desc>
+    <episode-num>S1E466</episode-num>
+  </programme>
+  <programme start="20190511150000 +0100" stop="20190511155000 +0100" channel="SIC">
+    <title lang="pt">E-Especial</title>
+    <desc lang="pt">Histórias inéditas, contadas e vividas pelos protagonistas das novelas e séries da SIC. Este magazine cruza a vida real com as histórias de fantasia, desvendando o mundo de sonho das produções da TV Globo e da produção nacional. Apresentado por Sofia Cerveira e Ricardo Pereira(n)</desc>
+    <episode-num>S1E562</episode-num>
+  </programme>
+  <programme start="20190511155000 +0100" stop="20190511181500 +0100" channel="SIC">
+    <title lang="pt">Sabrina</title>
+    <desc lang="pt">O amor é uma coisa engraçada. Em especial quando Harrison Ford, Júlia Ormond e Greg Kinnear formam o triângulo amoroso mais quente e triunfante de todos os tempos(n)</desc>
+  </programme>
+  <programme start="20190511181500 +0100" stop="20190511195700 +0100" channel="SIC">
+    <title lang="pt">Pai Há Só Um</title>
+    <desc lang="pt">Tendo finalmente se acostumado com a existência um do outro, Brad e Dusty agora devem lidar com seus pais intrusos durante as férias(n)</desc>
+  </programme>
+  <programme start="20190511195700 +0100" stop="20190511215500 +0100" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+  </programme>
+  <programme start="20190511215500 +0100" stop="20190511231500 +0100" channel="SIC">
+    <title lang="pt">Alma e Coração - Ep. 200</title>
+    <desc lang="pt">Gonçalo quer fazer uma proposta de 4 milhões de euros a Gustavo para os filhos de Fernando não avançarem com o processo. Júlia acha isso um absurdo e Gonçalo pede-lhe em troca que ela só tem de ir à reunião com os marroquinos e ficará com a dívida saldada(n)</desc>
+  </programme>
+  <programme start="20190511231500 +0100" stop="20190512020000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? (A Semana)</title>
+    <desc lang="pt">u0027Quem Quer Namorar com o Agricultor?u0027, é uma versão do programa britânico u0027The Farmer Wants a Wifeu0027, apresentado por Andreia Rodrigues. u0027Longe do meio urbano, da agitação das grandes cidades, o desafio é encontrar o u0027matchu0027 perfeito para agricultores que procuram a mulher ideal. As várias pretendentes testam a sua adaptação ao campo e à vida na u0027terrau0027, sem perder de vista o objetivo de seduzir o seu futuro namorado(n)</desc>
+    <episode-num>S1E9</episode-num>
+  </programme>
+</tv>
