@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main Translation Project (Frodo)\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: Portuguese (http://www.transifex.com/projects/p/XBMC-Main-Frodo/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#Portuguese
+
+msgctxt "#32001"
+msgid "Error searching for subtitles"
+msgstr "Erro ao procurar legendas"
+
+msgctxt "#32002"
+msgid "Username"
+msgstr "Utilizador"
+
+msgctxt "#32003"
+msgid "Password"
+msgstr "Senha"
+
+msgctxt "#32004"
+msgid "Login Details"
+msgstr "Detalhes de Login"
+
+msgctxt "#32005"
+msgid "Here you can enter with your data"
+msgstr "Aqui pode entrar com seus dados"
+
+msgctxt "#32006"
+msgid "but this is an open version to login."
+msgstr "mas esta e uma versao aberta para login."
