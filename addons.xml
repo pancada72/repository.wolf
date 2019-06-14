@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="legendas.wolf" name="legendas.wolf" provider-name="wolf" version="0.0.2">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension library="service.py" point="xbmc.subtitle.module"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Retrieved from version 5.0.16 OpenSubtitles.</summary>
+	<summary lang="pt">Retirado da versao 5.0.16 OpenSubtitles.</summary>
+    <description lang="en">Search and download subtitles on opensubtitles.org without resistance.</description>
+	<description lang="pt">Pesquise e baixe legendas em opensubtitles.org sem resisto.</description>
+    <disclaimer lang="en"/>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website/>
+    <email/>
+    <source></source>
+  </extension>
+</addon>
+
 <addon id="plugin.program.wolf" name="Wolf Wizard" version="1.0" provider-name="wolf">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -485,26 +505,6 @@
     <platform>all</platform>
     <summary lang="en">Proxy for f4m</summary>
     <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
-  </extension>
-</addon>
-
-<addon id="service.subtitles.wolf" name="service.subtitles.wolf" provider-name="wolf" version="0.0.2">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension library="service.py" point="xbmc.subtitle.module"/>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Retrieved from version 5.0.16 OpenSubtitles.</summary>
-	<summary lang="pt">Retirado da versao 5.0.16 OpenSubtitles.</summary>
-    <description lang="en">Search and download subtitles on opensubtitles.org without resistance.</description>
-	<description lang="pt">Pesquise e baixe legendas em opensubtitles.org sem resisto.</description>
-    <disclaimer lang="en"/>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum></forum>
-    <website/>
-    <email/>
-    <source></source>
   </extension>
 </addon>
 </addons>
