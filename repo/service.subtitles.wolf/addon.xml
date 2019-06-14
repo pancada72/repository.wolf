@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="legendas-wolf" name="legendas-wolf" provider-name="wolf" version="0.0.2">
+<addon id="service.subtitles.wolf" name="service.subtitles.wolf" provider-name="wolf" version="0.0.2">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
