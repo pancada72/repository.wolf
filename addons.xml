@@ -113,6 +113,30 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.plexus-streams"
+       name="Plexus-Streams"
+       version="1.0.18b"
+       provider-name="D4FC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.0.8"/>
+    <import addon="script.module.pytz" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.mechanize" version="0.2.6"/>
+    <import addon="program.plexus" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Plexus wrapper</summary>
+    <description lang="en">P2P-Streams fork that works as a Plexus wrapper</description>
+    <disclaimer lang="en">The authors does not host nor distribute any of the content you may watch using this addon. The authors have no affiliation with any of the content providers. This addon does not track its users.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.selfless" name="[B]Self Less Live[/B]" version="2.6" provider-name="Altruistic / Kodi Ghost">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
@@ -258,6 +282,30 @@
     <summary>BY TEAM MILHANO</summary>
     <description>TEAM MILHANO "WE LEAD THE WAY"
  </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="program.plexus"
+       name="Plexus"
+       version="2.0.0"
+       provider-name="enen92, TV ADDONS">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>executable</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>SopCast and AceStream for Kodi</summary>
+    <description lang="en">Plexus - Any complex structure containing an intricate network of parts. Plexus brings native peer-to-peer support (AceStream and SopCast) for Kodi Entertainment Center for several platforms.[CR][CR]Documentation: (missing)</description>
+    <description lang="pt">Plexus - Uma estrutura complexa constituÃ­da por uma rede de partes. O Plexus adiciona suporte peer-to-peer nativo (AceStream e Sopcast) ao Kodi Entertainment Center para vÃ¡rias plataformas.[CR][CR]DocumentaÃ§Ã£o: (em falta)</description>
+    <disclaimer lang="en">The author does not host nor distribute any of the content you may watch using this addon. The author has no part in the development of any included technologies. When seeking help in Kodi's forum please respect rules (http://kodi.wiki/view/Forum_rules).</disclaimer>
+    <disclaimer lang="pt">Os autores nÃ£o alojam nem distribuem nenhum do conteÃºdo que poderÃ¡ ser reproduzido a partir deste addon. Os autores nÃ£o tÃªm qualquer parte no desenvolvimento de qualquer uma das tecnologias. Se procurar ajuda no fÃ³rum oficial do Kodi por favor respeite as regras do fÃ³rum (http://kodi.wiki/view/Forum_rules).</disclaimer>
+    <forum>http://forums.tvaddons.ag</forum>
     <platform>all</platform>
   </extension>
 </addon>
@@ -431,6 +479,31 @@
   </extension>
 </addon>
 
+<addon id="script.module.metahandler"
+     name="metahandler"
+     version="2.9.1"
+     provider-name="Eldorado">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="script.module.myconnpy" version="1.1.6"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Downloads Artwork for TV shows, Movies and Music videos for addons and stores them in a local SQLITE database</summary>
+    <description lang="en">Queries, stores, and returns metadata for TV shows, Movies and Musicvideos. [CR]Sources:[CR]www.thetvdb.com[CR]www.themoviedb.org[CR]www.imdb.com</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
 <addon id="script.module.slproxy" name="SLProxy" version="0.0.3" provider-name="devilsport">
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
@@ -453,7 +526,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.streamlink.base" name="Streamlink Library" version="2018.10.31" provider-name="Streamlink Devs, Twilight0">
+<addon id="script.module.streamlink.base" name="Streamlink Library" version="2018.02.24" provider-name="Twilight0">
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
     <import addon="script.module.requests" version="2.12.4"/>
@@ -466,13 +539,16 @@
     <description>Streamlink Library for Kodi</description>
     <platform>all</platform>
     <license>Simplified BSD</license>
-    <source>https://github.com/Twilight0/script.module.streamlink.base/</source>
+    <source>https://github.com/streamlink/streamlink</source>
     <language>en</language>
-    <!--<assets>-->
-      <!--<icon>resources/icon.png</icon>-->
-    <!--</assets>-->
-    <news>+ 2018.10.31
-- Rebase to latest upstream commit eab005175d4b76dde3d1becacd718b646384a15e</news>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+    <news>
++ 2018.02.24
+- Fixed segmented module (ignore-names commit)
+- Bumped to commit #3b7dae75d924caa94d5d2e023b85959f0ac8ef39
+    </news>
   </extension>
 </addon>
 
@@ -486,6 +562,23 @@
     <source>https://github.com/Twilight0/script.module.streamlink.crypto</source>
     <platform>all</platform>
     <license>MIT</license>
+  </extension>
+</addon>
+
+<addon id="script.module.streamlink.plugins" name="Streamlink Plugins" version="1.0.3" provider-name="Twilight0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" version="2.12.4"/>
+  </requires>
+  <extension point="xbmc.service"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>Streamlink Plugins</summary>
+    <description>Copy your custom streamlink plugins in this Kodi plugin.</description>
+    <platform>all</platform>
+    <license>GNU GPL, version 2</license>
+    <source>https://github.com/Twilight0/script.module.streamlink.plugins</source>
+    <!--<website></website>-->
+    <!--<language></language>-->
   </extension>
 </addon>
 
@@ -570,6 +663,34 @@
   </extension>
 </addon>
 
+<addon id="service.streamlink.proxy" name="Streamlink Proxy" version="4.1.1" provider-name="Twilight0">
+    <requires>
+        <import addon="xbmc.python" version="2.24.0"/>
+        <import addon="script.module.streamlink.base" version="2017.02.15"/>
+        <import addon="script.module.streamlink.plugins" version="1.0.3"/>
+    </requires>
+    <extension point="xbmc.service" library="resources/lib/service.py" start="login"/>
+    <extension point="xbmc.python.pluginsource" library="options.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en de el</language>
+        <summary>Streamlink Proxy</summary>
+        <description>Streamlink Proxy for Kodi</description>
+        <platform>all</platform>
+        <license>GPLv3</license>
+        <source>https://github.com/Twilight0/service.streamlink.proxy</source>
+        <size>172839</size>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+        <news>+ 4.1.1
+- Added plugins here as dependency, instead of base module
+- Bumped base module dependency to latest</news>
+    </extension>
+</addon>
+
 <addon id="service.subtitles.wolf" name="service.subtitles.wolf" provider-name="wolf" version="0.0.2">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -588,5 +709,19 @@
     <email/>
     <source></source>
   </extension>
+</addon>
+
+<addon id="xbmc.python" version="2.25.0" provider-name="Team Kodi">
+  <backwards-compatibility abi="2.1.0"/>
+  <requires>
+    <import addon="xbmc.core" version="0.1.0"/>
+  </requires>
+  <extension-point id="script" schema="script.xsd"/>
+  <extension-point id="subtitles" schema="script.xsd"/>
+  <extension-point id="lyrics" schema="script.xsd"/>
+  <extension-point id="weather" schema="script.xsd"/>
+  <extension-point id="library" schema="script.xsd"/>
+  <extension-point id="plugin" schema="pluginsource.xsd"/>
+  <extension-point id="context.item" schema="contextitem.xsd"/>
 </addon>
 </addons>
