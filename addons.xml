@@ -15,29 +15,34 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.avezy" name="AvEZY" version="1.4.1" provider-name="Wazzu">
+<addon id="plugin.video.exodusredux" version="2.0.3a" name="Exodus Redux" provider-name="I-A-C">
 	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="program.plexus" />
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.exodusredux" />
+		<import addon="script.exodusredux.artwork" />
+		<import addon="script.exodusredux.metadata" />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.requests" />
+<!--		<import addon="script.module.lambdascrapers" />-->
+		<import addon="script.module.openscrapers" />
+		<import addon="script.module.metahandler" version="1.0.0" />
 	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
+	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
-		<summary>AvEZY</summary>
-		<description>Interfaz para ArenaVision desarrollado por Wazzu</description>
+		<summary lang="en">Exodus Redux</summary>
+		<description lang="en">[B]Exodus Redux[/B][CR] [B]***OpenScrapers Edition***[/B][CR][CR]This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR][CR]The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
 		<platform>all</platform>
-		<license/>
-		<forum/>
-		<website/>
-		<email>egrueda@gmail.com</email>
-		<disclaimer>El autor no aloja ni distribuye cualquier contenido que ud. pudiera reproducir usando este addon. El autor no tiene participacion en el desarrollo de cualquier tecnologia incluida.</disclaimer>
-		<source/>
-	</extension>
-	<extension point="xbmc.addon.repository" name="AvEZY">
-		<info compressed="true">https://raw.githubusercontent.com/egrueda/kodi-repo/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/egrueda/kodi-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/egrueda/kodi-repo/master/zip/</datadir>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+    			<screenshot></screenshot>
+		</assets>
+		<news></news>
 	</extension>
 </addon>
 
@@ -54,6 +59,40 @@
         <description></description>
         <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="plugin.video.numbersbynumbers" version="2.0.2.3" name="[COLOR white][B]NuMb3r5[/B][/COLOR]" provider-name="[COLOR lime][B]NuMb3r5[/B][/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.numbersbynumbers" />
+		<import addon="script.numbersbynumbers.artwork" />
+		<import addon="script.numbersbynumbers.metadata" />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.metahandler" />
+		<import addon="plugin.video.youtube" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="numbersbynumbers.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Movies and TV Shows</summary>
+		<description>Please remember that NuMb3r5 is not an official part of the Kodi media player you are running, and therefore is not to be mentioned within official support channels of Kodi, this addon has nothing to do with the media player itself, nor itâ€™s intended use, it is simply a third party plugin which has been added to your system.</description>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider. Updated and refactored by someone. Originally created by others.</disclaimer>
+		<platform>all</platform>
+		<license></license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/media/screenshot-01.jpg</screenshot>
+			<screenshot>resources/media/screenshot-02.jpg</screenshot>
+			<screenshot>resources/media/screenshot-03.jpg</screenshot>
+		</assets>
+		<news>V2.0.2.3
+- The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</news>
+		<reuselanguageinvoker>false</reuselanguageinvoker>
+	</extension>
 </addon>
 
 <addon id="plugin.video.p2p-streams"
@@ -149,33 +188,188 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.sport365.live" name="Sport365" version="2.6.1" provider-name="Bugatsinho">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.requests" version="2.19.1"/>
-        <import addon="plugin.video.f4mTester" />
-        <import addon="script.module.streamlink.base" />
-        <import addon="script.module.pyxbmct" version="1.2.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Sport365 originally made by GalAnonim</summary>
-    <description lang="en">Fork version 1.0 by GalAnonim!Kindly note that Sport365 Live is not an official part of the media player you are running, and therefore not to be mentioned within official support channels, this addon has nothing to do with the media player itself, nor itâ€™s intended use, it is simply a third party plugin which has been added to your system.</description>
-    <disclaimer lang="en">Sport365 Live does not provide any streams of its own. Stream quality, content and copyright are responsibility of the ad-financed source web site.</disclaimer>
-    <language>en</language>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <website>https://bugatsinho.github.io</website>
-    <twitter>@bugatsinho</twitter>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.png</fanart>
-  </assets>
-  <news>2.6.1 07-06-2019
-- Fix links resolver</news>
-  </extension>
+<addon id="plugin.video.seren" version="1.4.8" name="Seren" provider-name="Nixgates">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.requests" version="2.19.1" />
+		<import addon="script.module.beautifulsoup4" version="4.5.3"/>
+		<import addon="script.module.metahandler" version="1.0.0" />
+		<import addon="plugin.video.youtube" version="6.2.0"/>
+		<import addon="script.module.addon.signals" version="0.0.1"/>
+		<import addon="script.module.dateutil" version="2.7.3"/>
+        <import addon="context.seren" version="1.0.3"/>
+<!--		<import addon="script.module.inputstreamhelper" version="0.3.3"/> #### Not yet big boy ####-->
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="seren.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Seren - This Addon is currently in beta. Please be aware there may be bugs present</summary>
+		<description lang="en">
+		</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<disclaimer lang="en">The author of this addon takes no responsibility for any 3rd party intergration or modification of this software, please ensure your use of this software abides by your local and insterstate laws.</disclaimer>
+		<assets>
+			<icon>ico-fox-gold-final.png</icon>
+			<fanart>fanart-fox-gold-final.png</fanart>
+		</assets>
+		<news>
+Changelog 1.4.8:
+Nonsensical version bump because Kodi (FML)
+
+Changelog 1.4.7:
+Enable Kodi Menu caching on search results
+Increase source info identification
+Fix mislabeled strings in trakt manager
+Adjust premiered meta key to be gathered from trakt information instead of alternative indexer
+Add fallback to account for empty premiered key set to empty string
+
+Changelog 1.4.6:
+Removed duplicate caching from meta provider modules
+Fixed typos
+Additional translation strings added
+Fixed potential deadlocks from occuring in the worker module
+Reduced workers for Trakt Sync operations
+
+Changelog 1.4.5:
+Inceased speed in TMDb module by threading more network requests
+
+Changelog 1.4.4:
+Fixed accidental swap of preferred source of artwork labels
+Duplicated poster value to thumb for show and season objects
+
+Changelog 1.4.3:
+Created Artwork Category in settings
+Adjusted artwork settings visibility to better represent end format
+
+Changelog 1.4.2:
+Adjust Advanced artwork strings
+Fixed Premiumize Max Storage setting visibility
+Changing highlight color now re-opens settings menu
+Adjusted getInfo to support more information tags
+
+Changelog 1.4.1:
+Created worker module and lazy threadpool
+Increased title and information identification for sources
+Added advanced settings for item artwork
+Increased network request caching
+Uninstall in provider manager now works similar to disabling providers
+Threadlocked SQL database entries
+
+Changelog 1.4.0:
+Fixed Provider Manager Default Focus
+Fixed language string spacing for Disable All Hosters
+Fixed Notification timeouts for available updates
+Added multiple fall backs for metadata information to better support outages
+Fixed Premiumize visibility equations
+Settings re-work for better flow
+Added settings to allow user to choose artwork service
+Fix setCast for items, cast items now display images
+Updated last_meta_update for trakt sync database
+
+Changelog 1.3.6:
+Fix skin_dir XML pointer
+
+Changelog 1.3.5:
+Theme Manager now uses pointer to reduce file movements
+Fixed Unicode errors on deaccentString method
+Fixed SkinManager import for Provider Manager
+Fixed type issues with tuples for view types
+
+Changelog 1.3.4:
+Fixed Cache Assist always triggering
+Fixed cache clear notification appearing if user cancels process
+Increased fall backs for TV show artwork
+Fixed series posters being served as thumbnail fallback, changed to fanart
+Removed Caching of Trakt user lists
+Increased text translation
+Added Dutch Translations
+
+Changelog 1.3.3:
+Added check to confirm folder "Default" is included in theme package
+Added new language strings
+
+Changelog 1.3.2:
+Fixed Scrobbling
+
+Changelog 1.3.1:
+Fixed delay when resuming items
+Fixed issues with missing theme variables in tools module
+Lowered RD request timeout
+Improved Seren's ability to detect moment playback has started
+Improved handeling of accented text in Premiumize resolver
+
+Changelog 1.3.0:
+Serens skins renamed to "Themes" to try avoid confusion with Kodi skins
+Fixed issue displaying show seasons where season numbering does not start from 1 eg BBC Horizon
+Added Flatten Seasons setting
+Small improvements to player module
+
+Changelog 1.2.2:
+Fixed search history results not searching
+Fixed issue with providers not displaying names correctly
+Fixed RD Cloud movie sources showing incorrect size meta
+Movies Fanart now acquired using TMDB ID
+Added redundant reset to scrobble status on playback start in player module
+Fixed and confirmed all searching related items
+
+Changelog 1.2.1:
+Fixed providers not refreshing after new dialog raised with Toolbox button in Provider Manager
+Added touch/mouse support for Provider Manager window
+Fixed Kodi crashing on playback from widgets
+Fixed Kodi playback error displaying when played from skin info dialog
+
+Changelog 1.2.0:
+Fixed arguments or Trakt Manager context item
+Fixed playlist not clearing on cancel of source select
+Re-design of provider package management
+
+Changelog 1.1.3:
+Updated hash regex to support uncommon magnets
+Fixed browse show from mixed episode lists
+Language string "32055" change to "Clear Local Torrent Cache"
+Added confirmation at clearing of torrent cache
+Added confirmation at clearing of search history
+Removed multiline source select setting as it is no longer required
+Setting "Hide Low Quality Items" renamed to "Hide Common Undesirable Items"
+Setting "Check for Seren Updates" renamed to "Notify Me About Available Updates"
+Removal of orphaned files
+Restructuring of some folders
+Fixed duplicate removal process removing debrid duplicates
+Clean up of player init method
+
+Changelog 1.1.2:
+Added fallback to hash on failure to extract from magnet in RD resolver
+
+Changelog 1.1.1:
+Added the ability to use custom images for custom window skins
+Added the window property "skin.dir", property contains the file path for the current active skin (similar to special://skin/)
+Moved RD premium check further down in auth process
+Trakt username api call changed to users/me endpoint
+
+Changelog 1.1.0:
+Added the Skin Manager Feature
+Users can now install custom XML window packages
+Users can now uninstall custom XML window packages
+Users can now switch between custom XML window packages
+
+Changelog 1.0.24:
+Fix Automatic Episode Resume
+
+Changelog 1.0.23:
+Fixed disable/enabled of providers
+Clean up some missed logging
+
+Changelog 1.0.22:
+Fixed Background Scraping Display style
+
+		</news>
+	</extension>
 </addon>
 
 <addon
@@ -205,6 +399,94 @@
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="plugin.video.tempest" version="5.0.2" name="Tempest" provider-name="Tempest">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.tempest.artwork" />
+		<import addon="script.tempest.metadata" />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.metahandler" />
+		<import addon="script.module.beautifulsoup4" />
+		<import addon="plugin.video.youtube"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="tempest.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<description lang="en">[I][B]Tempest Movies and TV[/B][/I][CR][CR]This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR][CR]The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>
+			v4.0.95 - Remove Dead Scrapers - Updated scrapers.
+		</news>
+	</extension>
+</addon>
+
+<addon id="plugin.video.venom" version="3.3.1" name="[COLOR red]Venom[/COLOR]" provider-name="Venom">
+
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.requests" version="2.19.1" />
+		<import addon="script.module.beautifulsoup4" version="4.5.3"/>
+		<import addon="script.module.metahandler" version="2.9.0" />
+		<import addon="plugin.video.youtube" version="6.2.0"/>
+		<import addon="script.module.resolveurl" version="5.0.27"/>
+		<import addon="script.module.openscrapers" />
+		<import addon="script.module.addon.signals" version="0.0.1"/>
+	</requires>
+
+	<extension point="xbmc.python.pluginsource" library="venom.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.python.module" library="resources/lib/"/>
+
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[B][COLOR red]Venom[/COLOR][/B] - We do not host any of the contents streamed</summary>
+		<description lang="en">[B]Venom[/B][CR] This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR]The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screenshot01a.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot02a.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot03a.jpg</screenshot>
+		</assets>
+		<news>
+[B][COLOR red]Update - v3.3.1 - Nov. 18, 2019[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed TVDb for new changed xml file names.  Please note TVDb is still not
+    fully fixed on their end. On 11-16-19 I retrieved the
+    xmls to discover many tags inside the files were
+    missing data, or lacked closing tags, so looks like
+    they have more updating to do.  Season posters
+    are not working at this time from them and they're
+    only providing a show poster.[/I]
+[COLOR yellow]--[/COLOR][I] Added setting option to remove "CAM and SD sources".  Note this new
+    option will only take place if better than
+    "CAM and SD" sources exists to avoid nothing
+    returned for links.[/I]
+[COLOR yellow]--[/COLOR][I] Added new setting option to remove "3D sources".[/I]
+COLOR yellow]--[/COLOR][I] Added new setting Category called "Shortcuts".  This now allows you to
+    clear specific cache without backing out of menus
+    and going into Tools. Call up "Venom Settings"
+    and go to "Shortcuts" anywhere.[/I]
+		</news>
+	</extension>
 </addon>
 
 <addon id="plugin.video.WolfTV"
@@ -288,6 +570,74 @@
     </extension>
 </addon>
 
+    <addon id="repository.cdrepo" name="[COLOR deepskyblue]CellarDoorTV [COLOR white]Repo[/COLOR]" version="8.8" provider-name="[COLOR forestgreen][B]C[/COLOR][COLOR gold]D[/COLOR][COLOR ghostwhite]T[/COLOR][COLOR mediumblue]V[/B][/COLOR] [COLOR ghostwhite]Builds[/COLOR]">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="[COLOR forestgreen][B]C[/COLOR][COLOR gold]D[/COLOR][COLOR ghostwhite]T[/COLOR][COLOR mediumblue]V[/B][/COLOR] [COLOR ghostwhite]Repo">
+            <dir>
+				<info compressed="false">https://raw.githubusercontent.com/MrKoyu/repo/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/MrKoyu/repo/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/MrKoyu/repo/master/zips</datadir>
+            <hashes>false</hashes>
+			</dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+            </dir>
+			<dir>
+                <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+		<summary lang="en">CellarDoorTV Repository</summary>
+		<description lang="en">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]CellarDoorTV[/COLOR][CR][COLOR steelblue]CellarDoorTV[/COLOR] [COLOR white]Repo[/COLOR] allows you to install CDTV Wizard Krypton and CDTV Wizard Leia to get access to the latest CDTV Custom Builds and more.</description>
+		<platform>all</platform>
+    <assets>
+        <icon>icon.gif</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+	</extension>
+</addon>
+
+<addon id="repository.exodusredux" name="Exodus Redux Repo" version="0.0.8" provider-name="I-A-C">
+	<extension point="xbmc.addon.repository" name="Exodus Redux Repo">
+	<dir>
+        <info compressed="false">https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/I-A-C/zips/master/</datadir>
+	</dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+    </dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Exodus Redux is a educational add-on. We do not host any of the contents streamed.</summary>
+		<description lang="en"></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.kodi_ghost" name="[COLOR white]Kodi Ghost Repo[/COLOR]" version="1.0" provider-name="Kodi Ghost">
 	<extension point="xbmc.addon.repository" name="KodiGhostRepo">
 	    <dir>
@@ -348,6 +698,54 @@
 		<summary lang="en">kodi addon</summary>
 		<description lang="en">Watch Movies and Tv Shows</description>
 		<genre>movies,tvshows,usa</genre>
+	</extension>
+</addon>
+
+<addon id="repository.venom" name="[B][COLOR red]Venom[/COLOR] Repo[/B]" version="1.6" provider-name="Venom">
+	<extension point="xbmc.addon.repository" name="Venom Repo">
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/123Venom/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/123Venom/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/123Venom/zips/master/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+		</dir>
+
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[B][COLOR red]Venom[/COLOR][/B] We do not host any of the contents streamed</summary>
+		<description lang="en">[B][COLOR red]Venom[/COLOR][/B] - This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news></news>
 	</extension>
 </addon>
 
