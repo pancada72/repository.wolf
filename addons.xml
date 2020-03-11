@@ -519,7 +519,7 @@ COLOR yellow]--[/COLOR][I] Added new setting Category called "Shortcuts".  This 
 
 <addon id="plugin.video.WolfTV"
        name="WolfTV"
-       version="11.0"
+       version="11.1"
        provider-name="WolfTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
