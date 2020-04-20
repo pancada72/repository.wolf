@@ -805,19 +805,6 @@ COLOR yellow]--[/COLOR][I] Added new setting Category called "Shortcuts".  This 
 	</extension>
 </addon>
 
-<addon id="repository.wolf" name="[COLOR green][B].Repository[/B][/COLOR][COLOR white][B].[/B][/COLOR][COLOR red][B]Wolf[/B][/COLOR]" version="0.0.1" provider-name="Wolf">
-	<extension point="xbmc.addon.repository" name="Wolf">
-        <info compressed="false">https://raw.githubusercontent.com/pancada72/repository.wolf/master/addons.xml</info>
-        <checksum>http://raw.githubusercontent.com/pancada72/repository.wolf/master/addons.xml.md5</checksum>
-        <datadir zip="true">http://raw.githubusercontent.com/pancada72/repository.wolf/master/addons/</datadir>
-	</extension>
-		<extension point="xbmc.addon.metadata">
-		<summary>O Wolf</summary>
-		<description>Repository do Wolf</description>
-		<platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="script.module.deceit-worldtv" name="Deceit World Tv" version="1.3" provider-name="Deceit">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
